@@ -1,0 +1,1892 @@
+{"teams": [
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Barcelona"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Atletico Madrid"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "O.Maritima"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "U.D Las Palmas"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "Atletico Madrid"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "O.Maritima"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "U.D Las Palmas"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Atletico Madrid",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Atletico Madrid",
+        "Nombre Equipo Visitante": "O.Maritima"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Atletico Madrid",
+        "Nombre Equipo Visitante": "U.D Las Palmas"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Sevilla",
+        "Nombre Equipo Visitante": "O.Maritima"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Sevilla",
+        "Nombre Equipo Visitante": "U.D Las Palmas"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "O.Maritima",
+        "Nombre Equipo Visitante": "U.D Las Palmas"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Liverpool"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Manchester City"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "I.D Lanzarote"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Huracán"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Manchester City"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "I.D Lanzarote"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Huracán"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "I.D Lanzarote"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "Huracán"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Chelsea",
+        "Nombre Equipo Visitante": "I.D Lanzarote"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Chelsea",
+        "Nombre Equipo Visitante": "Huracán"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Arrecife",
+        "ID_P": "ARR-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "I.D Lanzarote",
+        "Nombre Equipo Visitante": "Huracán"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Sporting CP",
+        "Nombre Equipo Visitante": "Ajax"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Sporting CP",
+        "Nombre Equipo Visitante": "PSV Eindhoven"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Sporting CP",
+        "Nombre Equipo Visitante": "Feyenoord"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Sporting CP",
+        "Nombre Equipo Visitante": "D. CORUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Sporting CP",
+        "Nombre Equipo Visitante": "OSASUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Ajax",
+        "Nombre Equipo Visitante": "PSV Eindhoven"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Ajax",
+        "Nombre Equipo Visitante": "Feyenoord"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Ajax",
+        "Nombre Equipo Visitante": "D. CORUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Ajax",
+        "Nombre Equipo Visitante": "OSASUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "PSV Eindhoven",
+        "Nombre Equipo Visitante": "Feyenoord"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "PSV Eindhoven",
+        "Nombre Equipo Visitante": "D. CORUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "PSV Eindhoven",
+        "Nombre Equipo Visitante": "OSASUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Feyenoord",
+        "Nombre Equipo Visitante": "D. CORUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Feyenoord",
+        "Nombre Equipo Visitante": "OSASUNA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "D. CORUNA",
+        "Nombre Equipo Visitante": "OSASUNA"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "LANZAROTE"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "MARITIMA"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Rangers",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Rangers",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Rangers",
+        "Nombre Equipo Visitante": "LANZAROTE"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Rangers",
+        "Nombre Equipo Visitante": "MARITIMA"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Shakhtar Donetsk",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Shakhtar Donetsk",
+        "Nombre Equipo Visitante": "LANZAROTE"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Shakhtar Donetsk",
+        "Nombre Equipo Visitante": "MARITIMA"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Dynamo Kyiv",
+        "Nombre Equipo Visitante": "LANZAROTE"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Dynamo Kyiv",
+        "Nombre Equipo Visitante": "MARITIMA"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Teguise",
+        "ID_P": "TEG-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "LANZAROTE",
+        "Nombre Equipo Visitante": "MARITIMA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "Juventus"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "Inter Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "Napoli"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Juventus",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Juventus",
+        "Nombre Equipo Visitante": "Inter Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Juventus",
+        "Nombre Equipo Visitante": "Napoli"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Juventus",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "AC Milan",
+        "Nombre Equipo Visitante": "Inter Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "AC Milan",
+        "Nombre Equipo Visitante": "Napoli"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "AC Milan",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "Napoli"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tias",
+        "ID_P": "TIA-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Napoli",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Oporto",
+        "Nombre Equipo Visitante": "Olympique de Marseille"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Oporto",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "Oporto",
+        "Nombre Equipo Visitante": "Monaco"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "Oporto",
+        "Nombre Equipo Visitante": "Benfica"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "Oporto",
+        "Nombre Equipo Visitante": "Sporting Tias"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Olympique de Marseille",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Olympique de Marseille",
+        "Nombre Equipo Visitante": "Monaco"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Olympique de Marseille",
+        "Nombre Equipo Visitante": "Benfica"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Olympique de Marseille",
+        "Nombre Equipo Visitante": "Sporting Tias"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Lyon",
+        "Nombre Equipo Visitante": "Monaco"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Lyon",
+        "Nombre Equipo Visitante": "Benfica"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Lyon",
+        "Nombre Equipo Visitante": "Sporting Tias"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Monaco",
+        "Nombre Equipo Visitante": "Benfica"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Monaco",
+        "Nombre Equipo Visitante": "Sporting Tias"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tias",
+        "ID_P": "TIA-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Benfica",
+        "Nombre Equipo Visitante": "Sporting Tias"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Z. Saint Petersburg",
+        "Nombre Equipo Visitante": "CSKA Moscow"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Z. Saint Petersburg",
+        "Nombre Equipo Visitante": "Galatasaray"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Z. Saint Petersburg",
+        "Nombre Equipo Visitante": "Fenerbahce"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Z. Saint Petersburg",
+        "Nombre Equipo Visitante": "Olympiacos"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Z. Saint Petersburg",
+        "Nombre Equipo Visitante": "Haria C.F"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "CSKA Moscow",
+        "Nombre Equipo Visitante": "Galatasaray"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "CSKA Moscow",
+        "Nombre Equipo Visitante": "Fenerbahce"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "CSKA Moscow",
+        "Nombre Equipo Visitante": "Olympiacos"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "CSKA Moscow",
+        "Nombre Equipo Visitante": "Haria C.F"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "Galatasaray",
+        "Nombre Equipo Visitante": "Fenerbahce"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "Galatasaray",
+        "Nombre Equipo Visitante": "Olympiacos"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "Galatasaray",
+        "Nombre Equipo Visitante": "Haria C.F"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Fenerbahce",
+        "Nombre Equipo Visitante": "Olympiacos"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Fenerbahce",
+        "Nombre Equipo Visitante": "Haria C.F"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Haria",
+        "ID_P": "HAR-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Olympiacos",
+        "Nombre Equipo Visitante": "Haria C.F"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Anderlecht",
+        "Nombre Equipo Visitante": "Club Brugge"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Anderlecht",
+        "Nombre Equipo Visitante": "Real Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Anderlecht",
+        "Nombre Equipo Visitante": "Barcelona"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Anderlecht",
+        "Nombre Equipo Visitante": "Atlético de Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Anderlecht",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Club Brugge",
+        "Nombre Equipo Visitante": "Real Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Club Brugge",
+        "Nombre Equipo Visitante": "Barcelona"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Club Brugge",
+        "Nombre Equipo Visitante": "Atlético de Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Club Brugge",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Barcelona"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Atlético de Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Real Madrid",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "Atlético de Madrid"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Barcelona",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Haria",
+        "ID_P": "HAR-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Atlético de Madrid",
+        "Nombre Equipo Visitante": "Sevilla"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Liverpool"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Manchester City"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Villareal"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Manchester United",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Manchester City"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Villareal"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Liverpool",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "Chelsea"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "Villareal"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Manchester City",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Chelsea",
+        "Nombre Equipo Visitante": "Villareal"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Chelsea",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Villareal",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Borussia Dortmund"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "RB Leipzig"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Bayer Leverkusen"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Juventus"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "RB Leipzig"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "Bayer Leverkusen"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "Juventus"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "RB Leipzig",
+        "Nombre Equipo Visitante": "Bayer Leverkusen"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "RB Leipzig",
+        "Nombre Equipo Visitante": "Juventus"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "RB Leipzig",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "Juventus"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Bayer Leverkusen",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "San Bartolome",
+        "ID_P": "SAN-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Juventus",
+        "Nombre Equipo Visitante": "AC Milan"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "UD. GUADALAJARA",
+        "Nombre Equipo Visitante": "GRANADA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "UD. GUADALAJARA",
+        "Nombre Equipo Visitante": "ALMERIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "UD. GUADALAJARA",
+        "Nombre Equipo Visitante": "SPORTING LISBOA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "UD. GUADALAJARA",
+        "Nombre Equipo Visitante": "HARIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "UD. GUADALAJARA",
+        "Nombre Equipo Visitante": "BRITONG"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "GRANADA",
+        "Nombre Equipo Visitante": "ALMERIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "GRANADA",
+        "Nombre Equipo Visitante": "SPORTING LISBOA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "GRANADA",
+        "Nombre Equipo Visitante": "HARIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "GRANADA",
+        "Nombre Equipo Visitante": "BRITONG"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "ALMERIA",
+        "Nombre Equipo Visitante": "SPORTING LISBOA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "ALMERIA",
+        "Nombre Equipo Visitante": "HARIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "ALMERIA",
+        "Nombre Equipo Visitante": "BRITONG"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "SPORTING LISBOA",
+        "Nombre Equipo Visitante": "HARIA"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "SPORTING LISBOA",
+        "Nombre Equipo Visitante": "BRITONG"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "HARIA",
+        "Nombre Equipo Visitante": "BRITONG"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "Napoli"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "PSG"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "O. de Marseille"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Inter Milan",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Napoli",
+        "Nombre Equipo Visitante": "Roma"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Napoli",
+        "Nombre Equipo Visitante": "PSG"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Napoli",
+        "Nombre Equipo Visitante": "O. de Marseille"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Napoli",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Roma",
+        "Nombre Equipo Visitante": "PSG"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Roma",
+        "Nombre Equipo Visitante": "O. de Marseille"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Roma",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "PSG",
+        "Nombre Equipo Visitante": "O. de Marseille"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "PSG",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Yaiza",
+        "ID_P": "YAI-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "O. de Marseille",
+        "Nombre Equipo Visitante": "Lyon"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-01",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Arsenal",
+        "Nombre Equipo Visitante": "Tottenham"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-02",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Arsenal",
+        "Nombre Equipo Visitante": "Bayern Munich"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-03",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Arsenal",
+        "Nombre Equipo Visitante": "B Dortmund"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-04",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "Arsenal",
+        "Nombre Equipo Visitante": "Celtic"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-05",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "Arsenal",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-06",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Bayern Munich"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-07",
+        "FECHA": 45469,
+        "HORA": "9:47",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "B Dortmund"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-08",
+        "FECHA": 45469,
+        "HORA": "9:48",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Celtic"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-09",
+        "FECHA": 45469,
+        "HORA": "9:49",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-10",
+        "FECHA": 45469,
+        "HORA": "9:50",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "B Dortmund"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-11",
+        "FECHA": 45469,
+        "HORA": "9:51",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Celtic"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-12",
+        "FECHA": 45469,
+        "HORA": "9:30",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-13",
+        "FECHA": 45469,
+        "HORA": "9:31",
+        "Nombre Equipo Local": "B Dortmund",
+        "Nombre Equipo Visitante": "Celtic"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-14",
+        "FECHA": 45469,
+        "HORA": "9:32",
+        "Nombre Equipo Local": "B Dortmund",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Benjamin",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-BEN-15",
+        "FECHA": 45469,
+        "HORA": "9:33",
+        "Nombre Equipo Local": "Celtic",
+        "Nombre Equipo Visitante": "Rangers"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-01",
+        "FECHA": 45469,
+        "HORA": "9:34",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Bayern Munich"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-02",
+        "FECHA": 45469,
+        "HORA": "9:35",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Borussia Dortmund"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-03",
+        "FECHA": 45469,
+        "HORA": "9:36",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "C.D Tinajo"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-04",
+        "FECHA": 45469,
+        "HORA": "9:37",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-05",
+        "FECHA": 45469,
+        "HORA": "9:38",
+        "Nombre Equipo Local": "Tottenham",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-06",
+        "FECHA": 45469,
+        "HORA": "9:39",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Borussia Dortmund"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-07",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "C.D Tinajo"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-08",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-09",
+        "FECHA": 45469,
+        "HORA": "9:40",
+        "Nombre Equipo Local": "Bayern Munich",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-10",
+        "FECHA": 45469,
+        "HORA": "9:41",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "C.D Tinajo"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-11",
+        "FECHA": 45469,
+        "HORA": "9:42",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-12",
+        "FECHA": 45469,
+        "HORA": "9:43",
+        "Nombre Equipo Local": "Borussia Dortmund",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-13",
+        "FECHA": 45469,
+        "HORA": "9:44",
+        "Nombre Equipo Local": "C.D Tinajo",
+        "Nombre Equipo Visitante": "Shakhtar Donetsk"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-14",
+        "FECHA": 45469,
+        "HORA": "9:45",
+        "Nombre Equipo Local": "C.D Tinajo",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    },
+    {
+        "Categoria": "Alevín",
+        "SEDE": "Tinajo",
+        "ID_P": "TIN-ALV-15",
+        "FECHA": 45469,
+        "HORA": "9:46",
+        "Nombre Equipo Local": "Shakhtar Donetsk",
+        "Nombre Equipo Visitante": "Dynamo Kyiv"
+    }
+]}

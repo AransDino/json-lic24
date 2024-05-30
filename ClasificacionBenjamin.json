@@ -1,17 +1,6 @@
 ﻿{"clasificacionBenjamin": [
     {
         "Puesto": "1º",
-        "Equipo": "Real Madrid",
-        "PUNTOS": 15,
-        "G-A FAVOR": 57,
-        "G-ENCONTRA": 24,
-        "DIF-GOLES": 33,
-        "T-AMARILLA": 3,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "2º",
         "Equipo": "D. CORUNA",
         "PUNTOS": 15,
         "G-A FAVOR": 19,
@@ -20,6 +9,17 @@
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Teguise"
+    },
+    {
+        "Puesto": "2º",
+        "Equipo": "O.Maritima",
+        "PUNTOS": 15,
+        "G-A FAVOR": 19,
+        "G-ENCONTRA": 8,
+        "DIF-GOLES": 11,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "3º",
@@ -155,6 +155,17 @@
     },
     {
         "Puesto": "15º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 8,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "16º",
         "Equipo": "UD. GUADALAJARA",
         "PUNTOS": 7,
         "G-A FAVOR": 17,
@@ -165,7 +176,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "16º",
+        "Puesto": "17º",
         "Equipo": "Napoli",
         "PUNTOS": 7,
         "G-A FAVOR": 20,
@@ -176,7 +187,18 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "17º",
+        "Puesto": "18º",
+        "Equipo": "Real Madrid",
+        "PUNTOS": 7,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "19º",
         "Equipo": "Sporting CP",
         "PUNTOS": 7,
         "G-A FAVOR": 10,
@@ -187,7 +209,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "18º",
+        "Puesto": "20º",
         "Equipo": "B Dortmund",
         "PUNTOS": 7,
         "G-A FAVOR": 15,
@@ -198,7 +220,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "19º",
+        "Puesto": "21º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -209,7 +231,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "20º",
+        "Puesto": "22º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -220,18 +242,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "21º",
-        "Equipo": "O.Maritima",
-        "PUNTOS": 7,
-        "G-A FAVOR": 13,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": -7,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "22º",
+        "Puesto": "23º",
         "Equipo": "Z. Saint Petersburg",
         "PUNTOS": 6,
         "G-A FAVOR": 13,
@@ -242,7 +253,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "23º",
+        "Puesto": "24º",
         "Equipo": "Inter Milan",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -253,7 +264,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "24º",
+        "Puesto": "25º",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 15,
@@ -264,7 +275,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "25º",
+        "Puesto": "26º",
         "Equipo": "Bayern Munich",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -275,7 +286,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "26º",
+        "Puesto": "27º",
         "Equipo": "Rangers",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -286,7 +297,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "27º",
+        "Puesto": "28º",
         "Equipo": "ALMERIA",
         "PUNTOS": 6,
         "G-A FAVOR": 10,
@@ -297,7 +308,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "28º",
+        "Puesto": "29º",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 8,
@@ -308,7 +319,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "29º",
+        "Puesto": "30º",
         "Equipo": "Roma",
         "PUNTOS": 6,
         "G-A FAVOR": 9,
@@ -319,29 +330,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "30º",
-        "Equipo": "Atletico Madrid",
-        "PUNTOS": 6,
-        "G-A FAVOR": 17,
-        "G-ENCONTRA": 21,
-        "DIF-GOLES": -4,
-        "T-AMARILLA": 1,
-        "T.ROJA": 4,
-        "Sede": "Arrecife"
-    },
-    {
         "Puesto": "31º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 6,
-        "G-A FAVOR": 22,
-        "G-ENCONTRA": 32,
-        "DIF-GOLES": -10,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "32º",
         "Equipo": "Manchester United",
         "PUNTOS": 5,
         "G-A FAVOR": 10,
@@ -352,7 +341,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "33º",
+        "Puesto": "32º",
         "Equipo": "GRANADA",
         "PUNTOS": 5,
         "G-A FAVOR": 12,
@@ -361,6 +350,17 @@
         "T-AMARILLA": 4,
         "T.ROJA": 5,
         "Sede": "Yaiza"
+    },
+    {
+        "Puesto": "33º",
+        "Equipo": "U.D Las Palmas",
+        "PUNTOS": 5,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 17,
+        "DIF-GOLES": -2,
+        "T-AMARILLA": 1,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "34º",
@@ -375,28 +375,6 @@
     },
     {
         "Puesto": "35º",
-        "Equipo": "U.D Las Palmas",
-        "PUNTOS": 5,
-        "G-A FAVOR": 11,
-        "G-ENCONTRA": 18,
-        "DIF-GOLES": -7,
-        "T-AMARILLA": 1,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "36º",
-        "Equipo": "Sevilla",
-        "PUNTOS": 4,
-        "G-A FAVOR": 12,
-        "G-ENCONTRA": 17,
-        "DIF-GOLES": -5,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "37º",
         "Equipo": "PSV Eindhoven",
         "PUNTOS": 4,
         "G-A FAVOR": 12,
@@ -407,7 +385,18 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "38º",
+        "Puesto": "36º",
+        "Equipo": "Atletico Madrid",
+        "PUNTOS": 4,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 18,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 1,
+        "T.ROJA": 4,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "37º",
         "Equipo": "HARIA",
         "PUNTOS": 4,
         "G-A FAVOR": 12,
@@ -418,7 +407,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "39º",
+        "Puesto": "38º",
         "Equipo": "Galatasaray",
         "PUNTOS": 3,
         "G-A FAVOR": 12,
@@ -427,6 +416,17 @@
         "T-AMARILLA": 4,
         "T.ROJA": 2,
         "Sede": "Haria"
+    },
+    {
+        "Puesto": "39º",
+        "Equipo": "Sevilla",
+        "PUNTOS": 3,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "40º",
