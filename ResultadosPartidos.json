@@ -1,4 +1,4 @@
-{"ResultadosPartidos": [
+Ôªø{"ResultadosPartidos": [
     {
         "ID_P": "ARR-BEN-01",
         "FECHA": "26/06/2024",
@@ -346,7 +346,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -368,7 +368,7 @@
         "Ganador": "Manchester City",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -390,7 +390,7 @@
         "Ganador": "Manchester United",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -412,7 +412,7 @@
         "Ganador": "I.D Lanzarote",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -425,16 +425,16 @@
         "Nombre Equipo Local": "Manchester United",
         "G. Local": 1,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "Hurac·n",
+        "Nombre Equipo Visitante": "Hurac√°n",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "Hurac·n",
+        "Ganador": "Hurac√°n",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -456,7 +456,7 @@
         "Ganador": "Manchester City",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -478,7 +478,7 @@
         "Ganador": "Liverpool",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -500,7 +500,7 @@
         "Ganador": "Liverpool",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -513,16 +513,16 @@
         "Nombre Equipo Local": "Liverpool",
         "G. Local": 0,
         "G Visit": 4,
-        "Nombre Equipo Visitante": "Hurac·n",
+        "Nombre Equipo Visitante": "Hurac√°n",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "Hurac·n",
+        "Ganador": "Hurac√°n",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -544,7 +544,7 @@
         "Ganador": "Manchester City",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -566,7 +566,7 @@
         "Ganador": "I.D Lanzarote",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -579,16 +579,16 @@
         "Nombre Equipo Local": "Manchester City",
         "G. Local": 1,
         "G Visit": 5,
-        "Nombre Equipo Visitante": "Hurac·n",
+        "Nombre Equipo Visitante": "Hurac√°n",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "Hurac·n",
+        "Ganador": "Hurac√°n",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -610,7 +610,7 @@
         "Ganador": "Chelsea",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -623,7 +623,7 @@
         "Nombre Equipo Local": "Chelsea",
         "G. Local": 1,
         "G Visit": 0,
-        "Nombre Equipo Visitante": "Hurac·n",
+        "Nombre Equipo Visitante": "Hurac√°n",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -632,7 +632,7 @@
         "Ganador": "Chelsea",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -645,16 +645,16 @@
         "Nombre Equipo Local": "I.D Lanzarote",
         "G. Local": 0,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "Hurac·n",
+        "Nombre Equipo Visitante": "Hurac√°n",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "Hurac·n",
+        "Ganador": "Hurac√°n",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Arrecife",
         "logolocal": null,
         "logovisitante": null
@@ -1006,7 +1006,7 @@
         "Ganador": "Celtic",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1028,7 +1028,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1050,7 +1050,7 @@
         "Ganador": "Celtic",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1072,7 +1072,7 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1094,7 +1094,7 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1116,7 +1116,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1138,7 +1138,7 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1160,7 +1160,7 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1182,7 +1182,7 @@
         "Ganador": "Rangers",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1204,7 +1204,7 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1226,7 +1226,7 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1248,7 +1248,7 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1270,7 +1270,7 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1292,7 +1292,7 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1314,7 +1314,7 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Teguise",
         "logolocal": null,
         "logovisitante": null
@@ -1666,7 +1666,7 @@
         "Ganador": "Olympique de Marseille",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1688,7 +1688,7 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1710,7 +1710,7 @@
         "Ganador": "Monaco",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1732,7 +1732,7 @@
         "Ganador": "Oporto",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1754,7 +1754,7 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1776,7 +1776,7 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1798,7 +1798,7 @@
         "Ganador": "Olympique de Marseille",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1820,7 +1820,7 @@
         "Ganador": "Olympique de Marseille",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1842,7 +1842,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1864,7 +1864,7 @@
         "Ganador": "Lyon",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1886,7 +1886,7 @@
         "Ganador": "Benfica",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1908,7 +1908,7 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1930,7 +1930,7 @@
         "Ganador": "Benfica",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1952,7 +1952,7 @@
         "Ganador": "Monaco",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -1974,7 +1974,7 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tias",
         "logolocal": null,
         "logovisitante": null
@@ -2326,7 +2326,7 @@
         "Ganador": "Club Brugge",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2348,7 +2348,7 @@
         "Ganador": "Real Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2370,7 +2370,7 @@
         "Ganador": "Anderlecht",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2383,16 +2383,16 @@
         "Nombre Equipo Local": "Anderlecht",
         "G. Local": 2,
         "G Visit": 4,
-        "Nombre Equipo Visitante": "AtlÈtico de Madrid",
+        "Nombre Equipo Visitante": "Atl√©tico de Madrid",
         "Equipo Visitante": "Equipo E",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "AtlÈtico de Madrid",
+        "Ganador": "Atl√©tico de Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2414,7 +2414,7 @@
         "Ganador": "Anderlecht",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2436,7 +2436,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2458,7 +2458,7 @@
         "Ganador": "Club Brugge",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2471,7 +2471,7 @@
         "Nombre Equipo Local": "Club Brugge",
         "G. Local": 3,
         "G Visit": 0,
-        "Nombre Equipo Visitante": "AtlÈtico de Madrid",
+        "Nombre Equipo Visitante": "Atl√©tico de Madrid",
         "Equipo Visitante": "Equipo E",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -2480,7 +2480,7 @@
         "Ganador": "Club Brugge",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2502,7 +2502,7 @@
         "Ganador": "Sevilla",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2524,7 +2524,7 @@
         "Ganador": "Real Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2537,7 +2537,7 @@
         "Nombre Equipo Local": "Real Madrid",
         "G. Local": 5,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "AtlÈtico de Madrid",
+        "Nombre Equipo Visitante": "Atl√©tico de Madrid",
         "Equipo Visitante": "Equipo E",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -2546,7 +2546,7 @@
         "Ganador": "Real Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2568,7 +2568,7 @@
         "Ganador": "Sevilla",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2581,16 +2581,16 @@
         "Nombre Equipo Local": "Barcelona",
         "G. Local": 1,
         "G Visit": 4,
-        "Nombre Equipo Visitante": "AtlÈtico de Madrid",
+        "Nombre Equipo Visitante": "Atl√©tico de Madrid",
         "Equipo Visitante": "Equipo E",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "AtlÈtico de Madrid",
+        "Ganador": "Atl√©tico de Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2612,7 +2612,7 @@
         "Ganador": "Barcelona",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2622,7 +2622,7 @@
         "FECHA": "26/06/2024",
         "HORA": "9:45",
         "Equipo Local": "Equipo E",
-        "Nombre Equipo Local": "AtlÈtico de Madrid",
+        "Nombre Equipo Local": "Atl√©tico de Madrid",
         "G. Local": 1,
         "G Visit": 0,
         "Nombre Equipo Visitante": "Sevilla",
@@ -2631,10 +2631,10 @@
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "AtlÈtico de Madrid",
+        "Ganador": "Atl√©tico de Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Haria",
         "logolocal": null,
         "logovisitante": null
@@ -2986,7 +2986,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3008,7 +3008,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3030,7 +3030,7 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3052,7 +3052,7 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3074,7 +3074,7 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3096,7 +3096,7 @@
         "Ganador": "RB Leipzig",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3118,7 +3118,7 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3140,7 +3140,7 @@
         "Ganador": "Juventus",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3162,7 +3162,7 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3184,7 +3184,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3206,7 +3206,7 @@
         "Ganador": "RB Leipzig",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3228,7 +3228,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3250,7 +3250,7 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3272,7 +3272,7 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3294,7 +3294,7 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "San Bartolome",
         "logolocal": null,
         "logovisitante": null
@@ -3646,7 +3646,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3668,7 +3668,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3690,7 +3690,7 @@
         "Ganador": "Inter Milan",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3712,7 +3712,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3734,7 +3734,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3756,7 +3756,7 @@
         "Ganador": "Roma",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3778,7 +3778,7 @@
         "Ganador": "PSG",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3800,7 +3800,7 @@
         "Ganador": "O. de Marseille",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3822,7 +3822,7 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3844,7 +3844,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3866,7 +3866,7 @@
         "Ganador": "Roma",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3888,7 +3888,7 @@
         "Ganador": "Roma",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3910,7 +3910,7 @@
         "Ganador": "PSG",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3932,7 +3932,7 @@
         "Ganador": "PSG",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -3954,7 +3954,7 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Yaiza",
         "logolocal": null,
         "logovisitante": null
@@ -4306,7 +4306,7 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4328,7 +4328,7 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4350,7 +4350,7 @@
         "Ganador": "Tottenham",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4372,7 +4372,7 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4394,7 +4394,7 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4416,7 +4416,7 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4438,7 +4438,7 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4460,7 +4460,7 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4482,7 +4482,7 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4504,7 +4504,7 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4526,7 +4526,7 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4548,7 +4548,7 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4570,7 +4570,7 @@
         "Ganador": "C.D Tinajo",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4592,7 +4592,7 @@
         "Ganador": "C.D Tinajo",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
@@ -4614,7 +4614,7 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÌn",
+        "Categoria": "Alev√≠n",
         "SEDE": "Tinajo",
         "logolocal": null,
         "logovisitante": null
