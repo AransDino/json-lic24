@@ -12,6 +12,17 @@
     },
     {
         "Puesto": "2º",
+        "Equipo": "Real Madrid",
+        "PUNTOS": 12,
+        "G-A FAVOR": 29,
+        "G-ENCONTRA": 6,
+        "DIF-GOLES": 23,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "3º",
         "Equipo": "CSKA Moscow",
         "PUNTOS": 12,
         "G-A FAVOR": 20,
@@ -20,17 +31,6 @@
         "T-AMARILLA": 3,
         "T.ROJA": 3,
         "Sede": "Haria"
-    },
-    {
-        "Puesto": "3º",
-        "Equipo": "Real Madrid",
-        "PUNTOS": 12,
-        "G-A FAVOR": 14,
-        "G-ENCONTRA": 6,
-        "DIF-GOLES": 8,
-        "T-AMARILLA": 3,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
     },
     {
         "Puesto": "4º",
@@ -221,17 +221,6 @@
     },
     {
         "Puesto": "21º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 7,
-        "G-A FAVOR": 18,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": -2,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "22º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -242,7 +231,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "23º",
+        "Puesto": "22º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -251,6 +240,17 @@
         "T-AMARILLA": 2,
         "T.ROJA": 2,
         "Sede": "Tinajo"
+    },
+    {
+        "Puesto": "23º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 7,
+        "G-A FAVOR": 18,
+        "G-ENCONTRA": 35,
+        "DIF-GOLES": -17,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "24º",
