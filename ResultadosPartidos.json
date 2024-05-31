@@ -1,11 +1,11 @@
-ï»¿{"ResultadosPartidos": [
+{"teams": [
     {
         "ID_P": "ARR-BEN-01",
         "FECHA": "26/06/2024",
         "HORA": "9:30",
         "Equipo Local": "Equipo A",
         "Nombre Equipo Local": "Real Madrid",
-        "G. Local": 2,
+        "G. Local": 8,
         "G Visit": 2,
         "Nombre Equipo Visitante": "Barcelona",
         "Equipo Visitante": "Equipo B",
@@ -13,13 +13,13 @@
         "T.R-LOCAL": 0,
         "T.A-VISIT": 1,
         "T.R-VISIT": 0,
-        "Ganador": "Empate",
-        "P.Local": 1,
-        "P. Visit": 1,
+        "Ganador": "Real Madrid",
+        "P.Local": 3,
+        "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Barcelona,png"
     },
     {
         "ID_P": "ARR-BEN-02",
@@ -27,7 +27,7 @@
         "HORA": "9:31",
         "Equipo Local": "Equipo A",
         "Nombre Equipo Local": "Real Madrid",
-        "G. Local": 4,
+        "G. Local": 6,
         "G Visit": 1,
         "Nombre Equipo Visitante": "Atletico Madrid",
         "Equipo Visitante": "Equipo C",
@@ -40,8 +40,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "ARR-BEN-03",
@@ -49,7 +49,7 @@
         "HORA": "9:32",
         "Equipo Local": "Equipo A",
         "Nombre Equipo Local": "Real Madrid",
-        "G. Local": 3,
+        "G. Local": 9,
         "G Visit": 1,
         "Nombre Equipo Visitante": "Sevilla",
         "Equipo Visitante": "Equipo D",
@@ -62,8 +62,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "ARR-BEN-04",
@@ -71,7 +71,7 @@
         "HORA": "9:33",
         "Equipo Local": "Equipo A",
         "Nombre Equipo Local": "Real Madrid",
-        "G. Local": 1,
+        "G. Local": 15,
         "G Visit": 3,
         "Nombre Equipo Visitante": "O.Maritima",
         "Equipo Visitante": "Equipo E",
@@ -79,13 +79,13 @@
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 1,
-        "Ganador": "O.Maritima",
-        "P.Local": 0,
-        "P. Visit": 3,
+        "Ganador": "Real Madrid",
+        "P.Local": 3,
+        "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "O.Maritima,png"
     },
     {
         "ID_P": "ARR-BEN-05",
@@ -93,21 +93,21 @@
         "HORA": "9:34",
         "Equipo Local": "Equipo A",
         "Nombre Equipo Local": "Real Madrid",
-        "G. Local": 0,
+        "G. Local": 11,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "U.D Las Palmas",
+        "Nombre Equipo Visitante": "Las Palmas",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 1,
         "T.R-LOCAL": 1,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "U.D Las Palmas",
-        "P.Local": 0,
-        "P. Visit": 3,
+        "Ganador": "Real Madrid",
+        "P.Local": 3,
+        "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Las Palmas,png"
     },
     {
         "ID_P": "ARR-BEN-06",
@@ -128,8 +128,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "ARR-BEN-07",
@@ -150,8 +150,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "ARR-BEN-08",
@@ -172,8 +172,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "O.Maritima,png"
     },
     {
         "ID_P": "ARR-BEN-09",
@@ -183,7 +183,7 @@
         "Nombre Equipo Local": "Barcelona",
         "G. Local": 3,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "U.D Las Palmas",
+        "Nombre Equipo Visitante": "Las Palmas",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -194,8 +194,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "Las Palmas,png"
     },
     {
         "ID_P": "ARR-BEN-10",
@@ -216,8 +216,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Atletico Madrid.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "ARR-BEN-11",
@@ -238,8 +238,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Atletico Madrid.png",
+        "logovisitante": "O.Maritima,png"
     },
     {
         "ID_P": "ARR-BEN-12",
@@ -249,7 +249,7 @@
         "Nombre Equipo Local": "Atletico Madrid",
         "G. Local": 5,
         "G Visit": 5,
-        "Nombre Equipo Visitante": "U.D Las Palmas",
+        "Nombre Equipo Visitante": "Las Palmas",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 1,
@@ -260,8 +260,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Atletico Madrid.png",
+        "logovisitante": "Las Palmas,png"
     },
     {
         "ID_P": "ARR-BEN-13",
@@ -282,8 +282,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sevilla.png",
+        "logovisitante": "O.Maritima,png"
     },
     {
         "ID_P": "ARR-BEN-14",
@@ -293,7 +293,7 @@
         "Nombre Equipo Local": "Sevilla",
         "G. Local": 5,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "U.D Las Palmas",
+        "Nombre Equipo Visitante": "Las Palmas",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 1,
@@ -304,8 +304,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sevilla.png",
+        "logovisitante": "Las Palmas,png"
     },
     {
         "ID_P": "ARR-BEN-15",
@@ -315,7 +315,7 @@
         "Nombre Equipo Local": "O.Maritima",
         "G. Local": 4,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "U.D Las Palmas",
+        "Nombre Equipo Visitante": "Las Palmas",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 1,
         "T.R-LOCAL": 1,
@@ -326,8 +326,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "O.Maritima.png",
+        "logovisitante": "Las Palmas,png"
     },
     {
         "ID_P": "ARR-ALV-01",
@@ -346,10 +346,10 @@
         "Ganador": "Manchester United",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Liverpool,png"
     },
     {
         "ID_P": "ARR-ALV-02",
@@ -368,10 +368,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Manchester City,png"
     },
     {
         "ID_P": "ARR-ALV-03",
@@ -390,10 +390,10 @@
         "Ganador": "Manchester United",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "ARR-ALV-04",
@@ -412,10 +412,10 @@
         "Ganador": "U.D Lanzarote",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "U.D Lanzarote,png"
     },
     {
         "ID_P": "ARR-ALV-05",
@@ -425,19 +425,19 @@
         "Nombre Equipo Local": "Manchester United",
         "G. Local": 0,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "HuracÃ¡n",
+        "Nombre Equipo Visitante": "Huracán",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "HuracÃ¡n",
+        "Ganador": "Huracán",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Huracán,png"
     },
     {
         "ID_P": "ARR-ALV-06",
@@ -456,10 +456,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Manchester City,png"
     },
     {
         "ID_P": "ARR-ALV-07",
@@ -478,10 +478,10 @@
         "Ganador": "Chelsea",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "ARR-ALV-08",
@@ -500,10 +500,10 @@
         "Ganador": "U.D Lanzarote",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "U.D Lanzarote,png"
     },
     {
         "ID_P": "ARR-ALV-09",
@@ -513,7 +513,7 @@
         "Nombre Equipo Local": "Liverpool",
         "G. Local": 3,
         "G Visit": 0,
-        "Nombre Equipo Visitante": "HuracÃ¡n",
+        "Nombre Equipo Visitante": "Huracán",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -522,10 +522,10 @@
         "Ganador": "Liverpool",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Huracán,png"
     },
     {
         "ID_P": "ARR-ALV-10",
@@ -544,10 +544,10 @@
         "Ganador": "Manchester City",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "ARR-ALV-11",
@@ -566,10 +566,10 @@
         "Ganador": "Manchester City",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "U.D Lanzarote,png"
     },
     {
         "ID_P": "ARR-ALV-12",
@@ -579,19 +579,19 @@
         "Nombre Equipo Local": "Manchester City",
         "G. Local": 0,
         "G Visit": 4,
-        "Nombre Equipo Visitante": "HuracÃ¡n",
+        "Nombre Equipo Visitante": "Huracán",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "HuracÃ¡n",
+        "Ganador": "Huracán",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "Huracán,png"
     },
     {
         "ID_P": "ARR-ALV-13",
@@ -610,10 +610,10 @@
         "Ganador": "U.D Lanzarote",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Chelsea.png",
+        "logovisitante": "U.D Lanzarote,png"
     },
     {
         "ID_P": "ARR-ALV-14",
@@ -623,19 +623,19 @@
         "Nombre Equipo Local": "Chelsea",
         "G. Local": 3,
         "G Visit": 4,
-        "Nombre Equipo Visitante": "HuracÃ¡n",
+        "Nombre Equipo Visitante": "Huracán",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "HuracÃ¡n",
+        "Ganador": "Huracán",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Chelsea.png",
+        "logovisitante": "Huracán,png"
     },
     {
         "ID_P": "ARR-ALV-15",
@@ -645,19 +645,19 @@
         "Nombre Equipo Local": "U.D Lanzarote",
         "G. Local": 0,
         "G Visit": 1,
-        "Nombre Equipo Visitante": "HuracÃ¡n",
+        "Nombre Equipo Visitante": "Huracán",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "HuracÃ¡n",
+        "Ganador": "Huracán",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Arrecife",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "U.D Lanzarote.png",
+        "logovisitante": "Huracán,png"
     },
     {
         "ID_P": "TEG-BEN-01",
@@ -678,8 +678,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting CP.png",
+        "logovisitante": "Ajax,png"
     },
     {
         "ID_P": "TEG-BEN-02",
@@ -700,8 +700,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting CP.png",
+        "logovisitante": "PSV Eindhoven,png"
     },
     {
         "ID_P": "TEG-BEN-03",
@@ -722,8 +722,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting CP.png",
+        "logovisitante": "Feyenoord,png"
     },
     {
         "ID_P": "TEG-BEN-04",
@@ -744,8 +744,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting CP.png",
+        "logovisitante": "D. CORUNA,png"
     },
     {
         "ID_P": "TEG-BEN-05",
@@ -766,8 +766,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting CP.png",
+        "logovisitante": "OSASUNA,png"
     },
     {
         "ID_P": "TEG-BEN-06",
@@ -788,8 +788,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ajax.png",
+        "logovisitante": "PSV Eindhoven,png"
     },
     {
         "ID_P": "TEG-BEN-07",
@@ -810,8 +810,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ajax.png",
+        "logovisitante": "Feyenoord,png"
     },
     {
         "ID_P": "TEG-BEN-08",
@@ -832,8 +832,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ajax.png",
+        "logovisitante": "D. CORUNA,png"
     },
     {
         "ID_P": "TEG-BEN-09",
@@ -854,8 +854,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ajax.png",
+        "logovisitante": "OSASUNA,png"
     },
     {
         "ID_P": "TEG-BEN-10",
@@ -876,8 +876,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "PSV Eindhoven.png",
+        "logovisitante": "Feyenoord,png"
     },
     {
         "ID_P": "TEG-BEN-11",
@@ -898,8 +898,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "PSV Eindhoven.png",
+        "logovisitante": "D. CORUNA,png"
     },
     {
         "ID_P": "TEG-BEN-12",
@@ -920,8 +920,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "PSV Eindhoven.png",
+        "logovisitante": "OSASUNA,png"
     },
     {
         "ID_P": "TEG-BEN-13",
@@ -942,8 +942,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Feyenoord.png",
+        "logovisitante": "D. CORUNA,png"
     },
     {
         "ID_P": "TEG-BEN-14",
@@ -964,8 +964,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Feyenoord.png",
+        "logovisitante": "OSASUNA,png"
     },
     {
         "ID_P": "TEG-BEN-15",
@@ -986,8 +986,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "D. CORUNA.png",
+        "logovisitante": "OSASUNA,png"
     },
     {
         "ID_P": "TEG-ALV-01",
@@ -1006,10 +1006,10 @@
         "Ganador": "Celtic",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TEG-ALV-02",
@@ -1028,10 +1028,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TEG-ALV-03",
@@ -1050,10 +1050,10 @@
         "Ganador": "Celtic",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TEG-ALV-04",
@@ -1072,10 +1072,10 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "LANZAROTE,png"
     },
     {
         "ID_P": "TEG-ALV-05",
@@ -1094,10 +1094,10 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "MARITIMA,png"
     },
     {
         "ID_P": "TEG-ALV-06",
@@ -1116,10 +1116,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Rangers.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TEG-ALV-07",
@@ -1138,10 +1138,10 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Rangers.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TEG-ALV-08",
@@ -1160,10 +1160,10 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Rangers.png",
+        "logovisitante": "LANZAROTE,png"
     },
     {
         "ID_P": "TEG-ALV-09",
@@ -1182,10 +1182,10 @@
         "Ganador": "Rangers",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Rangers.png",
+        "logovisitante": "MARITIMA,png"
     },
     {
         "ID_P": "TEG-ALV-10",
@@ -1204,10 +1204,10 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Shakhtar Donetsk.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TEG-ALV-11",
@@ -1226,10 +1226,10 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Shakhtar Donetsk.png",
+        "logovisitante": "LANZAROTE,png"
     },
     {
         "ID_P": "TEG-ALV-12",
@@ -1248,10 +1248,10 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Shakhtar Donetsk.png",
+        "logovisitante": "MARITIMA,png"
     },
     {
         "ID_P": "TEG-ALV-13",
@@ -1270,10 +1270,10 @@
         "Ganador": "LANZAROTE",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Dynamo Kyiv.png",
+        "logovisitante": "LANZAROTE,png"
     },
     {
         "ID_P": "TEG-ALV-14",
@@ -1292,10 +1292,10 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Dynamo Kyiv.png",
+        "logovisitante": "MARITIMA,png"
     },
     {
         "ID_P": "TEG-ALV-15",
@@ -1314,10 +1314,10 @@
         "Ganador": "MARITIMA",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Teguise",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "LANZAROTE.png",
+        "logovisitante": "MARITIMA,png"
     },
     {
         "ID_P": "TIA-BEN-01",
@@ -1338,8 +1338,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "Juventus,png"
     },
     {
         "ID_P": "TIA-BEN-02",
@@ -1360,8 +1360,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "TIA-BEN-03",
@@ -1382,8 +1382,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "Inter Milan,png"
     },
     {
         "ID_P": "TIA-BEN-04",
@@ -1404,8 +1404,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "Napoli,png"
     },
     {
         "ID_P": "TIA-BEN-05",
@@ -1426,8 +1426,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "TIA-BEN-06",
@@ -1448,8 +1448,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Juventus.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "TIA-BEN-07",
@@ -1470,8 +1470,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Juventus.png",
+        "logovisitante": "Inter Milan,png"
     },
     {
         "ID_P": "TIA-BEN-08",
@@ -1492,8 +1492,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Juventus.png",
+        "logovisitante": "Napoli,png"
     },
     {
         "ID_P": "TIA-BEN-09",
@@ -1514,8 +1514,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Juventus.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "TIA-BEN-10",
@@ -1536,8 +1536,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "AC Milan.png",
+        "logovisitante": "Inter Milan,png"
     },
     {
         "ID_P": "TIA-BEN-11",
@@ -1558,8 +1558,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "AC Milan.png",
+        "logovisitante": "Napoli,png"
     },
     {
         "ID_P": "TIA-BEN-12",
@@ -1580,8 +1580,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "AC Milan.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "TIA-BEN-13",
@@ -1602,8 +1602,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "Napoli,png"
     },
     {
         "ID_P": "TIA-BEN-14",
@@ -1624,8 +1624,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "TIA-BEN-15",
@@ -1646,8 +1646,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Napoli.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "TIA-ALV-01",
@@ -1666,10 +1666,10 @@
         "Ganador": "Tenerife",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Oporto.png",
+        "logovisitante": "Tenerife,png"
     },
     {
         "ID_P": "TIA-ALV-02",
@@ -1688,10 +1688,10 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Oporto.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "TIA-ALV-03",
@@ -1710,10 +1710,10 @@
         "Ganador": "Monaco",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Oporto.png",
+        "logovisitante": "Monaco,png"
     },
     {
         "ID_P": "TIA-ALV-04",
@@ -1732,10 +1732,10 @@
         "Ganador": "Oporto",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Oporto.png",
+        "logovisitante": "Benfica,png"
     },
     {
         "ID_P": "TIA-ALV-05",
@@ -1754,10 +1754,10 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Oporto.png",
+        "logovisitante": "Sporting Tias,png"
     },
     {
         "ID_P": "TIA-ALV-06",
@@ -1776,10 +1776,10 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tenerife.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "TIA-ALV-07",
@@ -1798,10 +1798,10 @@
         "Ganador": "Tenerife",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tenerife.png",
+        "logovisitante": "Monaco,png"
     },
     {
         "ID_P": "TIA-ALV-08",
@@ -1820,10 +1820,10 @@
         "Ganador": "Tenerife",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tenerife.png",
+        "logovisitante": "Benfica,png"
     },
     {
         "ID_P": "TIA-ALV-09",
@@ -1842,10 +1842,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tenerife.png",
+        "logovisitante": "Sporting Tias,png"
     },
     {
         "ID_P": "TIA-ALV-10",
@@ -1864,10 +1864,10 @@
         "Ganador": "Lyon",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Lyon.png",
+        "logovisitante": "Monaco,png"
     },
     {
         "ID_P": "TIA-ALV-11",
@@ -1886,10 +1886,10 @@
         "Ganador": "Benfica",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Lyon.png",
+        "logovisitante": "Benfica,png"
     },
     {
         "ID_P": "TIA-ALV-12",
@@ -1908,10 +1908,10 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Lyon.png",
+        "logovisitante": "Sporting Tias,png"
     },
     {
         "ID_P": "TIA-ALV-13",
@@ -1930,10 +1930,10 @@
         "Ganador": "Benfica",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Monaco.png",
+        "logovisitante": "Benfica,png"
     },
     {
         "ID_P": "TIA-ALV-14",
@@ -1952,10 +1952,10 @@
         "Ganador": "Monaco",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Monaco.png",
+        "logovisitante": "Sporting Tias,png"
     },
     {
         "ID_P": "TIA-ALV-15",
@@ -1974,10 +1974,10 @@
         "Ganador": "Sporting Tias",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tias",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Benfica.png",
+        "logovisitante": "Sporting Tias,png"
     },
     {
         "ID_P": "HAR-BEN-01",
@@ -1998,8 +1998,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Z. Saint Petersburg.png",
+        "logovisitante": "CSKA Moscow,png"
     },
     {
         "ID_P": "HAR-BEN-02",
@@ -2020,8 +2020,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Z. Saint Petersburg.png",
+        "logovisitante": "Galatasaray,png"
     },
     {
         "ID_P": "HAR-BEN-03",
@@ -2042,8 +2042,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Z. Saint Petersburg.png",
+        "logovisitante": "Fenerbahce,png"
     },
     {
         "ID_P": "HAR-BEN-04",
@@ -2064,8 +2064,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Z. Saint Petersburg.png",
+        "logovisitante": "Olympiacos,png"
     },
     {
         "ID_P": "HAR-BEN-05",
@@ -2086,8 +2086,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Z. Saint Petersburg.png",
+        "logovisitante": "Haria C.F,png"
     },
     {
         "ID_P": "HAR-BEN-06",
@@ -2108,8 +2108,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "CSKA Moscow.png",
+        "logovisitante": "Galatasaray,png"
     },
     {
         "ID_P": "HAR-BEN-07",
@@ -2130,8 +2130,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "CSKA Moscow.png",
+        "logovisitante": "Fenerbahce,png"
     },
     {
         "ID_P": "HAR-BEN-08",
@@ -2152,8 +2152,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "CSKA Moscow.png",
+        "logovisitante": "Olympiacos,png"
     },
     {
         "ID_P": "HAR-BEN-09",
@@ -2174,8 +2174,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "CSKA Moscow.png",
+        "logovisitante": "Haria C.F,png"
     },
     {
         "ID_P": "HAR-BEN-10",
@@ -2196,8 +2196,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Galatasaray.png",
+        "logovisitante": "Fenerbahce,png"
     },
     {
         "ID_P": "HAR-BEN-11",
@@ -2218,8 +2218,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Galatasaray.png",
+        "logovisitante": "Olympiacos,png"
     },
     {
         "ID_P": "HAR-BEN-12",
@@ -2240,8 +2240,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Galatasaray.png",
+        "logovisitante": "Haria C.F,png"
     },
     {
         "ID_P": "HAR-BEN-13",
@@ -2262,8 +2262,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Fenerbahce.png",
+        "logovisitante": "Olympiacos,png"
     },
     {
         "ID_P": "HAR-BEN-14",
@@ -2284,8 +2284,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Fenerbahce.png",
+        "logovisitante": "Haria C.F,png"
     },
     {
         "ID_P": "HAR-BEN-15",
@@ -2306,8 +2306,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Olympiacos.png",
+        "logovisitante": "Haria C.F,png"
     },
     {
         "ID_P": "HAR-ALV-01",
@@ -2326,10 +2326,10 @@
         "Ganador": "Club Brugge",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Haria C.F.png",
+        "logovisitante": "Club Brugge,png"
     },
     {
         "ID_P": "HAR-ALV-02",
@@ -2348,10 +2348,10 @@
         "Ganador": "Real Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Haria C.F.png",
+        "logovisitante": "Real Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-03",
@@ -2370,10 +2370,10 @@
         "Ganador": "Haria C.F",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Haria C.F.png",
+        "logovisitante": "Barcelona,png"
     },
     {
         "ID_P": "HAR-ALV-04",
@@ -2392,10 +2392,10 @@
         "Ganador": "Atletico Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Haria C.F.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-05",
@@ -2414,10 +2414,10 @@
         "Ganador": "Haria C.F",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Haria C.F.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "HAR-ALV-06",
@@ -2436,10 +2436,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Club Brugge.png",
+        "logovisitante": "Real Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-07",
@@ -2458,10 +2458,10 @@
         "Ganador": "Club Brugge",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Club Brugge.png",
+        "logovisitante": "Barcelona,png"
     },
     {
         "ID_P": "HAR-ALV-08",
@@ -2480,10 +2480,10 @@
         "Ganador": "Club Brugge",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Club Brugge.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-09",
@@ -2502,10 +2502,10 @@
         "Ganador": "Sevilla",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Club Brugge.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "HAR-ALV-10",
@@ -2524,10 +2524,10 @@
         "Ganador": "Real Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Barcelona,png"
     },
     {
         "ID_P": "HAR-ALV-11",
@@ -2546,10 +2546,10 @@
         "Ganador": "Real Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-12",
@@ -2568,10 +2568,10 @@
         "Ganador": "Sevilla",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Real Madrid.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "HAR-ALV-13",
@@ -2590,10 +2590,10 @@
         "Ganador": "Atletico Madrid",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "Atletico Madrid,png"
     },
     {
         "ID_P": "HAR-ALV-14",
@@ -2612,10 +2612,10 @@
         "Ganador": "Barcelona",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Barcelona.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "HAR-ALV-15",
@@ -2634,10 +2634,10 @@
         "Ganador": "Atletico Madrid",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Haria",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Atletico Madrid.png",
+        "logovisitante": "Sevilla,png"
     },
     {
         "ID_P": "SAN-BEN-01",
@@ -2658,8 +2658,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Liverpool,png"
     },
     {
         "ID_P": "SAN-BEN-02",
@@ -2680,8 +2680,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Manchester City,png"
     },
     {
         "ID_P": "SAN-BEN-03",
@@ -2702,8 +2702,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "SAN-BEN-04",
@@ -2724,8 +2724,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Villareal,png"
     },
     {
         "ID_P": "SAN-BEN-05",
@@ -2746,8 +2746,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester United.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "SAN-BEN-06",
@@ -2768,8 +2768,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Manchester City,png"
     },
     {
         "ID_P": "SAN-BEN-07",
@@ -2790,8 +2790,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "SAN-BEN-08",
@@ -2812,8 +2812,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Villareal,png"
     },
     {
         "ID_P": "SAN-BEN-09",
@@ -2834,8 +2834,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Liverpool.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "SAN-BEN-10",
@@ -2856,8 +2856,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "Chelsea,png"
     },
     {
         "ID_P": "SAN-BEN-11",
@@ -2878,8 +2878,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "Villareal,png"
     },
     {
         "ID_P": "SAN-BEN-12",
@@ -2900,8 +2900,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Manchester City.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "SAN-BEN-13",
@@ -2922,8 +2922,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Chelsea.png",
+        "logovisitante": "Villareal,png"
     },
     {
         "ID_P": "SAN-BEN-14",
@@ -2944,8 +2944,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Chelsea.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "SAN-BEN-15",
@@ -2966,8 +2966,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Villareal.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "SAN-ALV-01",
@@ -2986,10 +2986,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Borussia Dortmund,png"
     },
     {
         "ID_P": "SAN-ALV-02",
@@ -3008,10 +3008,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "San Bartolome,png"
     },
     {
         "ID_P": "SAN-ALV-03",
@@ -3030,10 +3030,10 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Bayer Leverkusen,png"
     },
     {
         "ID_P": "SAN-ALV-04",
@@ -3052,10 +3052,10 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Juventus,png"
     },
     {
         "ID_P": "SAN-ALV-05",
@@ -3074,10 +3074,10 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "SAN-ALV-06",
@@ -3096,10 +3096,10 @@
         "Ganador": "San Bartolome",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "San Bartolome,png"
     },
     {
         "ID_P": "SAN-ALV-07",
@@ -3118,10 +3118,10 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "Bayer Leverkusen,png"
     },
     {
         "ID_P": "SAN-ALV-08",
@@ -3140,10 +3140,10 @@
         "Ganador": "Juventus",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "Juventus,png"
     },
     {
         "ID_P": "SAN-ALV-09",
@@ -3162,10 +3162,10 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "SAN-ALV-10",
@@ -3184,10 +3184,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "San Bartolome.png",
+        "logovisitante": "Bayer Leverkusen,png"
     },
     {
         "ID_P": "SAN-ALV-11",
@@ -3206,10 +3206,10 @@
         "Ganador": "San Bartolome",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "San Bartolome.png",
+        "logovisitante": "Juventus,png"
     },
     {
         "ID_P": "SAN-ALV-12",
@@ -3228,10 +3228,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "San Bartolome.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "SAN-ALV-13",
@@ -3250,10 +3250,10 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "Juventus,png"
     },
     {
         "ID_P": "SAN-ALV-14",
@@ -3272,10 +3272,10 @@
         "Ganador": "Bayer Leverkusen",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayer Leverkusen.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "SAN-ALV-15",
@@ -3294,10 +3294,10 @@
         "Ganador": "AC Milan",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "San Bartolome",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Juventus.png",
+        "logovisitante": "AC Milan,png"
     },
     {
         "ID_P": "YAI-BEN-01",
@@ -3318,8 +3318,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ud. Guadalajara.png",
+        "logovisitante": "Granada,png"
     },
     {
         "ID_P": "YAI-BEN-02",
@@ -3340,8 +3340,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ud. Guadalajara.png",
+        "logovisitante": "Almeria,png"
     },
     {
         "ID_P": "YAI-BEN-03",
@@ -3362,8 +3362,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ud. Guadalajara.png",
+        "logovisitante": "Sporting lisboa,png"
     },
     {
         "ID_P": "YAI-BEN-04",
@@ -3384,8 +3384,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ud. Guadalajara.png",
+        "logovisitante": "Yaiza,png"
     },
     {
         "ID_P": "YAI-BEN-05",
@@ -3406,8 +3406,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Ud. Guadalajara.png",
+        "logovisitante": "Britong,png"
     },
     {
         "ID_P": "YAI-BEN-06",
@@ -3428,8 +3428,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Granada.png",
+        "logovisitante": "Almeria,png"
     },
     {
         "ID_P": "YAI-BEN-07",
@@ -3450,8 +3450,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Granada.png",
+        "logovisitante": "Sporting lisboa,png"
     },
     {
         "ID_P": "YAI-BEN-08",
@@ -3472,8 +3472,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Granada.png",
+        "logovisitante": "Yaiza,png"
     },
     {
         "ID_P": "YAI-BEN-09",
@@ -3494,8 +3494,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Granada.png",
+        "logovisitante": "Britong,png"
     },
     {
         "ID_P": "YAI-BEN-10",
@@ -3516,8 +3516,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Almeria.png",
+        "logovisitante": "Sporting lisboa,png"
     },
     {
         "ID_P": "YAI-BEN-11",
@@ -3538,8 +3538,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Almeria.png",
+        "logovisitante": "Yaiza,png"
     },
     {
         "ID_P": "YAI-BEN-12",
@@ -3560,8 +3560,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Almeria.png",
+        "logovisitante": "Britong,png"
     },
     {
         "ID_P": "YAI-BEN-13",
@@ -3582,8 +3582,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting lisboa.png",
+        "logovisitante": "Yaiza,png"
     },
     {
         "ID_P": "YAI-BEN-14",
@@ -3604,8 +3604,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Sporting lisboa.png",
+        "logovisitante": "Britong,png"
     },
     {
         "ID_P": "YAI-BEN-15",
@@ -3626,8 +3626,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Yaiza.png",
+        "logovisitante": "Britong,png"
     },
     {
         "ID_P": "YAI-ALV-01",
@@ -3646,10 +3646,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "Napoli,png"
     },
     {
         "ID_P": "YAI-ALV-02",
@@ -3668,10 +3668,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "YAI-ALV-03",
@@ -3690,10 +3690,10 @@
         "Ganador": "Inter Milan",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "PSG,png"
     },
     {
         "ID_P": "YAI-ALV-04",
@@ -3712,10 +3712,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "O. de Marseille,png"
     },
     {
         "ID_P": "YAI-ALV-05",
@@ -3734,10 +3734,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Inter Milan.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "YAI-ALV-06",
@@ -3756,10 +3756,10 @@
         "Ganador": "Roma",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Napoli.png",
+        "logovisitante": "Roma,png"
     },
     {
         "ID_P": "YAI-ALV-07",
@@ -3778,10 +3778,10 @@
         "Ganador": "PSG",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Napoli.png",
+        "logovisitante": "PSG,png"
     },
     {
         "ID_P": "YAI-ALV-08",
@@ -3800,10 +3800,10 @@
         "Ganador": "O. de Marseille",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Napoli.png",
+        "logovisitante": "O. de Marseille,png"
     },
     {
         "ID_P": "YAI-ALV-09",
@@ -3822,10 +3822,10 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Napoli.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "YAI-ALV-10",
@@ -3844,10 +3844,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Roma.png",
+        "logovisitante": "PSG,png"
     },
     {
         "ID_P": "YAI-ALV-11",
@@ -3866,10 +3866,10 @@
         "Ganador": "Roma",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Roma.png",
+        "logovisitante": "O. de Marseille,png"
     },
     {
         "ID_P": "YAI-ALV-12",
@@ -3888,10 +3888,10 @@
         "Ganador": "Roma",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Roma.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "YAI-ALV-13",
@@ -3910,10 +3910,10 @@
         "Ganador": "PSG",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "PSG.png",
+        "logovisitante": "O. de Marseille,png"
     },
     {
         "ID_P": "YAI-ALV-14",
@@ -3932,10 +3932,10 @@
         "Ganador": "PSG",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "PSG.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "YAI-ALV-15",
@@ -3954,10 +3954,10 @@
         "Ganador": "Lyon",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Yaiza",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "O. de Marseille.png",
+        "logovisitante": "Lyon,png"
     },
     {
         "ID_P": "TIN-BEN-01",
@@ -3978,8 +3978,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Arsenal.png",
+        "logovisitante": "Tottenham,png"
     },
     {
         "ID_P": "TIN-BEN-02",
@@ -4000,8 +4000,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Arsenal.png",
+        "logovisitante": "Bayern Munich,png"
     },
     {
         "ID_P": "TIN-BEN-03",
@@ -4022,8 +4022,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Arsenal.png",
+        "logovisitante": "B Dortmund,png"
     },
     {
         "ID_P": "TIN-BEN-04",
@@ -4044,8 +4044,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Arsenal.png",
+        "logovisitante": "Celtic,png"
     },
     {
         "ID_P": "TIN-BEN-05",
@@ -4066,8 +4066,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Arsenal.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TIN-BEN-06",
@@ -4088,8 +4088,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Bayern Munich,png"
     },
     {
         "ID_P": "TIN-BEN-07",
@@ -4110,8 +4110,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "B Dortmund,png"
     },
     {
         "ID_P": "TIN-BEN-08",
@@ -4132,8 +4132,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Celtic,png"
     },
     {
         "ID_P": "TIN-BEN-09",
@@ -4154,8 +4154,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TIN-BEN-10",
@@ -4176,8 +4176,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "B Dortmund,png"
     },
     {
         "ID_P": "TIN-BEN-11",
@@ -4198,8 +4198,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Celtic,png"
     },
     {
         "ID_P": "TIN-BEN-12",
@@ -4220,8 +4220,8 @@
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TIN-BEN-13",
@@ -4242,8 +4242,8 @@
         "P. Visit": 0,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "B Dortmund.png",
+        "logovisitante": "Celtic,png"
     },
     {
         "ID_P": "TIN-BEN-14",
@@ -4264,8 +4264,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "B Dortmund.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TIN-BEN-15",
@@ -4286,8 +4286,8 @@
         "P. Visit": 1,
         "Categoria": "Benjamin",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Celtic.png",
+        "logovisitante": "Rangers,png"
     },
     {
         "ID_P": "TIN-ALV-01",
@@ -4306,10 +4306,10 @@
         "Ganador": "Empate",
         "P.Local": 1,
         "P. Visit": 1,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Bayern Munich,png"
     },
     {
         "ID_P": "TIN-ALV-02",
@@ -4328,10 +4328,10 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Borussia Dortmund,png"
     },
     {
         "ID_P": "TIN-ALV-03",
@@ -4350,10 +4350,10 @@
         "Ganador": "Tottenham",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "C.D Tinajo,png"
     },
     {
         "ID_P": "TIN-ALV-04",
@@ -4372,10 +4372,10 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TIN-ALV-05",
@@ -4394,10 +4394,10 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Tottenham.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TIN-ALV-06",
@@ -4416,10 +4416,10 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Borussia Dortmund,png"
     },
     {
         "ID_P": "TIN-ALV-07",
@@ -4438,10 +4438,10 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "C.D Tinajo,png"
     },
     {
         "ID_P": "TIN-ALV-08",
@@ -4460,10 +4460,10 @@
         "Ganador": "Bayern Munich",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TIN-ALV-09",
@@ -4482,10 +4482,10 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Bayern Munich.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TIN-ALV-10",
@@ -4504,10 +4504,10 @@
         "Ganador": "Borussia Dortmund",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "C.D Tinajo,png"
     },
     {
         "ID_P": "TIN-ALV-11",
@@ -4526,10 +4526,10 @@
         "Ganador": "Shakhtar Donetsk",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TIN-ALV-12",
@@ -4548,10 +4548,10 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Borussia Dortmund.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TIN-ALV-13",
@@ -4570,10 +4570,10 @@
         "Ganador": "C.D Tinajo",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "C.D Tinajo.png",
+        "logovisitante": "Shakhtar Donetsk,png"
     },
     {
         "ID_P": "TIN-ALV-14",
@@ -4592,10 +4592,10 @@
         "Ganador": "C.D Tinajo",
         "P.Local": 3,
         "P. Visit": 0,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "C.D Tinajo.png",
+        "logovisitante": "Dynamo Kyiv,png"
     },
     {
         "ID_P": "TIN-ALV-15",
@@ -4614,9 +4614,9 @@
         "Ganador": "Dynamo Kyiv",
         "P.Local": 0,
         "P. Visit": 3,
-        "Categoria": "AlevÃ­n",
+        "Categoria": "Alevín",
         "SEDE": "Tinajo",
-        "logolocal": null,
-        "logovisitante": null
+        "logolocal": "Shakhtar Donetsk.png",
+        "logovisitante": "Dynamo Kyiv,png"
     }
 ]}

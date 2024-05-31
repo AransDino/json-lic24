@@ -1,6 +1,17 @@
-﻿{"clasificacionBenjamin": [
+{"teams": [
     {
-        "Puesto": "1º",
+        "Puesto": "1�",
+        "Equipo": "Real Madrid",
+        "PUNTOS": 15,
+        "G-A FAVOR": 49,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 40,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "2�",
         "Equipo": "D. CORUNA",
         "PUNTOS": 15,
         "G-A FAVOR": 19,
@@ -11,18 +22,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "2º",
-        "Equipo": "O.Maritima",
-        "PUNTOS": 15,
-        "G-A FAVOR": 19,
-        "G-ENCONTRA": 8,
-        "DIF-GOLES": 11,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "3º",
+        "Puesto": "3�",
         "Equipo": "CSKA Moscow",
         "PUNTOS": 12,
         "G-A FAVOR": 20,
@@ -33,7 +33,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "4º",
+        "Puesto": "4�",
         "Equipo": "Fenerbahce",
         "PUNTOS": 12,
         "G-A FAVOR": 14,
@@ -44,7 +44,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "5º",
+        "Puesto": "5�",
         "Equipo": "Villareal",
         "PUNTOS": 12,
         "G-A FAVOR": 13,
@@ -55,7 +55,18 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "6º",
+        "Puesto": "6�",
+        "Equipo": "O.Maritima",
+        "PUNTOS": 12,
+        "G-A FAVOR": 19,
+        "G-ENCONTRA": 22,
+        "DIF-GOLES": -3,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "7�",
         "Equipo": "Britong",
         "PUNTOS": 11,
         "G-A FAVOR": 17,
@@ -66,7 +77,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "7º",
+        "Puesto": "8�",
         "Equipo": "Celtic",
         "PUNTOS": 10,
         "G-A FAVOR": 15,
@@ -77,7 +88,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "8º",
+        "Puesto": "9�",
         "Equipo": "Bayer Leverkusen",
         "PUNTOS": 9,
         "G-A FAVOR": 20,
@@ -88,7 +99,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "9º",
+        "Puesto": "10�",
         "Equipo": "Manchester City",
         "PUNTOS": 9,
         "G-A FAVOR": 12,
@@ -99,7 +110,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "10º",
+        "Puesto": "11�",
         "Equipo": "Olympiacos",
         "PUNTOS": 9,
         "G-A FAVOR": 12,
@@ -110,7 +121,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "11º",
+        "Puesto": "12�",
         "Equipo": "Sporting lisboa",
         "PUNTOS": 9,
         "G-A FAVOR": 10,
@@ -121,7 +132,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "12º",
+        "Puesto": "13�",
         "Equipo": "AC Milan",
         "PUNTOS": 9,
         "G-A FAVOR": 10,
@@ -132,7 +143,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "13º",
+        "Puesto": "14�",
         "Equipo": "Chelsea",
         "PUNTOS": 8,
         "G-A FAVOR": 16,
@@ -143,7 +154,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "14º",
+        "Puesto": "15�",
         "Equipo": "Ajax",
         "PUNTOS": 8,
         "G-A FAVOR": 15,
@@ -154,18 +165,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "15º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 8,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 13,
-        "DIF-GOLES": 2,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "16º",
+        "Puesto": "16�",
         "Equipo": "Ud. Guadalajara",
         "PUNTOS": 7,
         "G-A FAVOR": 17,
@@ -176,7 +176,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "17º",
+        "Puesto": "17�",
         "Equipo": "Napoli",
         "PUNTOS": 7,
         "G-A FAVOR": 20,
@@ -187,18 +187,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "18º",
-        "Equipo": "Real Madrid",
-        "PUNTOS": 7,
-        "G-A FAVOR": 10,
-        "G-ENCONTRA": 9,
-        "DIF-GOLES": 1,
-        "T-AMARILLA": 3,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "19º",
+        "Puesto": "18�",
         "Equipo": "Sporting CP",
         "PUNTOS": 7,
         "G-A FAVOR": 10,
@@ -209,7 +198,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "20º",
+        "Puesto": "19�",
         "Equipo": "B Dortmund",
         "PUNTOS": 7,
         "G-A FAVOR": 15,
@@ -220,7 +209,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "21º",
+        "Puesto": "20�",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -231,7 +220,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "22º",
+        "Puesto": "21�",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -242,7 +231,18 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "23º",
+        "Puesto": "22�",
+        "Equipo": "Barcelona",
+        "PUNTOS": 7,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 19,
+        "DIF-GOLES": -4,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "23�",
         "Equipo": "Z. Saint Petersburg",
         "PUNTOS": 6,
         "G-A FAVOR": 13,
@@ -253,7 +253,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "24º",
+        "Puesto": "24�",
         "Equipo": "Inter Milan",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -264,7 +264,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "25º",
+        "Puesto": "25�",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 15,
@@ -275,7 +275,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "26º",
+        "Puesto": "26�",
         "Equipo": "Bayern Munich",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -286,7 +286,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "27º",
+        "Puesto": "27�",
         "Equipo": "Rangers",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -297,7 +297,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "28º",
+        "Puesto": "28�",
         "Equipo": "Almeria",
         "PUNTOS": 6,
         "G-A FAVOR": 10,
@@ -308,7 +308,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "29º",
+        "Puesto": "29�",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 8,
@@ -319,7 +319,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "30º",
+        "Puesto": "30�",
         "Equipo": "Roma",
         "PUNTOS": 6,
         "G-A FAVOR": 9,
@@ -330,7 +330,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "31º",
+        "Puesto": "31�",
         "Equipo": "Manchester United",
         "PUNTOS": 5,
         "G-A FAVOR": 10,
@@ -341,7 +341,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "32º",
+        "Puesto": "32�",
         "Equipo": "Granada",
         "PUNTOS": 5,
         "G-A FAVOR": 12,
@@ -352,18 +352,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "33º",
-        "Equipo": "U.D Las Palmas",
-        "PUNTOS": 5,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 17,
-        "DIF-GOLES": -2,
-        "T-AMARILLA": 1,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "34º",
+        "Puesto": "33�",
         "Equipo": "OSASUNA",
         "PUNTOS": 5,
         "G-A FAVOR": 15,
@@ -374,7 +363,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "35º",
+        "Puesto": "34�",
         "Equipo": "PSV Eindhoven",
         "PUNTOS": 4,
         "G-A FAVOR": 12,
@@ -385,18 +374,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "36º",
-        "Equipo": "Atletico Madrid",
-        "PUNTOS": 4,
-        "G-A FAVOR": 12,
-        "G-ENCONTRA": 18,
-        "DIF-GOLES": -6,
-        "T-AMARILLA": 1,
-        "T.ROJA": 4,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "37º",
+        "Puesto": "35�",
         "Equipo": "Yaiza",
         "PUNTOS": 4,
         "G-A FAVOR": 12,
@@ -407,7 +385,18 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "38º",
+        "Puesto": "36�",
+        "Equipo": "Atletico Madrid",
+        "PUNTOS": 4,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 20,
+        "DIF-GOLES": -8,
+        "T-AMARILLA": 1,
+        "T.ROJA": 4,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "37�",
         "Equipo": "Galatasaray",
         "PUNTOS": 3,
         "G-A FAVOR": 12,
@@ -418,18 +407,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "39º",
-        "Equipo": "Sevilla",
-        "PUNTOS": 3,
-        "G-A FAVOR": 8,
-        "G-ENCONTRA": 14,
-        "DIF-GOLES": -6,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "40º",
+        "Puesto": "38�",
         "Equipo": "Feyenoord",
         "PUNTOS": 3,
         "G-A FAVOR": 8,
@@ -440,7 +418,18 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "41º",
+        "Puesto": "39�",
+        "Equipo": "Sevilla",
+        "PUNTOS": 3,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 20,
+        "DIF-GOLES": -12,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "40�",
         "Equipo": "Haria C.F",
         "PUNTOS": 3,
         "G-A FAVOR": 3,
@@ -451,7 +440,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "42º",
+        "Puesto": "41�",
         "Equipo": "Liverpool",
         "PUNTOS": 2,
         "G-A FAVOR": 8,
@@ -462,465 +451,14 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "1º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "2º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "3º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "4º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "5º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "6º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "7º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "8º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "9º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "10º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "11º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "12º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "13º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "14º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "15º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "16º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "17º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "18º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "19º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "20º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "21º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "22º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "23º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "24º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "25º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "26º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "27º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "28º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "29º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "30º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "31º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "32º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "33º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "34º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "35º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "36º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "37º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "38º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "39º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "40º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "41º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
-    },
-    {
-        "Puesto": "42º",
-        "Equipo": null,
-        "PUNTOS": null,
-        "G-A FAVOR": null,
-        "G-ENCONTRA": null,
-        "DIF-GOLES": null,
-        "T-AMARILLA": null,
-        "T.ROJA": null,
-        "Sede": null
+        "Puesto": "42�",
+        "Equipo": "Las Palmas",
+        "PUNTOS": 2,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 28,
+        "DIF-GOLES": -13,
+        "T-AMARILLA": 1,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
     }
 ]}
