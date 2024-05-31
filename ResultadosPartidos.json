@@ -755,19 +755,19 @@
         "Nombre Equipo Local": "Sporting CP",
         "G. Local": 0,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "OSASUNA",
+        "Nombre Equipo Visitante": "Osasuna",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
         "T.A-VISIT": 0,
         "T.R-VISIT": 0,
-        "Ganador": "OSASUNA",
+        "Ganador": "Osasuna",
         "P.Local": 0,
         "P. Visit": 3,
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
         "logolocal": "Sporting CP.png",
-        "logovisitante": "OSASUNA,png"
+        "logovisitante": "Osasuna,png"
     },
     {
         "ID_P": "TEG-BEN-06",
@@ -843,7 +843,7 @@
         "Nombre Equipo Local": "Ajax",
         "G. Local": 3,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "OSASUNA",
+        "Nombre Equipo Visitante": "Osasuna",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -855,7 +855,7 @@
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
         "logolocal": "Ajax.png",
-        "logovisitante": "OSASUNA,png"
+        "logovisitante": "Osasuna,png"
     },
     {
         "ID_P": "TEG-BEN-10",
@@ -909,7 +909,7 @@
         "Nombre Equipo Local": "PSV Eindhoven",
         "G. Local": 5,
         "G Visit": 5,
-        "Nombre Equipo Visitante": "OSASUNA",
+        "Nombre Equipo Visitante": "Osasuna",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 1,
         "T.R-LOCAL": 0,
@@ -921,7 +921,7 @@
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
         "logolocal": "PSV Eindhoven.png",
-        "logovisitante": "OSASUNA,png"
+        "logovisitante": "Osasuna,png"
     },
     {
         "ID_P": "TEG-BEN-13",
@@ -953,7 +953,7 @@
         "Nombre Equipo Local": "Feyenoord",
         "G. Local": 5,
         "G Visit": 2,
-        "Nombre Equipo Visitante": "OSASUNA",
+        "Nombre Equipo Visitante": "Osasuna",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 1,
         "T.R-LOCAL": 0,
@@ -965,7 +965,7 @@
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
         "logolocal": "Feyenoord.png",
-        "logovisitante": "OSASUNA,png"
+        "logovisitante": "Osasuna,png"
     },
     {
         "ID_P": "TEG-BEN-15",
@@ -975,7 +975,7 @@
         "Nombre Equipo Local": "D. CORUNA",
         "G. Local": 4,
         "G Visit": 3,
-        "Nombre Equipo Visitante": "OSASUNA",
+        "Nombre Equipo Visitante": "Osasuna",
         "Equipo Visitante": "Equipo F",
         "T.A-LOCAL": 0,
         "T.R-LOCAL": 0,
@@ -987,7 +987,7 @@
         "Categoria": "Benjamin",
         "SEDE": "Teguise",
         "logolocal": "D. CORUNA.png",
-        "logovisitante": "OSASUNA,png"
+        "logovisitante": "Osasuna,png"
     },
     {
         "ID_P": "TEG-ALV-01",
