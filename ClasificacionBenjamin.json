@@ -3,9 +3,9 @@
         "Puesto": "1º",
         "Equipo": "Real Madrid",
         "PUNTOS": 15,
-        "G-A FAVOR": 49,
-        "G-ENCONTRA": 9,
-        "DIF-GOLES": 40,
+        "G-A FAVOR": 91,
+        "G-ENCONTRA": 29,
+        "DIF-GOLES": 62,
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Arrecife"
@@ -210,6 +210,17 @@
     },
     {
         "Puesto": "20º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 7,
+        "G-A FAVOR": 23,
+        "G-ENCONTRA": 26,
+        "DIF-GOLES": -3,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "21º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -220,7 +231,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "21º",
+        "Puesto": "22º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -229,17 +240,6 @@
         "T-AMARILLA": 2,
         "T.ROJA": 2,
         "Sede": "Tinajo"
-    },
-    {
-        "Puesto": "22º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 7,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 19,
-        "DIF-GOLES": -4,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
     },
     {
         "Puesto": "23º",
@@ -388,9 +388,9 @@
         "Puesto": "36º",
         "Equipo": "Atletico Madrid",
         "PUNTOS": 4,
-        "G-A FAVOR": 12,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": -8,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 37,
+        "DIF-GOLES": -22,
         "T-AMARILLA": 1,
         "T.ROJA": 4,
         "Sede": "Arrecife"
@@ -419,17 +419,6 @@
     },
     {
         "Puesto": "39º",
-        "Equipo": "Sevilla",
-        "PUNTOS": 3,
-        "G-A FAVOR": 8,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": -12,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "40º",
         "Equipo": "Haria C.F",
         "PUNTOS": 3,
         "G-A FAVOR": 3,
@@ -438,6 +427,17 @@
         "T-AMARILLA": 2,
         "T.ROJA": 3,
         "Sede": "Haria"
+    },
+    {
+        "Puesto": "40º",
+        "Equipo": "Sevilla",
+        "PUNTOS": 3,
+        "G-A FAVOR": 17,
+        "G-ENCONTRA": 38,
+        "DIF-GOLES": -21,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "41º",
