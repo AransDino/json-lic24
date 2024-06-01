@@ -1,4 +1,4 @@
-Ôªø{"teamss": [
+{"teams": [
     {
         "EQUIPOS": "Real Madrid",
         "CATEGORIA": "Benjamin",
@@ -30,10 +30,10 @@
         "logo": "O.Maritima.pmg"
     },
     {
-        "EQUIPOS": "U.D Las Palmas",
+        "EQUIPOS": "Las Palmas",
         "CATEGORIA": "Benjamin",
         "SEDE": "ARRECIFE",
-        "logo": "U.D Las Palmas.pmg"
+        "logo": "Las Palmas.pmg"
     },
     {
         "EQUIPOS": "Manchester United",
@@ -66,10 +66,10 @@
         "logo": "U.D Lanzarote.pmg"
     },
     {
-        "EQUIPOS": "Hurac√°n",
+        "EQUIPOS": "Hurac·n",
         "CATEGORIA": "Alevin",
         "SEDE": "ARRECIFE",
-        "logo": "Hurac√°n.pmg"
+        "logo": "Hurac·n.pmg"
     },
     {
         "EQUIPOS": "Sporting CP",
@@ -102,10 +102,10 @@
         "logo": "D. CORUNA.pmg"
     },
     {
-        "EQUIPOS": "OSASUNA",
+        "EQUIPOS": "Osasuna",
         "CATEGORIA": "Benjamin",
         "SEDE": "TEGUISE",
-        "logo": "OSASUNA.pmg"
+        "logo": "Osasuna.pmg"
     },
     {
         "EQUIPOS": "Celtic",
@@ -186,10 +186,10 @@
         "logo": "Oporto.pmg"
     },
     {
-        "EQUIPOS": "Error 2023",
+        "EQUIPOS": "Tenerife",
         "CATEGORIA": "Alevin",
         "SEDE": "TIAS",
-        "logo": "Error 2023"
+        "logo": "Tenerife.pmg"
     },
     {
         "EQUIPOS": "Lyon",
@@ -216,10 +216,10 @@
         "logo": "Sporting Tias.pmg"
     },
     {
-        "EQUIPOS": "Z. Saint Petersburg",
+        "EQUIPOS": "Valencia",
         "CATEGORIA": "Benjamin",
         "SEDE": "HARIA",
-        "logo": "Z. Saint Petersburg.pmg"
+        "logo": "Valencia.pmg"
     },
     {
         "EQUIPOS": "CSKA Moscow",
@@ -234,10 +234,10 @@
         "logo": "Galatasaray.pmg"
     },
     {
-        "EQUIPOS": "Fenerbahce",
+        "EQUIPOS": "Celta",
         "CATEGORIA": "Benjamin",
         "SEDE": "HARIA",
-        "logo": "Fenerbahce.pmg"
+        "logo": "Celta.pmg"
     },
     {
         "EQUIPOS": "Olympiacos",
@@ -252,40 +252,40 @@
         "logo": "Haria C.F.pmg"
     },
     {
-        "EQUIPOS": 0,
-        "CATEGORIA": "Alevin",
-        "SEDE": "HARIA",
-        "logo": "0.pmg"
-    },
-    {
-        "EQUIPOS": "Galatasaray",
-        "CATEGORIA": "Alevin",
-        "SEDE": "HARIA",
-        "logo": "Galatasaray.pmg"
-    },
-    {
-        "EQUIPOS": "Sevilla",
-        "CATEGORIA": "Alevin",
-        "SEDE": "HARIA",
-        "logo": "Sevilla.pmg"
-    },
-    {
         "EQUIPOS": "Haria C.F",
         "CATEGORIA": "Alevin",
         "SEDE": "HARIA",
         "logo": "Haria C.F.pmg"
     },
     {
-        "EQUIPOS": "Liverpool",
+        "EQUIPOS": "Club Brugge",
         "CATEGORIA": "Alevin",
         "SEDE": "HARIA",
-        "logo": "Liverpool.pmg"
+        "logo": "Club Brugge.pmg"
     },
     {
-        "EQUIPOS": "OSASUNA",
+        "EQUIPOS": "Real Madrid",
         "CATEGORIA": "Alevin",
         "SEDE": "HARIA",
-        "logo": "OSASUNA.pmg"
+        "logo": "Real Madrid.pmg"
+    },
+    {
+        "EQUIPOS": "Barcelona",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Barcelona.pmg"
+    },
+    {
+        "EQUIPOS": "Atletico Madrid",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Atletico Madrid.pmg"
+    },
+    {
+        "EQUIPOS": "Sevilla",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Sevilla.pmg"
     },
     {
         "EQUIPOS": "Manchester United",
@@ -390,10 +390,10 @@
         "logo": "Yaiza.pmg"
     },
     {
-        "EQUIPOS": "Britong",
+        "EQUIPOS": "Getafe",
         "CATEGORIA": "Benjamin",
         "SEDE": "YAIZA",
-        "logo": "Britong.pmg"
+        "logo": "Getafe.pmg"
     },
     {
         "EQUIPOS": "Inter Milan",
