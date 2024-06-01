@@ -3,9 +3,9 @@
         "Puesto": "1º",
         "Equipo": "Real Madrid",
         "PUNTOS": 15,
-        "G-A FAVOR": 29,
-        "G-ENCONTRA": 18,
-        "DIF-GOLES": 11,
+        "G-A FAVOR": 34,
+        "G-ENCONTRA": 20,
+        "DIF-GOLES": 14,
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Arrecife"
@@ -210,17 +210,6 @@
     },
     {
         "Puesto": "20º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 7,
-        "G-A FAVOR": 18,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": -2,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "21º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -231,7 +220,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "22º",
+        "Puesto": "21º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -240,6 +229,17 @@
         "T-AMARILLA": 2,
         "T.ROJA": 2,
         "Sede": "Tinajo"
+    },
+    {
+        "Puesto": "22º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 7,
+        "G-A FAVOR": 20,
+        "G-ENCONTRA": 25,
+        "DIF-GOLES": -5,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "23º",
