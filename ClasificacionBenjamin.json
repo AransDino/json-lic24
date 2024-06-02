@@ -1,17 +1,6 @@
 {"teams": [
     {
         "Puesto": "1º",
-        "Equipo": "Real Madrid",
-        "PUNTOS": 15,
-        "G-A FAVOR": 34,
-        "G-ENCONTRA": 20,
-        "DIF-GOLES": 14,
-        "T-AMARILLA": 3,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "2º",
         "Equipo": "D. CORUNA",
         "PUNTOS": 15,
         "G-A FAVOR": 19,
@@ -20,6 +9,17 @@
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Teguise"
+    },
+    {
+        "Puesto": "2º",
+        "Equipo": "Real Madrid",
+        "PUNTOS": 13,
+        "G-A FAVOR": 29,
+        "G-ENCONTRA": 20,
+        "DIF-GOLES": 9,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "3º",
@@ -166,6 +166,17 @@
     },
     {
         "Puesto": "16º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 8,
+        "G-A FAVOR": 20,
+        "G-ENCONTRA": 20,
+        "DIF-GOLES": 0,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "17º",
         "Equipo": "Ud. Guadalajara",
         "PUNTOS": 7,
         "G-A FAVOR": 17,
@@ -176,7 +187,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "17º",
+        "Puesto": "18º",
         "Equipo": "Napoli",
         "PUNTOS": 7,
         "G-A FAVOR": 20,
@@ -187,7 +198,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "18º",
+        "Puesto": "19º",
         "Equipo": "Sporting CP",
         "PUNTOS": 7,
         "G-A FAVOR": 10,
@@ -198,7 +209,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "19º",
+        "Puesto": "20º",
         "Equipo": "B Dortmund",
         "PUNTOS": 7,
         "G-A FAVOR": 15,
@@ -209,7 +220,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "20º",
+        "Puesto": "21º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -220,7 +231,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "21º",
+        "Puesto": "22º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -229,17 +240,6 @@
         "T-AMARILLA": 2,
         "T.ROJA": 2,
         "Sede": "Tinajo"
-    },
-    {
-        "Puesto": "22º",
-        "Equipo": "Barcelona",
-        "PUNTOS": 7,
-        "G-A FAVOR": 20,
-        "G-ENCONTRA": 25,
-        "DIF-GOLES": -5,
-        "T-AMARILLA": 3,
-        "T.ROJA": 3,
-        "Sede": "Arrecife"
     },
     {
         "Puesto": "23º",
