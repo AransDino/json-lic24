@@ -3,7 +3,7 @@
         "Puesto": "1º",
         "id": "id07",
         "Equipo": "O.Maritima",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 20,
         "Tarjetas": 0
     },
@@ -11,7 +11,7 @@
         "Puesto": "2º",
         "id": "id228",
         "Equipo": "Chelsea",
-        "Jugador": "Alejandro López",
+        "Jugador": "Alejandro L\u00F3pez",
         "Goles": 20,
         "Tarjetas": 0
     },
@@ -19,7 +19,7 @@
         "Puesto": "3º",
         "id": "id350",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "José Ramírez",
+        "Jugador": "Jos\u00E9 Ram\u00EDrez",
         "Goles": 20,
         "Tarjetas": 0
     },
@@ -27,7 +27,7 @@
         "Puesto": "4º",
         "id": "id575",
         "Equipo": "HARIA",
-        "Jugador": "Miguel Rodríguez",
+        "Jugador": "Miguel Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 0
     },
@@ -35,7 +35,7 @@
         "Puesto": "5º",
         "id": "id562",
         "Equipo": "HARIA",
-        "Jugador": "Jorge Fernández",
+        "Jugador": "Jorge Fern\u00E1ndez",
         "Goles": 20,
         "Tarjetas": 1
     },
@@ -43,7 +43,7 @@
         "Puesto": "6º",
         "id": "id611",
         "Equipo": "Haria C.F",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 20,
         "Tarjetas": 1
     },
@@ -51,7 +51,7 @@
         "Puesto": "7º",
         "id": "id305",
         "Equipo": "Bayern Munich",
-        "Jugador": "Juan Pérez",
+        "Jugador": "Juan P\u00E9rez",
         "Goles": 20,
         "Tarjetas": 2
     },
@@ -75,7 +75,7 @@
         "Puesto": "10º",
         "id": "id301",
         "Equipo": "Napoli",
-        "Jugador": "Miguel García",
+        "Jugador": "Miguel Garc\u00EDa",
         "Goles": 20,
         "Tarjetas": 3
     },
@@ -83,7 +83,7 @@
         "Puesto": "11º",
         "id": "id103",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Luis Díaz",
+        "Jugador": "Luis D\u00EDaz",
         "Goles": 20,
         "Tarjetas": 4
     },
@@ -91,7 +91,7 @@
         "Puesto": "12º",
         "id": "id437",
         "Equipo": "ALMERIA",
-        "Jugador": "Juan Gómez",
+        "Jugador": "Juan G\u00F3mez",
         "Goles": 20,
         "Tarjetas": 4
     },
@@ -99,7 +99,7 @@
         "Puesto": "13º",
         "id": "id444",
         "Equipo": "ALMERIA",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 20,
         "Tarjetas": 4
     },
@@ -107,7 +107,7 @@
         "Puesto": "14º",
         "id": "id641",
         "Equipo": "OSASUNA",
-        "Jugador": "Pedro Martínez",
+        "Jugador": "Pedro Mart\u00EDnez",
         "Goles": 20,
         "Tarjetas": 4
     },
@@ -115,7 +115,7 @@
         "Puesto": "15º",
         "id": "id649",
         "Equipo": "OSASUNA",
-        "Jugador": "Alejandro Hernández",
+        "Jugador": "Alejandro Hern\u00E1ndez",
         "Goles": 20,
         "Tarjetas": 4
     },
@@ -123,7 +123,7 @@
         "Puesto": "16º",
         "id": "id425",
         "Equipo": "Arsenal",
-        "Jugador": "Luis Sánchez",
+        "Jugador": "Luis S\u00E1nchez",
         "Goles": 20,
         "Tarjetas": 5
     },
@@ -131,7 +131,7 @@
         "Puesto": "17º",
         "id": "id654",
         "Equipo": "OSASUNA",
-        "Jugador": "Alejandro Díaz",
+        "Jugador": "Alejandro D\u00EDaz",
         "Goles": 20,
         "Tarjetas": 5
     },
@@ -139,7 +139,7 @@
         "Puesto": "18º",
         "id": "id181",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 20,
         "Tarjetas": 6
     },
@@ -147,7 +147,7 @@
         "Puesto": "19º",
         "id": "id300",
         "Equipo": "Napoli",
-        "Jugador": "Antonio Rodríguez",
+        "Jugador": "Antonio Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 6
     },
@@ -155,7 +155,7 @@
         "Puesto": "20º",
         "id": "id429",
         "Equipo": "Arsenal",
-        "Jugador": "Antonio Rodríguez",
+        "Jugador": "Antonio Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 6
     },
@@ -163,7 +163,7 @@
         "Puesto": "21º",
         "id": "id512",
         "Equipo": "GRANADA",
-        "Jugador": "Antonio Ramírez",
+        "Jugador": "Antonio Ram\u00EDrez",
         "Goles": 20,
         "Tarjetas": 6
     },
@@ -171,7 +171,7 @@
         "Puesto": "22º",
         "id": "id17",
         "Equipo": "Feyenoord",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 20,
         "Tarjetas": 7
     },
@@ -179,7 +179,7 @@
         "Puesto": "23º",
         "id": "id435",
         "Equipo": "ALMERIA",
-        "Jugador": "Antonio Sánchez",
+        "Jugador": "Antonio S\u00E1nchez",
         "Goles": 20,
         "Tarjetas": 7
     },
@@ -187,7 +187,7 @@
         "Puesto": "24º",
         "id": "id71",
         "Equipo": "Villareal",
-        "Jugador": "Diego Ramírez",
+        "Jugador": "Diego Ram\u00EDrez",
         "Goles": 20,
         "Tarjetas": 8
     },
@@ -195,7 +195,7 @@
         "Puesto": "25º",
         "id": "id313",
         "Equipo": "Bayern Munich",
-        "Jugador": "Francisco Rodríguez",
+        "Jugador": "Francisco Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 8
     },
@@ -203,7 +203,7 @@
         "Puesto": "26º",
         "id": "id464",
         "Equipo": "Roma",
-        "Jugador": "Antonio Martínez",
+        "Jugador": "Antonio Mart\u00EDnez",
         "Goles": 20,
         "Tarjetas": 8
     },
@@ -219,7 +219,7 @@
         "Puesto": "28º",
         "id": "id506",
         "Equipo": "GRANADA",
-        "Jugador": "Jorge Gómez",
+        "Jugador": "Jorge G\u00F3mez",
         "Goles": 20,
         "Tarjetas": 9
     },
@@ -251,7 +251,7 @@
         "Puesto": "32º",
         "id": "id229",
         "Equipo": "Chelsea",
-        "Jugador": "Miguel Rodríguez",
+        "Jugador": "Miguel Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 10
     },
@@ -259,7 +259,7 @@
         "Puesto": "33º",
         "id": "id285",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Raúl Rodríguez",
+        "Jugador": "Ra\u00FAl Rodr\u00EDguez",
         "Goles": 20,
         "Tarjetas": 10
     },
@@ -267,7 +267,7 @@
         "Puesto": "34º",
         "id": "id330",
         "Equipo": "Real Madrid",
-        "Jugador": "Juan Hernández",
+        "Jugador": "Juan Hern\u00E1ndez",
         "Goles": 20,
         "Tarjetas": 10
     },
@@ -283,7 +283,7 @@
         "Puesto": "36º",
         "id": "id242",
         "Equipo": "Sporting CP",
-        "Jugador": "Pedro Sánchez",
+        "Jugador": "Pedro S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 0
     },
@@ -291,7 +291,7 @@
         "Puesto": "37º",
         "id": "id365",
         "Equipo": "Tottenham",
-        "Jugador": "José Díaz",
+        "Jugador": "Jos\u00E9 D\u00EDaz",
         "Goles": 19,
         "Tarjetas": 0
     },
@@ -307,7 +307,7 @@
         "Puesto": "39º",
         "id": "id524",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Manuel Rodríguez",
+        "Jugador": "Manuel Rodr\u00EDguez",
         "Goles": 19,
         "Tarjetas": 0
     },
@@ -331,7 +331,7 @@
         "Puesto": "42º",
         "id": "id169",
         "Equipo": "Celtic",
-        "Jugador": "Francisco Pérez",
+        "Jugador": "Francisco P\u00E9rez",
         "Goles": 19,
         "Tarjetas": 1
     },
@@ -347,7 +347,7 @@
         "Puesto": "44º",
         "id": "id291",
         "Equipo": "Napoli",
-        "Jugador": "Carlos Díaz",
+        "Jugador": "Carlos D\u00EDaz",
         "Goles": 19,
         "Tarjetas": 1
     },
@@ -355,7 +355,7 @@
         "Puesto": "45º",
         "id": "id367",
         "Equipo": "Tottenham",
-        "Jugador": "Jorge Pérez",
+        "Jugador": "Jorge P\u00E9rez",
         "Goles": 19,
         "Tarjetas": 1
     },
@@ -363,7 +363,7 @@
         "Puesto": "46º",
         "id": "id633",
         "Equipo": "Liverpool",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 19,
         "Tarjetas": 1
     },
@@ -371,7 +371,7 @@
         "Puesto": "47º",
         "id": "id333",
         "Equipo": "Real Madrid",
-        "Jugador": "Manuel García",
+        "Jugador": "Manuel Garc\u00EDa",
         "Goles": 19,
         "Tarjetas": 2
     },
@@ -379,7 +379,7 @@
         "Puesto": "48º",
         "id": "id156",
         "Equipo": "Olympiacos",
-        "Jugador": "Alejandro Martínez",
+        "Jugador": "Alejandro Mart\u00EDnez",
         "Goles": 19,
         "Tarjetas": 3
     },
@@ -387,7 +387,7 @@
         "Puesto": "49º",
         "id": "id201",
         "Equipo": "AC Milan",
-        "Jugador": "Raúl Sánchez",
+        "Jugador": "Ra\u00FAl S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 3
     },
@@ -403,7 +403,7 @@
         "Puesto": "51º",
         "id": "id539",
         "Equipo": "Ajax",
-        "Jugador": "Alejandro Fernández",
+        "Jugador": "Alejandro Fern\u00E1ndez",
         "Goles": 19,
         "Tarjetas": 3
     },
@@ -411,7 +411,7 @@
         "Puesto": "52º",
         "id": "id632",
         "Equipo": "Liverpool",
-        "Jugador": "Alejandro Fernández",
+        "Jugador": "Alejandro Fern\u00E1ndez",
         "Goles": 19,
         "Tarjetas": 3
     },
@@ -427,7 +427,7 @@
         "Puesto": "54º",
         "id": "id431",
         "Equipo": "Arsenal",
-        "Jugador": "Raúl López",
+        "Jugador": "Ra\u00FAl L\u00F3pez",
         "Goles": 19,
         "Tarjetas": 4
     },
@@ -435,7 +435,7 @@
         "Puesto": "55º",
         "id": "id08",
         "Equipo": "O.Maritima",
-        "Jugador": "David Fernández",
+        "Jugador": "David Fern\u00E1ndez",
         "Goles": 19,
         "Tarjetas": 5
     },
@@ -443,7 +443,7 @@
         "Puesto": "56º",
         "id": "id95",
         "Equipo": "BRITONG",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 19,
         "Tarjetas": 5
     },
@@ -459,7 +459,7 @@
         "Puesto": "58º",
         "id": "id354",
         "Equipo": "Tottenham",
-        "Jugador": "Alejandro Martínez",
+        "Jugador": "Alejandro Mart\u00EDnez",
         "Goles": 19,
         "Tarjetas": 5
     },
@@ -467,7 +467,7 @@
         "Puesto": "59º",
         "id": "id389",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "David Díaz",
+        "Jugador": "David D\u00EDaz",
         "Goles": 19,
         "Tarjetas": 5
     },
@@ -475,14 +475,14 @@
         "Puesto": "60º",
         "id": "id442",
         "Equipo": "ALMERIA",
-        "Jugador": "Miguel Sánchez",
+        "Jugador": "Miguel S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 5
     },
     {
         "Puesto": "61º",
         "id": "id560",
-        "Equipo": "Atlético de Madrid",
+        "Equipo": "Atl\u00E9tico de Madrid",
         "Jugador": "Diego Cruz",
         "Goles": 19,
         "Tarjetas": 5
@@ -491,7 +491,7 @@
         "Puesto": "62º",
         "id": "id597",
         "Equipo": "Sevilla",
-        "Jugador": "Manuel López",
+        "Jugador": "Manuel L\u00F3pez",
         "Goles": 19,
         "Tarjetas": 5
     },
@@ -499,7 +499,7 @@
         "Puesto": "63º",
         "id": "id44",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Jorge Fernández",
+        "Jugador": "Jorge Fern\u00E1ndez",
         "Goles": 19,
         "Tarjetas": 6
     },
@@ -515,7 +515,7 @@
         "Puesto": "65º",
         "id": "id268",
         "Equipo": "Barcelona",
-        "Jugador": "Raúl Sánchez",
+        "Jugador": "Ra\u00FAl S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 7
     },
@@ -523,7 +523,7 @@
         "Puesto": "66º",
         "id": "id577",
         "Equipo": "Galatasaray",
-        "Jugador": "Juan Rodríguez",
+        "Jugador": "Juan Rodr\u00EDguez",
         "Goles": 19,
         "Tarjetas": 7
     },
@@ -539,7 +539,7 @@
         "Puesto": "68º",
         "id": "id379",
         "Equipo": "Juventus",
-        "Jugador": "Raúl Sánchez",
+        "Jugador": "Ra\u00FAl S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 8
     },
@@ -547,15 +547,15 @@
         "Puesto": "69º",
         "id": "id443",
         "Equipo": "ALMERIA",
-        "Jugador": "Raúl Morales",
+        "Jugador": "Ra\u00FAl Morales",
         "Goles": 19,
         "Tarjetas": 8
     },
     {
         "Puesto": "70º",
         "id": "id558",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Francisco Sánchez",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Francisco S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 8
     },
@@ -563,7 +563,7 @@
         "Puesto": "71º",
         "id": "id117",
         "Equipo": "Manchester City",
-        "Jugador": "Pedro Martínez",
+        "Jugador": "Pedro Mart\u00EDnez",
         "Goles": 19,
         "Tarjetas": 9
     },
@@ -579,7 +579,7 @@
         "Puesto": "73º",
         "id": "id368",
         "Equipo": "Tottenham",
-        "Jugador": "Carlos Hernández",
+        "Jugador": "Carlos Hern\u00E1ndez",
         "Goles": 19,
         "Tarjetas": 9
     },
@@ -587,7 +587,7 @@
         "Puesto": "74º",
         "id": "id402",
         "Equipo": "Inter Milan",
-        "Jugador": "Raúl Pérez",
+        "Jugador": "Ra\u00FAl P\u00E9rez",
         "Goles": 19,
         "Tarjetas": 9
     },
@@ -595,7 +595,7 @@
         "Puesto": "75º",
         "id": "id456",
         "Equipo": "Roma",
-        "Jugador": "Juan Sánchez",
+        "Jugador": "Juan S\u00E1nchez",
         "Goles": 19,
         "Tarjetas": 9
     },
@@ -611,7 +611,7 @@
         "Puesto": "77º",
         "id": "id281",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Luis García",
+        "Jugador": "Luis Garc\u00EDa",
         "Goles": 19,
         "Tarjetas": 10
     },
@@ -619,7 +619,7 @@
         "Puesto": "78º",
         "id": "id185",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "José Martínez",
+        "Jugador": "Jos\u00E9 Mart\u00EDnez",
         "Goles": 18,
         "Tarjetas": 0
     },
@@ -627,7 +627,7 @@
         "Puesto": "79º",
         "id": "id208",
         "Equipo": "AC Milan",
-        "Jugador": "Miguel Hernández",
+        "Jugador": "Miguel Hern\u00E1ndez",
         "Goles": 18,
         "Tarjetas": 0
     },
@@ -635,7 +635,7 @@
         "Puesto": "80º",
         "id": "id20",
         "Equipo": "Feyenoord",
-        "Jugador": "Alejandro García",
+        "Jugador": "Alejandro Garc\u00EDa",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -643,7 +643,7 @@
         "Puesto": "81º",
         "id": "id106",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -651,7 +651,7 @@
         "Puesto": "82º",
         "id": "id336",
         "Equipo": "Real Madrid",
-        "Jugador": "Jorge Sánchez",
+        "Jugador": "Jorge S\u00E1nchez",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -659,7 +659,7 @@
         "Puesto": "83º",
         "id": "id347",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Raúl Rodríguez",
+        "Jugador": "Ra\u00FAl Rodr\u00EDguez",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -667,7 +667,7 @@
         "Puesto": "84º",
         "id": "id499",
         "Equipo": "GRANADA",
-        "Jugador": "Juan Gómez",
+        "Jugador": "Juan G\u00F3mez",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -675,7 +675,7 @@
         "Puesto": "85º",
         "id": "id615",
         "Equipo": "Haria C.F",
-        "Jugador": "José Sánchez",
+        "Jugador": "Jos\u00E9 S\u00E1nchez",
         "Goles": 18,
         "Tarjetas": 1
     },
@@ -691,7 +691,7 @@
         "Puesto": "87º",
         "id": "id561",
         "Equipo": "HARIA",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 18,
         "Tarjetas": 2
     },
@@ -699,7 +699,7 @@
         "Puesto": "88º",
         "id": "id162",
         "Equipo": "Celtic",
-        "Jugador": "Luis Ramírez",
+        "Jugador": "Luis Ram\u00EDrez",
         "Goles": 18,
         "Tarjetas": 3
     },
@@ -707,7 +707,7 @@
         "Puesto": "89º",
         "id": "id189",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "David Díaz",
+        "Jugador": "David D\u00EDaz",
         "Goles": 18,
         "Tarjetas": 3
     },
@@ -731,7 +731,7 @@
         "Puesto": "92º",
         "id": "id522",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Antonio Gómez",
+        "Jugador": "Antonio G\u00F3mez",
         "Goles": 18,
         "Tarjetas": 4
     },
@@ -739,7 +739,7 @@
         "Puesto": "93º",
         "id": "id468",
         "Equipo": "B Dortmund",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 18,
         "Tarjetas": 5
     },
@@ -747,7 +747,7 @@
         "Puesto": "94º",
         "id": "id29",
         "Equipo": "Feyenoord",
-        "Jugador": "Carlos Díaz",
+        "Jugador": "Carlos D\u00EDaz",
         "Goles": 18,
         "Tarjetas": 6
     },
@@ -755,7 +755,7 @@
         "Puesto": "95º",
         "id": "id319",
         "Equipo": "Bayern Munich",
-        "Jugador": "Juan García",
+        "Jugador": "Juan Garc\u00EDa",
         "Goles": 18,
         "Tarjetas": 6
     },
@@ -763,7 +763,7 @@
         "Puesto": "96º",
         "id": "id322",
         "Equipo": "Real Madrid",
-        "Jugador": "Carlos Martínez",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 18,
         "Tarjetas": 6
     },
@@ -771,7 +771,7 @@
         "Puesto": "97º",
         "id": "id378",
         "Equipo": "Juventus",
-        "Jugador": "Pedro Díaz",
+        "Jugador": "Pedro D\u00EDaz",
         "Goles": 18,
         "Tarjetas": 6
     },
@@ -786,8 +786,8 @@
     {
         "Puesto": "99º",
         "id": "id555",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Carlos García",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Carlos Garc\u00EDa",
         "Goles": 18,
         "Tarjetas": 7
     },
@@ -795,7 +795,7 @@
         "Puesto": "100º",
         "id": "id302",
         "Equipo": "Napoli",
-        "Jugador": "José Morales",
+        "Jugador": "Jos\u00E9 Morales",
         "Goles": 18,
         "Tarjetas": 8
     },
@@ -803,7 +803,7 @@
         "Puesto": "101º",
         "id": "id526",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "David Sánchez",
+        "Jugador": "David S\u00E1nchez",
         "Goles": 18,
         "Tarjetas": 8
     },
@@ -811,7 +811,7 @@
         "Puesto": "102º",
         "id": "id622",
         "Equipo": "Haria C.F",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 18,
         "Tarjetas": 8
     },
@@ -827,7 +827,7 @@
         "Puesto": "104º",
         "id": "id504",
         "Equipo": "GRANADA",
-        "Jugador": "Diego Díaz",
+        "Jugador": "Diego D\u00EDaz",
         "Goles": 18,
         "Tarjetas": 9
     },
@@ -835,7 +835,7 @@
         "Puesto": "105º",
         "id": "id544",
         "Equipo": "Ajax",
-        "Jugador": "Jorge Sánchez",
+        "Jugador": "Jorge S\u00E1nchez",
         "Goles": 18,
         "Tarjetas": 9
     },
@@ -851,7 +851,7 @@
         "Puesto": "107º",
         "id": "id413",
         "Equipo": "Inter Milan",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 18,
         "Tarjetas": 10
     },
@@ -859,7 +859,7 @@
         "Puesto": "108º",
         "id": "id478",
         "Equipo": "B Dortmund",
-        "Jugador": "Raúl López",
+        "Jugador": "Ra\u00FAl L\u00F3pez",
         "Goles": 18,
         "Tarjetas": 10
     },
@@ -867,7 +867,7 @@
         "Puesto": "109º",
         "id": "id167",
         "Equipo": "Celtic",
-        "Jugador": "Pedro Ramírez",
+        "Jugador": "Pedro Ram\u00EDrez",
         "Goles": 17,
         "Tarjetas": 0
     },
@@ -875,7 +875,7 @@
         "Puesto": "110º",
         "id": "id422",
         "Equipo": "Arsenal",
-        "Jugador": "Manuel Sánchez",
+        "Jugador": "Manuel S\u00E1nchez",
         "Goles": 17,
         "Tarjetas": 0
     },
@@ -883,7 +883,7 @@
         "Puesto": "111º",
         "id": "id605",
         "Equipo": "Sevilla",
-        "Jugador": "Francisco García",
+        "Jugador": "Francisco Garc\u00EDa",
         "Goles": 17,
         "Tarjetas": 0
     },
@@ -923,7 +923,7 @@
         "Puesto": "116º",
         "id": "id416",
         "Equipo": "Inter Milan",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 17,
         "Tarjetas": 2
     },
@@ -931,7 +931,7 @@
         "Puesto": "117º",
         "id": "id430",
         "Equipo": "Arsenal",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 17,
         "Tarjetas": 2
     },
@@ -955,7 +955,7 @@
         "Puesto": "120º",
         "id": "id28",
         "Equipo": "Feyenoord",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 17,
         "Tarjetas": 4
     },
@@ -963,7 +963,7 @@
         "Puesto": "121º",
         "id": "id96",
         "Equipo": "BRITONG",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 17,
         "Tarjetas": 5
     },
@@ -971,7 +971,7 @@
         "Puesto": "122º",
         "id": "id311",
         "Equipo": "Bayern Munich",
-        "Jugador": "José Díaz",
+        "Jugador": "Jos\u00E9 D\u00EDaz",
         "Goles": 17,
         "Tarjetas": 5
     },
@@ -979,7 +979,7 @@
         "Puesto": "123º",
         "id": "id256",
         "Equipo": "Sporting CP",
-        "Jugador": "Raúl Fernández",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 17,
         "Tarjetas": 6
     },
@@ -987,7 +987,7 @@
         "Puesto": "124º",
         "id": "id576",
         "Equipo": "HARIA",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 17,
         "Tarjetas": 6
     },
@@ -995,7 +995,7 @@
         "Puesto": "125º",
         "id": "id639",
         "Equipo": "Liverpool",
-        "Jugador": "Alejandro Sánchez",
+        "Jugador": "Alejandro S\u00E1nchez",
         "Goles": 17,
         "Tarjetas": 6
     },
@@ -1003,15 +1003,15 @@
         "Puesto": "126º",
         "id": "id211",
         "Equipo": "D. CORUNA",
-        "Jugador": "Manuel Gómez",
+        "Jugador": "Manuel G\u00F3mez",
         "Goles": 17,
         "Tarjetas": 7
     },
     {
         "Puesto": "127º",
         "id": "id554",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Raúl Fernández",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 17,
         "Tarjetas": 7
     },
@@ -1019,7 +1019,7 @@
         "Puesto": "128º",
         "id": "id43",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Manuel Pérez",
+        "Jugador": "Manuel P\u00E9rez",
         "Goles": 17,
         "Tarjetas": 8
     },
@@ -1027,7 +1027,7 @@
         "Puesto": "129º",
         "id": "id245",
         "Equipo": "Sporting CP",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 17,
         "Tarjetas": 8
     },
@@ -1035,7 +1035,7 @@
         "Puesto": "130º",
         "id": "id407",
         "Equipo": "Inter Milan",
-        "Jugador": "Francisco Sánchez",
+        "Jugador": "Francisco S\u00E1nchez",
         "Goles": 17,
         "Tarjetas": 8
     },
@@ -1043,15 +1043,15 @@
         "Puesto": "131º",
         "id": "id530",
         "Equipo": "Ajax",
-        "Jugador": "Luis Sánchez",
+        "Jugador": "Luis S\u00E1nchez",
         "Goles": 17,
         "Tarjetas": 8
     },
     {
         "Puesto": "132º",
         "id": "id546",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Antonio Hernández",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Antonio Hern\u00E1ndez",
         "Goles": 17,
         "Tarjetas": 8
     },
@@ -1067,7 +1067,7 @@
         "Puesto": "134º",
         "id": "id498",
         "Equipo": "GRANADA",
-        "Jugador": "Miguel García",
+        "Jugador": "Miguel Garc\u00EDa",
         "Goles": 17,
         "Tarjetas": 9
     },
@@ -1075,7 +1075,7 @@
         "Puesto": "135º",
         "id": "id525",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 17,
         "Tarjetas": 9
     },
@@ -1091,7 +1091,7 @@
         "Puesto": "137º",
         "id": "id366",
         "Equipo": "Tottenham",
-        "Jugador": "Alejandro López",
+        "Jugador": "Alejandro L\u00F3pez",
         "Goles": 17,
         "Tarjetas": 10
     },
@@ -1107,7 +1107,7 @@
         "Puesto": "139º",
         "id": "id418",
         "Equipo": "Arsenal",
-        "Jugador": "Jorge López",
+        "Jugador": "Jorge L\u00F3pez",
         "Goles": 17,
         "Tarjetas": 10
     },
@@ -1115,7 +1115,7 @@
         "Puesto": "140º",
         "id": "id458",
         "Equipo": "Roma",
-        "Jugador": "Diego Martínez",
+        "Jugador": "Diego Mart\u00EDnez",
         "Goles": 17,
         "Tarjetas": 10
     },
@@ -1123,7 +1123,7 @@
         "Puesto": "141º",
         "id": "id618",
         "Equipo": "Haria C.F",
-        "Jugador": "Alejandro Gómez",
+        "Jugador": "Alejandro G\u00F3mez",
         "Goles": 17,
         "Tarjetas": 10
     },
@@ -1131,7 +1131,7 @@
         "Puesto": "142º",
         "id": "id329",
         "Equipo": "Real Madrid",
-        "Jugador": "Jorge Rodríguez",
+        "Jugador": "Jorge Rodr\u00EDguez",
         "Goles": 16,
         "Tarjetas": 0
     },
@@ -1147,7 +1147,7 @@
         "Puesto": "144º",
         "id": "id408",
         "Equipo": "Inter Milan",
-        "Jugador": "Miguel Sánchez",
+        "Jugador": "Miguel S\u00E1nchez",
         "Goles": 16,
         "Tarjetas": 1
     },
@@ -1155,7 +1155,7 @@
         "Puesto": "145º",
         "id": "id481",
         "Equipo": "Manchester United",
-        "Jugador": "Francisco Ramírez",
+        "Jugador": "Francisco Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 1
     },
@@ -1163,7 +1163,7 @@
         "Puesto": "146º",
         "id": "id123",
         "Equipo": "Manchester City",
-        "Jugador": "Jorge García",
+        "Jugador": "Jorge Garc\u00EDa",
         "Goles": 16,
         "Tarjetas": 2
     },
@@ -1171,7 +1171,7 @@
         "Puesto": "147º",
         "id": "id252",
         "Equipo": "Sporting CP",
-        "Jugador": "Carlos García",
+        "Jugador": "Carlos Garc\u00EDa",
         "Goles": 16,
         "Tarjetas": 2
     },
@@ -1187,7 +1187,7 @@
         "Puesto": "149º",
         "id": "id122",
         "Equipo": "Manchester City",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 4
     },
@@ -1195,7 +1195,7 @@
         "Puesto": "150º",
         "id": "id182",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Manuel Díaz",
+        "Jugador": "Manuel D\u00EDaz",
         "Goles": 16,
         "Tarjetas": 4
     },
@@ -1203,7 +1203,7 @@
         "Puesto": "151º",
         "id": "id334",
         "Equipo": "Real Madrid",
-        "Jugador": "Carlos Martínez",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 16,
         "Tarjetas": 5
     },
@@ -1211,7 +1211,7 @@
         "Puesto": "152º",
         "id": "id338",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 5
     },
@@ -1219,7 +1219,7 @@
         "Puesto": "153º",
         "id": "id54",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Raúl Fernández",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 6
     },
@@ -1227,7 +1227,7 @@
         "Puesto": "154º",
         "id": "id152",
         "Equipo": "Olympiacos",
-        "Jugador": "Antonio Ramírez",
+        "Jugador": "Antonio Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 6
     },
@@ -1235,7 +1235,7 @@
         "Puesto": "155º",
         "id": "id401",
         "Equipo": "Inter Milan",
-        "Jugador": "Jorge Fernández",
+        "Jugador": "Jorge Fern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 7
     },
@@ -1243,7 +1243,7 @@
         "Puesto": "156º",
         "id": "id465",
         "Equipo": "B Dortmund",
-        "Jugador": "José Ramírez",
+        "Jugador": "Jos\u00E9 Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 7
     },
@@ -1251,7 +1251,7 @@
         "Puesto": "157º",
         "id": "id83",
         "Equipo": "BRITONG",
-        "Jugador": "Raúl Ramírez",
+        "Jugador": "Ra\u00FAl Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 8
     },
@@ -1259,7 +1259,7 @@
         "Puesto": "158º",
         "id": "id246",
         "Equipo": "Sporting CP",
-        "Jugador": "Raúl Fernández",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 8
     },
@@ -1267,7 +1267,7 @@
         "Puesto": "159º",
         "id": "id266",
         "Equipo": "Barcelona",
-        "Jugador": "David Hernández",
+        "Jugador": "David Hern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 8
     },
@@ -1275,7 +1275,7 @@
         "Puesto": "160º",
         "id": "id372",
         "Equipo": "Juventus",
-        "Jugador": "Francisco Ramírez",
+        "Jugador": "Francisco Ram\u00EDrez",
         "Goles": 16,
         "Tarjetas": 8
     },
@@ -1283,7 +1283,7 @@
         "Puesto": "161º",
         "id": "id400",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Pedro Díaz",
+        "Jugador": "Pedro D\u00EDaz",
         "Goles": 16,
         "Tarjetas": 8
     },
@@ -1291,7 +1291,7 @@
         "Puesto": "162º",
         "id": "id417",
         "Equipo": "Arsenal",
-        "Jugador": "Luis Martínez",
+        "Jugador": "Luis Mart\u00EDnez",
         "Goles": 16,
         "Tarjetas": 9
     },
@@ -1299,7 +1299,7 @@
         "Puesto": "163º",
         "id": "id567",
         "Equipo": "HARIA",
-        "Jugador": "Alejandro Hernández",
+        "Jugador": "Alejandro Hern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 9
     },
@@ -1315,7 +1315,7 @@
         "Puesto": "165º",
         "id": "id137",
         "Equipo": "Rangers",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 16,
         "Tarjetas": 10
     },
@@ -1331,7 +1331,7 @@
         "Puesto": "167º",
         "id": "id294",
         "Equipo": "Napoli",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 16,
         "Tarjetas": 10
     },
@@ -1347,7 +1347,7 @@
         "Puesto": "169º",
         "id": "id450",
         "Equipo": "Roma",
-        "Jugador": "Francisco Fernández",
+        "Jugador": "Francisco Fern\u00E1ndez",
         "Goles": 15,
         "Tarjetas": 0
     },
@@ -1355,7 +1355,7 @@
         "Puesto": "170º",
         "id": "id70",
         "Equipo": "Villareal",
-        "Jugador": "Diego Rodríguez",
+        "Jugador": "Diego Rodr\u00EDguez",
         "Goles": 15,
         "Tarjetas": 1
     },
@@ -1363,7 +1363,7 @@
         "Puesto": "171º",
         "id": "id259",
         "Equipo": "Barcelona",
-        "Jugador": "Alejandro García",
+        "Jugador": "Alejandro Garc\u00EDa",
         "Goles": 15,
         "Tarjetas": 1
     },
@@ -1371,7 +1371,7 @@
         "Puesto": "172º",
         "id": "id276",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 15,
         "Tarjetas": 1
     },
@@ -1387,7 +1387,7 @@
         "Puesto": "174º",
         "id": "id352",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Luis López",
+        "Jugador": "Luis L\u00F3pez",
         "Goles": 15,
         "Tarjetas": 2
     },
@@ -1395,7 +1395,7 @@
         "Puesto": "175º",
         "id": "id121",
         "Equipo": "Manchester City",
-        "Jugador": "David Rodríguez",
+        "Jugador": "David Rodr\u00EDguez",
         "Goles": 15,
         "Tarjetas": 4
     },
@@ -1403,7 +1403,7 @@
         "Puesto": "176º",
         "id": "id253",
         "Equipo": "Sporting CP",
-        "Jugador": "José Sánchez",
+        "Jugador": "Jos\u00E9 S\u00E1nchez",
         "Goles": 15,
         "Tarjetas": 4
     },
@@ -1419,7 +1419,7 @@
         "Puesto": "178º",
         "id": "id517",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Diego Martínez",
+        "Jugador": "Diego Mart\u00EDnez",
         "Goles": 15,
         "Tarjetas": 4
     },
@@ -1427,7 +1427,7 @@
         "Puesto": "179º",
         "id": "id48",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Pedro Hernández",
+        "Jugador": "Pedro Hern\u00E1ndez",
         "Goles": 15,
         "Tarjetas": 5
     },
@@ -1435,7 +1435,7 @@
         "Puesto": "180º",
         "id": "id144",
         "Equipo": "Rangers",
-        "Jugador": "José Díaz",
+        "Jugador": "Jos\u00E9 D\u00EDaz",
         "Goles": 15,
         "Tarjetas": 5
     },
@@ -1443,7 +1443,7 @@
         "Puesto": "181º",
         "id": "id274",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Juan Rodríguez",
+        "Jugador": "Juan Rodr\u00EDguez",
         "Goles": 15,
         "Tarjetas": 5
     },
@@ -1459,7 +1459,7 @@
         "Puesto": "183º",
         "id": "id339",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Antonio García",
+        "Jugador": "Antonio Garc\u00EDa",
         "Goles": 15,
         "Tarjetas": 6
     },
@@ -1467,7 +1467,7 @@
         "Puesto": "184º",
         "id": "id119",
         "Equipo": "Manchester City",
-        "Jugador": "Miguel Gómez",
+        "Jugador": "Miguel G\u00F3mez",
         "Goles": 15,
         "Tarjetas": 7
     },
@@ -1475,7 +1475,7 @@
         "Puesto": "185º",
         "id": "id50",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Pedro Fernández",
+        "Jugador": "Pedro Fern\u00E1ndez",
         "Goles": 15,
         "Tarjetas": 8
     },
@@ -1483,7 +1483,7 @@
         "Puesto": "186º",
         "id": "id128",
         "Equipo": "Manchester City",
-        "Jugador": "Francisco López",
+        "Jugador": "Francisco L\u00F3pez",
         "Goles": 15,
         "Tarjetas": 8
     },
@@ -1491,7 +1491,7 @@
         "Puesto": "187º",
         "id": "id141",
         "Equipo": "Rangers",
-        "Jugador": "Antonio Gómez",
+        "Jugador": "Antonio G\u00F3mez",
         "Goles": 15,
         "Tarjetas": 8
     },
@@ -1507,14 +1507,14 @@
         "Puesto": "189º",
         "id": "id160",
         "Equipo": "Olympiacos",
-        "Jugador": "Francisco Hernández",
+        "Jugador": "Francisco Hern\u00E1ndez",
         "Goles": 15,
         "Tarjetas": 9
     },
     {
         "Puesto": "190º",
         "id": "id549",
-        "Equipo": "Atlético de Madrid",
+        "Equipo": "Atl\u00E9tico de Madrid",
         "Jugador": "Antonio Cruz",
         "Goles": 15,
         "Tarjetas": 9
@@ -1523,7 +1523,7 @@
         "Puesto": "191º",
         "id": "id584",
         "Equipo": "Galatasaray",
-        "Jugador": "Luis Pérez",
+        "Jugador": "Luis P\u00E9rez",
         "Goles": 15,
         "Tarjetas": 9
     },
@@ -1555,7 +1555,7 @@
         "Puesto": "195º",
         "id": "id63",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Raúl Vargas",
+        "Jugador": "Ra\u00FAl Vargas",
         "Goles": 14,
         "Tarjetas": 0
     },
@@ -1563,14 +1563,14 @@
         "Puesto": "196º",
         "id": "id184",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Manuel Martínez",
+        "Jugador": "Manuel Mart\u00EDnez",
         "Goles": 14,
         "Tarjetas": 0
     },
     {
         "Puesto": "197º",
         "id": "id551",
-        "Equipo": "Atlético de Madrid",
+        "Equipo": "Atl\u00E9tico de Madrid",
         "Jugador": "Carlos Vargas",
         "Goles": 14,
         "Tarjetas": 0
@@ -1578,8 +1578,8 @@
     {
         "Puesto": "198º",
         "id": "id553",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Carlos Martínez",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 14,
         "Tarjetas": 1
     },
@@ -1587,7 +1587,7 @@
         "Puesto": "199º",
         "id": "id527",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "David Gómez",
+        "Jugador": "David G\u00F3mez",
         "Goles": 14,
         "Tarjetas": 2
     },
@@ -1595,7 +1595,7 @@
         "Puesto": "200º",
         "id": "id227",
         "Equipo": "Chelsea",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 14,
         "Tarjetas": 3
     },
@@ -1603,7 +1603,7 @@
         "Puesto": "201º",
         "id": "id340",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "José García",
+        "Jugador": "Jos\u00E9 Garc\u00EDa",
         "Goles": 14,
         "Tarjetas": 3
     },
@@ -1611,7 +1611,7 @@
         "Puesto": "202º",
         "id": "id533",
         "Equipo": "Ajax",
-        "Jugador": "Manuel Martínez",
+        "Jugador": "Manuel Mart\u00EDnez",
         "Goles": 14,
         "Tarjetas": 3
     },
@@ -1619,7 +1619,7 @@
         "Puesto": "203º",
         "id": "id04",
         "Equipo": "O.Maritima",
-        "Jugador": "José Cruz",
+        "Jugador": "Jos\u00E9 Cruz",
         "Goles": 14,
         "Tarjetas": 4
     },
@@ -1627,7 +1627,7 @@
         "Puesto": "204º",
         "id": "id131",
         "Equipo": "Rangers",
-        "Jugador": "Juan Pérez",
+        "Jugador": "Juan P\u00E9rez",
         "Goles": 14,
         "Tarjetas": 4
     },
@@ -1643,7 +1643,7 @@
         "Puesto": "206º",
         "id": "id457",
         "Equipo": "Roma",
-        "Jugador": "Alejandro Gómez",
+        "Jugador": "Alejandro G\u00F3mez",
         "Goles": 14,
         "Tarjetas": 5
     },
@@ -1651,7 +1651,7 @@
         "Puesto": "207º",
         "id": "id531",
         "Equipo": "Ajax",
-        "Jugador": "Juan Ramírez",
+        "Jugador": "Juan Ram\u00EDrez",
         "Goles": 14,
         "Tarjetas": 5
     },
@@ -1659,7 +1659,7 @@
         "Puesto": "208º",
         "id": "id652",
         "Equipo": "OSASUNA",
-        "Jugador": "Luis López",
+        "Jugador": "Luis L\u00F3pez",
         "Goles": 14,
         "Tarjetas": 5
     },
@@ -1667,7 +1667,7 @@
         "Puesto": "209º",
         "id": "id484",
         "Equipo": "Manchester United",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 14,
         "Tarjetas": 6
     },
@@ -1675,7 +1675,7 @@
         "Puesto": "210º",
         "id": "id540",
         "Equipo": "Ajax",
-        "Jugador": "José Fernández",
+        "Jugador": "Jos\u00E9 Fern\u00E1ndez",
         "Goles": 14,
         "Tarjetas": 6
     },
@@ -1683,7 +1683,7 @@
         "Puesto": "211º",
         "id": "id02",
         "Equipo": "O.Maritima",
-        "Jugador": "Alejandro García",
+        "Jugador": "Alejandro Garc\u00EDa",
         "Goles": 14,
         "Tarjetas": 7
     },
@@ -1691,7 +1691,7 @@
         "Puesto": "212º",
         "id": "id240",
         "Equipo": "Chelsea",
-        "Jugador": "Luis Díaz",
+        "Jugador": "Luis D\u00EDaz",
         "Goles": 14,
         "Tarjetas": 7
     },
@@ -1699,7 +1699,7 @@
         "Puesto": "213º",
         "id": "id613",
         "Equipo": "Haria C.F",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 14,
         "Tarjetas": 7
     },
@@ -1707,7 +1707,7 @@
         "Puesto": "214º",
         "id": "id463",
         "Equipo": "Roma",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 14,
         "Tarjetas": 8
     },
@@ -1715,7 +1715,7 @@
         "Puesto": "215º",
         "id": "id01",
         "Equipo": "O.Maritima",
-        "Jugador": "Pedro Pérez",
+        "Jugador": "Pedro P\u00E9rez",
         "Goles": 14,
         "Tarjetas": 9
     },
@@ -1731,7 +1731,7 @@
         "Puesto": "217º",
         "id": "id495",
         "Equipo": "Manchester United",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 14,
         "Tarjetas": 9
     },
@@ -1755,7 +1755,7 @@
         "Puesto": "220º",
         "id": "id216",
         "Equipo": "D. CORUNA",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 14,
         "Tarjetas": 10
     },
@@ -1763,7 +1763,7 @@
         "Puesto": "221º",
         "id": "id136",
         "Equipo": "Rangers",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 13,
         "Tarjetas": 0
     },
@@ -1779,7 +1779,7 @@
         "Puesto": "223º",
         "id": "id377",
         "Equipo": "Juventus",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 13,
         "Tarjetas": 1
     },
@@ -1787,7 +1787,7 @@
         "Puesto": "224º",
         "id": "id395",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Diego Díaz",
+        "Jugador": "Diego D\u00EDaz",
         "Goles": 13,
         "Tarjetas": 1
     },
@@ -1795,7 +1795,7 @@
         "Puesto": "225º",
         "id": "id225",
         "Equipo": "Chelsea",
-        "Jugador": "Raúl Vargas",
+        "Jugador": "Ra\u00FAl Vargas",
         "Goles": 13,
         "Tarjetas": 2
     },
@@ -1803,7 +1803,7 @@
         "Puesto": "226º",
         "id": "id280",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "José Ramírez",
+        "Jugador": "Jos\u00E9 Ram\u00EDrez",
         "Goles": 13,
         "Tarjetas": 2
     },
@@ -1811,7 +1811,7 @@
         "Puesto": "227º",
         "id": "id645",
         "Equipo": "OSASUNA",
-        "Jugador": "Carlos Hernández",
+        "Jugador": "Carlos Hern\u00E1ndez",
         "Goles": 13,
         "Tarjetas": 2
     },
@@ -1819,7 +1819,7 @@
         "Puesto": "228º",
         "id": "id173",
         "Equipo": "Celtic",
-        "Jugador": "José Díaz",
+        "Jugador": "Jos\u00E9 D\u00EDaz",
         "Goles": 13,
         "Tarjetas": 3
     },
@@ -1835,7 +1835,7 @@
         "Puesto": "230º",
         "id": "id436",
         "Equipo": "ALMERIA",
-        "Jugador": "Alejandro Ramírez",
+        "Jugador": "Alejandro Ram\u00EDrez",
         "Goles": 13,
         "Tarjetas": 3
     },
@@ -1851,7 +1851,7 @@
         "Puesto": "232º",
         "id": "id231",
         "Equipo": "Chelsea",
-        "Jugador": "Raúl Rodríguez",
+        "Jugador": "Ra\u00FAl Rodr\u00EDguez",
         "Goles": 13,
         "Tarjetas": 5
     },
@@ -1859,7 +1859,7 @@
         "Puesto": "233º",
         "id": "id318",
         "Equipo": "Bayern Munich",
-        "Jugador": "José Cruz",
+        "Jugador": "Jos\u00E9 Cruz",
         "Goles": 13,
         "Tarjetas": 5
     },
@@ -1867,7 +1867,7 @@
         "Puesto": "234º",
         "id": "id404",
         "Equipo": "Inter Milan",
-        "Jugador": "Jorge Hernández",
+        "Jugador": "Jorge Hern\u00E1ndez",
         "Goles": 13,
         "Tarjetas": 5
     },
@@ -1875,7 +1875,7 @@
         "Puesto": "235º",
         "id": "id90",
         "Equipo": "BRITONG",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 13,
         "Tarjetas": 6
     },
@@ -1891,7 +1891,7 @@
         "Puesto": "237º",
         "id": "id593",
         "Equipo": "Sevilla",
-        "Jugador": "Jorge López",
+        "Jugador": "Jorge L\u00F3pez",
         "Goles": 13,
         "Tarjetas": 6
     },
@@ -1899,7 +1899,7 @@
         "Puesto": "238º",
         "id": "id31",
         "Equipo": "Feyenoord",
-        "Jugador": "Alejandro Díaz",
+        "Jugador": "Alejandro D\u00EDaz",
         "Goles": 13,
         "Tarjetas": 7
     },
@@ -1907,7 +1907,7 @@
         "Puesto": "239º",
         "id": "id287",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 13,
         "Tarjetas": 9
     },
@@ -1915,7 +1915,7 @@
         "Puesto": "240º",
         "id": "id647",
         "Equipo": "OSASUNA",
-        "Jugador": "Alejandro Hernández",
+        "Jugador": "Alejandro Hern\u00E1ndez",
         "Goles": 13,
         "Tarjetas": 10
     },
@@ -1923,7 +1923,7 @@
         "Puesto": "241º",
         "id": "id42",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Alejandro Sánchez",
+        "Jugador": "Alejandro S\u00E1nchez",
         "Goles": 12,
         "Tarjetas": 0
     },
@@ -1931,7 +1931,7 @@
         "Puesto": "242º",
         "id": "id433",
         "Equipo": "ALMERIA",
-        "Jugador": "Raúl Morales",
+        "Jugador": "Ra\u00FAl Morales",
         "Goles": 12,
         "Tarjetas": 0
     },
@@ -1946,7 +1946,7 @@
     {
         "Puesto": "244º",
         "id": "id552",
-        "Equipo": "Atlético de Madrid",
+        "Equipo": "Atl\u00E9tico de Madrid",
         "Jugador": "David Vargas",
         "Goles": 12,
         "Tarjetas": 0
@@ -1955,7 +1955,7 @@
         "Puesto": "245º",
         "id": "id614",
         "Equipo": "Haria C.F",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 0
     },
@@ -1963,7 +1963,7 @@
         "Puesto": "246º",
         "id": "id644",
         "Equipo": "OSASUNA",
-        "Jugador": "Raúl Pérez",
+        "Jugador": "Ra\u00FAl P\u00E9rez",
         "Goles": 12,
         "Tarjetas": 0
     },
@@ -1979,7 +1979,7 @@
         "Puesto": "248º",
         "id": "id140",
         "Equipo": "Rangers",
-        "Jugador": "Miguel Rodríguez",
+        "Jugador": "Miguel Rodr\u00EDguez",
         "Goles": 12,
         "Tarjetas": 1
     },
@@ -1987,7 +1987,7 @@
         "Puesto": "249º",
         "id": "id187",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "David Gómez",
+        "Jugador": "David G\u00F3mez",
         "Goles": 12,
         "Tarjetas": 1
     },
@@ -1995,7 +1995,7 @@
         "Puesto": "250º",
         "id": "id217",
         "Equipo": "D. CORUNA",
-        "Jugador": "Luis Ramírez",
+        "Jugador": "Luis Ram\u00EDrez",
         "Goles": 12,
         "Tarjetas": 2
     },
@@ -2003,7 +2003,7 @@
         "Puesto": "251º",
         "id": "id12",
         "Equipo": "O.Maritima",
-        "Jugador": "David Hernández",
+        "Jugador": "David Hern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 4
     },
@@ -2011,7 +2011,7 @@
         "Puesto": "252º",
         "id": "id61",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Luis Gómez",
+        "Jugador": "Luis G\u00F3mez",
         "Goles": 12,
         "Tarjetas": 4
     },
@@ -2019,7 +2019,7 @@
         "Puesto": "253º",
         "id": "id134",
         "Equipo": "Rangers",
-        "Jugador": "Miguel López",
+        "Jugador": "Miguel L\u00F3pez",
         "Goles": 12,
         "Tarjetas": 4
     },
@@ -2035,7 +2035,7 @@
         "Puesto": "255º",
         "id": "id501",
         "Equipo": "GRANADA",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 12,
         "Tarjetas": 4
     },
@@ -2051,7 +2051,7 @@
         "Puesto": "257º",
         "id": "id634",
         "Equipo": "Liverpool",
-        "Jugador": "Raúl Morales",
+        "Jugador": "Ra\u00FAl Morales",
         "Goles": 12,
         "Tarjetas": 5
     },
@@ -2059,7 +2059,7 @@
         "Puesto": "258º",
         "id": "id148",
         "Equipo": "Olympiacos",
-        "Jugador": "Carlos Díaz",
+        "Jugador": "Carlos D\u00EDaz",
         "Goles": 12,
         "Tarjetas": 6
     },
@@ -2067,7 +2067,7 @@
         "Puesto": "259º",
         "id": "id453",
         "Equipo": "Roma",
-        "Jugador": "Carlos Rodríguez",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 12,
         "Tarjetas": 6
     },
@@ -2075,7 +2075,7 @@
         "Puesto": "260º",
         "id": "id486",
         "Equipo": "Manchester United",
-        "Jugador": "Raúl Rodríguez",
+        "Jugador": "Ra\u00FAl Rodr\u00EDguez",
         "Goles": 12,
         "Tarjetas": 7
     },
@@ -2083,7 +2083,7 @@
         "Puesto": "261º",
         "id": "id496",
         "Equipo": "Manchester United",
-        "Jugador": "Jorge Fernández",
+        "Jugador": "Jorge Fern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 7
     },
@@ -2091,7 +2091,7 @@
         "Puesto": "262º",
         "id": "id500",
         "Equipo": "GRANADA",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 12,
         "Tarjetas": 7
     },
@@ -2099,7 +2099,7 @@
         "Puesto": "263º",
         "id": "id86",
         "Equipo": "BRITONG",
-        "Jugador": "Manuel Rodríguez",
+        "Jugador": "Manuel Rodr\u00EDguez",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2107,7 +2107,7 @@
         "Puesto": "264º",
         "id": "id278",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "David Díaz",
+        "Jugador": "David D\u00EDaz",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2115,7 +2115,7 @@
         "Puesto": "265º",
         "id": "id295",
         "Equipo": "Napoli",
-        "Jugador": "Miguel López",
+        "Jugador": "Miguel L\u00F3pez",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2123,7 +2123,7 @@
         "Puesto": "266º",
         "id": "id335",
         "Equipo": "Real Madrid",
-        "Jugador": "Raúl Sánchez",
+        "Jugador": "Ra\u00FAl S\u00E1nchez",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2131,7 +2131,7 @@
         "Puesto": "267º",
         "id": "id474",
         "Equipo": "B Dortmund",
-        "Jugador": "David García",
+        "Jugador": "David Garc\u00EDa",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2139,7 +2139,7 @@
         "Puesto": "268º",
         "id": "id568",
         "Equipo": "HARIA",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 12,
         "Tarjetas": 8
     },
@@ -2147,7 +2147,7 @@
         "Puesto": "269º",
         "id": "id40",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Raúl Fernández",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 9
     },
@@ -2155,7 +2155,7 @@
         "Puesto": "270º",
         "id": "id254",
         "Equipo": "Sporting CP",
-        "Jugador": "David Fernández",
+        "Jugador": "David Fern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 9
     },
@@ -2179,7 +2179,7 @@
         "Puesto": "273º",
         "id": "id307",
         "Equipo": "Bayern Munich",
-        "Jugador": "Alejandro Pérez",
+        "Jugador": "Alejandro P\u00E9rez",
         "Goles": 12,
         "Tarjetas": 10
     },
@@ -2187,7 +2187,7 @@
         "Puesto": "274º",
         "id": "id325",
         "Equipo": "Real Madrid",
-        "Jugador": "Francisco Fernández",
+        "Jugador": "Francisco Fern\u00E1ndez",
         "Goles": 12,
         "Tarjetas": 10
     },
@@ -2195,7 +2195,7 @@
         "Puesto": "275º",
         "id": "id626",
         "Equipo": "Liverpool",
-        "Jugador": "Miguel Ramírez",
+        "Jugador": "Miguel Ram\u00EDrez",
         "Goles": 12,
         "Tarjetas": 10
     },
@@ -2211,7 +2211,7 @@
         "Puesto": "277º",
         "id": "id58",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Carlos Ramírez",
+        "Jugador": "Carlos Ram\u00EDrez",
         "Goles": 11,
         "Tarjetas": 0
     },
@@ -2219,7 +2219,7 @@
         "Puesto": "278º",
         "id": "id81",
         "Equipo": "BRITONG",
-        "Jugador": "Miguel López",
+        "Jugador": "Miguel L\u00F3pez",
         "Goles": 11,
         "Tarjetas": 0
     },
@@ -2227,7 +2227,7 @@
         "Puesto": "279º",
         "id": "id332",
         "Equipo": "Real Madrid",
-        "Jugador": "Luis Díaz",
+        "Jugador": "Luis D\u00EDaz",
         "Goles": 11,
         "Tarjetas": 0
     },
@@ -2235,7 +2235,7 @@
         "Puesto": "280º",
         "id": "id06",
         "Equipo": "O.Maritima",
-        "Jugador": "Manuel Pérez",
+        "Jugador": "Manuel P\u00E9rez",
         "Goles": 11,
         "Tarjetas": 1
     },
@@ -2243,7 +2243,7 @@
         "Puesto": "281º",
         "id": "id235",
         "Equipo": "Chelsea",
-        "Jugador": "Pedro Martínez",
+        "Jugador": "Pedro Mart\u00EDnez",
         "Goles": 11,
         "Tarjetas": 1
     },
@@ -2251,7 +2251,7 @@
         "Puesto": "282º",
         "id": "id241",
         "Equipo": "Sporting CP",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 11,
         "Tarjetas": 1
     },
@@ -2267,7 +2267,7 @@
         "Puesto": "284º",
         "id": "id519",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Jorge Rodríguez",
+        "Jugador": "Jorge Rodr\u00EDguez",
         "Goles": 11,
         "Tarjetas": 1
     },
@@ -2275,7 +2275,7 @@
         "Puesto": "285º",
         "id": "id33",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 11,
         "Tarjetas": 2
     },
@@ -2283,7 +2283,7 @@
         "Puesto": "286º",
         "id": "id476",
         "Equipo": "B Dortmund",
-        "Jugador": "Manuel Sánchez",
+        "Jugador": "Manuel S\u00E1nchez",
         "Goles": 11,
         "Tarjetas": 2
     },
@@ -2291,7 +2291,7 @@
         "Puesto": "287º",
         "id": "id22",
         "Equipo": "Feyenoord",
-        "Jugador": "Alejandro Fernández",
+        "Jugador": "Alejandro Fern\u00E1ndez",
         "Goles": 11,
         "Tarjetas": 3
     },
@@ -2299,7 +2299,7 @@
         "Puesto": "288º",
         "id": "id168",
         "Equipo": "Celtic",
-        "Jugador": "David Fernández",
+        "Jugador": "David Fern\u00E1ndez",
         "Goles": 11,
         "Tarjetas": 4
     },
@@ -2315,7 +2315,7 @@
         "Puesto": "290º",
         "id": "id79",
         "Equipo": "Villareal",
-        "Jugador": "Diego García",
+        "Jugador": "Diego Garc\u00EDa",
         "Goles": 11,
         "Tarjetas": 5
     },
@@ -2323,7 +2323,7 @@
         "Puesto": "291º",
         "id": "id171",
         "Equipo": "Celtic",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 11,
         "Tarjetas": 5
     },
@@ -2347,7 +2347,7 @@
         "Puesto": "294º",
         "id": "id397",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 11,
         "Tarjetas": 6
     },
@@ -2363,7 +2363,7 @@
         "Puesto": "296º",
         "id": "id150",
         "Equipo": "Olympiacos",
-        "Jugador": "Carlos Sánchez",
+        "Jugador": "Carlos S\u00E1nchez",
         "Goles": 11,
         "Tarjetas": 8
     },
@@ -2371,7 +2371,7 @@
         "Puesto": "297º",
         "id": "id608",
         "Equipo": "Sevilla",
-        "Jugador": "Antonio Martínez",
+        "Jugador": "Antonio Mart\u00EDnez",
         "Goles": 11,
         "Tarjetas": 8
     },
@@ -2379,7 +2379,7 @@
         "Puesto": "298º",
         "id": "id25",
         "Equipo": "Feyenoord",
-        "Jugador": "Jorge Gómez",
+        "Jugador": "Jorge G\u00F3mez",
         "Goles": 11,
         "Tarjetas": 9
     },
@@ -2395,15 +2395,15 @@
         "Puesto": "300º",
         "id": "id327",
         "Equipo": "Real Madrid",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 11,
         "Tarjetas": 9
     },
     {
         "Puesto": "301º",
         "id": "id556",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Carlos Hernández",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Carlos Hern\u00E1ndez",
         "Goles": 11,
         "Tarjetas": 9
     },
@@ -2411,7 +2411,7 @@
         "Puesto": "302º",
         "id": "id623",
         "Equipo": "Haria C.F",
-        "Jugador": "Miguel Martínez",
+        "Jugador": "Miguel Mart\u00EDnez",
         "Goles": 11,
         "Tarjetas": 9
     },
@@ -2419,7 +2419,7 @@
         "Puesto": "303º",
         "id": "id387",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Raúl Hernández",
+        "Jugador": "Ra\u00FAl Hern\u00E1ndez",
         "Goles": 11,
         "Tarjetas": 10
     },
@@ -2427,7 +2427,7 @@
         "Puesto": "304º",
         "id": "id538",
         "Equipo": "Ajax",
-        "Jugador": "Luis Pérez",
+        "Jugador": "Luis P\u00E9rez",
         "Goles": 11,
         "Tarjetas": 10
     },
@@ -2435,7 +2435,7 @@
         "Puesto": "305º",
         "id": "id125",
         "Equipo": "Manchester City",
-        "Jugador": "Francisco Ramírez",
+        "Jugador": "Francisco Ram\u00EDrez",
         "Goles": 10,
         "Tarjetas": 1
     },
@@ -2451,7 +2451,7 @@
         "Puesto": "307º",
         "id": "id384",
         "Equipo": "Juventus",
-        "Jugador": "Miguel García",
+        "Jugador": "Miguel Garc\u00EDa",
         "Goles": 10,
         "Tarjetas": 1
     },
@@ -2459,7 +2459,7 @@
         "Puesto": "308º",
         "id": "id41",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Pedro García",
+        "Jugador": "Pedro Garc\u00EDa",
         "Goles": 10,
         "Tarjetas": 2
     },
@@ -2467,7 +2467,7 @@
         "Puesto": "309º",
         "id": "id244",
         "Equipo": "Sporting CP",
-        "Jugador": "Pedro Ramírez",
+        "Jugador": "Pedro Ram\u00EDrez",
         "Goles": 10,
         "Tarjetas": 2
     },
@@ -2483,7 +2483,7 @@
         "Puesto": "311º",
         "id": "id323",
         "Equipo": "Real Madrid",
-        "Jugador": "Diego Díaz",
+        "Jugador": "Diego D\u00EDaz",
         "Goles": 10,
         "Tarjetas": 2
     },
@@ -2491,7 +2491,7 @@
         "Puesto": "312º",
         "id": "id356",
         "Equipo": "Tottenham",
-        "Jugador": "Pedro Hernández",
+        "Jugador": "Pedro Hern\u00E1ndez",
         "Goles": 10,
         "Tarjetas": 2
     },
@@ -2499,7 +2499,7 @@
         "Puesto": "313º",
         "id": "id52",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 10,
         "Tarjetas": 3
     },
@@ -2507,7 +2507,7 @@
         "Puesto": "314º",
         "id": "id273",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "David Martínez",
+        "Jugador": "David Mart\u00EDnez",
         "Goles": 10,
         "Tarjetas": 3
     },
@@ -2515,7 +2515,7 @@
         "Puesto": "315º",
         "id": "id315",
         "Equipo": "Bayern Munich",
-        "Jugador": "Francisco Pérez",
+        "Jugador": "Francisco P\u00E9rez",
         "Goles": 10,
         "Tarjetas": 3
     },
@@ -2531,7 +2531,7 @@
         "Puesto": "317º",
         "id": "id573",
         "Equipo": "HARIA",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 10,
         "Tarjetas": 3
     },
@@ -2539,7 +2539,7 @@
         "Puesto": "318º",
         "id": "id624",
         "Equipo": "Haria C.F",
-        "Jugador": "José Sánchez",
+        "Jugador": "Jos\u00E9 S\u00E1nchez",
         "Goles": 10,
         "Tarjetas": 3
     },
@@ -2547,7 +2547,7 @@
         "Puesto": "319º",
         "id": "id21",
         "Equipo": "Feyenoord",
-        "Jugador": "José Morales",
+        "Jugador": "Jos\u00E9 Morales",
         "Goles": 10,
         "Tarjetas": 4
     },
@@ -2555,7 +2555,7 @@
         "Puesto": "320º",
         "id": "id113",
         "Equipo": "Manchester City",
-        "Jugador": "Carlos García",
+        "Jugador": "Carlos Garc\u00EDa",
         "Goles": 10,
         "Tarjetas": 4
     },
@@ -2571,7 +2571,7 @@
         "Puesto": "322º",
         "id": "id46",
         "Equipo": "CSKA Moscow",
-        "Jugador": "David Díaz",
+        "Jugador": "David D\u00EDaz",
         "Goles": 10,
         "Tarjetas": 5
     },
@@ -2579,7 +2579,7 @@
         "Puesto": "323º",
         "id": "id328",
         "Equipo": "Real Madrid",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 10,
         "Tarjetas": 5
     },
@@ -2587,7 +2587,7 @@
         "Puesto": "324º",
         "id": "id27",
         "Equipo": "Feyenoord",
-        "Jugador": "Diego López",
+        "Jugador": "Diego L\u00F3pez",
         "Goles": 10,
         "Tarjetas": 6
     },
@@ -2603,7 +2603,7 @@
         "Puesto": "326º",
         "id": "id180",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Jorge Hernández",
+        "Jugador": "Jorge Hern\u00E1ndez",
         "Goles": 10,
         "Tarjetas": 8
     },
@@ -2611,7 +2611,7 @@
         "Puesto": "327º",
         "id": "id309",
         "Equipo": "Bayern Munich",
-        "Jugador": "Luis Sánchez",
+        "Jugador": "Luis S\u00E1nchez",
         "Goles": 10,
         "Tarjetas": 8
     },
@@ -2619,7 +2619,7 @@
         "Puesto": "328º",
         "id": "id462",
         "Equipo": "Roma",
-        "Jugador": "Raúl Díaz",
+        "Jugador": "Ra\u00FAl D\u00EDaz",
         "Goles": 10,
         "Tarjetas": 8
     },
@@ -2627,7 +2627,7 @@
         "Puesto": "329º",
         "id": "id509",
         "Equipo": "GRANADA",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 10,
         "Tarjetas": 8
     },
@@ -2635,7 +2635,7 @@
         "Puesto": "330º",
         "id": "id112",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Manuel García",
+        "Jugador": "Manuel Garc\u00EDa",
         "Goles": 10,
         "Tarjetas": 9
     },
@@ -2659,7 +2659,7 @@
         "Puesto": "333º",
         "id": "id393",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 10,
         "Tarjetas": 10
     },
@@ -2667,7 +2667,7 @@
         "Puesto": "334º",
         "id": "id250",
         "Equipo": "Sporting CP",
-        "Jugador": "Raúl Rodríguez",
+        "Jugador": "Ra\u00FAl Rodr\u00EDguez",
         "Goles": 9,
         "Tarjetas": 0
     },
@@ -2675,7 +2675,7 @@
         "Puesto": "335º",
         "id": "id438",
         "Equipo": "ALMERIA",
-        "Jugador": "Diego Rodríguez",
+        "Jugador": "Diego Rodr\u00EDguez",
         "Goles": 9,
         "Tarjetas": 0
     },
@@ -2683,7 +2683,7 @@
         "Puesto": "336º",
         "id": "id102",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 9,
         "Tarjetas": 1
     },
@@ -2699,7 +2699,7 @@
         "Puesto": "338º",
         "id": "id143",
         "Equipo": "Rangers",
-        "Jugador": "Antonio García",
+        "Jugador": "Antonio Garc\u00EDa",
         "Goles": 9,
         "Tarjetas": 1
     },
@@ -2707,7 +2707,7 @@
         "Puesto": "339º",
         "id": "id170",
         "Equipo": "Celtic",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 9,
         "Tarjetas": 1
     },
@@ -2715,7 +2715,7 @@
         "Puesto": "340º",
         "id": "id357",
         "Equipo": "Tottenham",
-        "Jugador": "Francisco Pérez",
+        "Jugador": "Francisco P\u00E9rez",
         "Goles": 9,
         "Tarjetas": 1
     },
@@ -2723,7 +2723,7 @@
         "Puesto": "341º",
         "id": "id376",
         "Equipo": "Juventus",
-        "Jugador": "Carlos Rodríguez",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 9,
         "Tarjetas": 1
     },
@@ -2731,7 +2731,7 @@
         "Puesto": "342º",
         "id": "id132",
         "Equipo": "Rangers",
-        "Jugador": "Carlos Sánchez",
+        "Jugador": "Carlos S\u00E1nchez",
         "Goles": 9,
         "Tarjetas": 2
     },
@@ -2739,7 +2739,7 @@
         "Puesto": "343º",
         "id": "id174",
         "Equipo": "Celtic",
-        "Jugador": "Antonio Gómez",
+        "Jugador": "Antonio G\u00F3mez",
         "Goles": 9,
         "Tarjetas": 2
     },
@@ -2747,7 +2747,7 @@
         "Puesto": "344º",
         "id": "id490",
         "Equipo": "Manchester United",
-        "Jugador": "Carlos Hernández",
+        "Jugador": "Carlos Hern\u00E1ndez",
         "Goles": 9,
         "Tarjetas": 2
     },
@@ -2755,7 +2755,7 @@
         "Puesto": "345º",
         "id": "id158",
         "Equipo": "Olympiacos",
-        "Jugador": "Carlos Martínez",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 9,
         "Tarjetas": 3
     },
@@ -2779,7 +2779,7 @@
         "Puesto": "348º",
         "id": "id574",
         "Equipo": "HARIA",
-        "Jugador": "Carlos Rodríguez",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 9,
         "Tarjetas": 3
     },
@@ -2787,7 +2787,7 @@
         "Puesto": "349º",
         "id": "id226",
         "Equipo": "Chelsea",
-        "Jugador": "Miguel Gómez",
+        "Jugador": "Miguel G\u00F3mez",
         "Goles": 9,
         "Tarjetas": 5
     },
@@ -2795,15 +2795,15 @@
         "Puesto": "350º",
         "id": "id193",
         "Equipo": "AC Milan",
-        "Jugador": "Carlos Sánchez",
+        "Jugador": "Carlos S\u00E1nchez",
         "Goles": 9,
         "Tarjetas": 6
     },
     {
         "Puesto": "351º",
         "id": "id557",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "José Cruz",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Jos\u00E9 Cruz",
         "Goles": 9,
         "Tarjetas": 6
     },
@@ -2811,7 +2811,7 @@
         "Puesto": "352º",
         "id": "id56",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Juan Ramírez",
+        "Jugador": "Juan Ram\u00EDrez",
         "Goles": 9,
         "Tarjetas": 8
     },
@@ -2819,7 +2819,7 @@
         "Puesto": "353º",
         "id": "id35",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Jorge López",
+        "Jugador": "Jorge L\u00F3pez",
         "Goles": 9,
         "Tarjetas": 9
     },
@@ -2827,7 +2827,7 @@
         "Puesto": "354º",
         "id": "id258",
         "Equipo": "Barcelona",
-        "Jugador": "Alejandro Ramírez",
+        "Jugador": "Alejandro Ram\u00EDrez",
         "Goles": 9,
         "Tarjetas": 9
     },
@@ -2835,7 +2835,7 @@
         "Puesto": "355º",
         "id": "id64",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Luis Pérez",
+        "Jugador": "Luis P\u00E9rez",
         "Goles": 9,
         "Tarjetas": 10
     },
@@ -2851,7 +2851,7 @@
         "Puesto": "357º",
         "id": "id109",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "David López",
+        "Jugador": "David L\u00F3pez",
         "Goles": 9,
         "Tarjetas": 10
     },
@@ -2859,7 +2859,7 @@
         "Puesto": "358º",
         "id": "id296",
         "Equipo": "Napoli",
-        "Jugador": "Francisco Fernández",
+        "Jugador": "Francisco Fern\u00E1ndez",
         "Goles": 8,
         "Tarjetas": 0
     },
@@ -2867,7 +2867,7 @@
         "Puesto": "359º",
         "id": "id265",
         "Equipo": "Barcelona",
-        "Jugador": "Luis Ramírez",
+        "Jugador": "Luis Ram\u00EDrez",
         "Goles": 8,
         "Tarjetas": 1
     },
@@ -2875,7 +2875,7 @@
         "Puesto": "360º",
         "id": "id420",
         "Equipo": "Arsenal",
-        "Jugador": "Miguel Gómez",
+        "Jugador": "Miguel G\u00F3mez",
         "Goles": 8,
         "Tarjetas": 1
     },
@@ -2883,15 +2883,15 @@
         "Puesto": "361º",
         "id": "id110",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 8,
         "Tarjetas": 2
     },
     {
         "Puesto": "362º",
         "id": "id550",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Antonio Pérez",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 8,
         "Tarjetas": 2
     },
@@ -2907,7 +2907,7 @@
         "Puesto": "364º",
         "id": "id288",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 8,
         "Tarjetas": 3
     },
@@ -2915,7 +2915,7 @@
         "Puesto": "365º",
         "id": "id03",
         "Equipo": "O.Maritima",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 8,
         "Tarjetas": 4
     },
@@ -2923,7 +2923,7 @@
         "Puesto": "366º",
         "id": "id369",
         "Equipo": "Juventus",
-        "Jugador": "Antonio Fernández",
+        "Jugador": "Antonio Fern\u00E1ndez",
         "Goles": 8,
         "Tarjetas": 5
     },
@@ -2939,7 +2939,7 @@
         "Puesto": "368º",
         "id": "id78",
         "Equipo": "Villareal",
-        "Jugador": "José Rodríguez",
+        "Jugador": "Jos\u00E9 Rodr\u00EDguez",
         "Goles": 8,
         "Tarjetas": 6
     },
@@ -2947,7 +2947,7 @@
         "Puesto": "369º",
         "id": "id489",
         "Equipo": "Manchester United",
-        "Jugador": "Pedro Fernández",
+        "Jugador": "Pedro Fern\u00E1ndez",
         "Goles": 8,
         "Tarjetas": 6
     },
@@ -2955,7 +2955,7 @@
         "Puesto": "370º",
         "id": "id637",
         "Equipo": "Liverpool",
-        "Jugador": "Juan Sánchez",
+        "Jugador": "Juan S\u00E1nchez",
         "Goles": 8,
         "Tarjetas": 6
     },
@@ -2971,7 +2971,7 @@
         "Puesto": "372º",
         "id": "id603",
         "Equipo": "Sevilla",
-        "Jugador": "Luis Sánchez",
+        "Jugador": "Luis S\u00E1nchez",
         "Goles": 8,
         "Tarjetas": 7
     },
@@ -2979,7 +2979,7 @@
         "Puesto": "373º",
         "id": "id631",
         "Equipo": "Liverpool",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 8,
         "Tarjetas": 7
     },
@@ -2987,7 +2987,7 @@
         "Puesto": "374º",
         "id": "id202",
         "Equipo": "AC Milan",
-        "Jugador": "Francisco Martínez",
+        "Jugador": "Francisco Mart\u00EDnez",
         "Goles": 8,
         "Tarjetas": 8
     },
@@ -3003,7 +3003,7 @@
         "Puesto": "376º",
         "id": "id586",
         "Equipo": "Galatasaray",
-        "Jugador": "David López",
+        "Jugador": "David L\u00F3pez",
         "Goles": 8,
         "Tarjetas": 9
     },
@@ -3011,7 +3011,7 @@
         "Puesto": "377º",
         "id": "id165",
         "Equipo": "Celtic",
-        "Jugador": "Alejandro Martínez",
+        "Jugador": "Alejandro Mart\u00EDnez",
         "Goles": 8,
         "Tarjetas": 10
     },
@@ -3019,15 +3019,15 @@
         "Puesto": "378º",
         "id": "id236",
         "Equipo": "Chelsea",
-        "Jugador": "Miguel López",
+        "Jugador": "Miguel L\u00F3pez",
         "Goles": 8,
         "Tarjetas": 10
     },
     {
         "Puesto": "379º",
         "id": "id547",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Carlos Fernández",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Carlos Fern\u00E1ndez",
         "Goles": 8,
         "Tarjetas": 10
     },
@@ -3043,7 +3043,7 @@
         "Puesto": "381º",
         "id": "id214",
         "Equipo": "D. CORUNA",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 0
     },
@@ -3059,7 +3059,7 @@
         "Puesto": "383º",
         "id": "id581",
         "Equipo": "Galatasaray",
-        "Jugador": "David Fernández",
+        "Jugador": "David Fern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 0
     },
@@ -3067,7 +3067,7 @@
         "Puesto": "384º",
         "id": "id13",
         "Equipo": "O.Maritima",
-        "Jugador": "Jorge Gómez",
+        "Jugador": "Jorge G\u00F3mez",
         "Goles": 7,
         "Tarjetas": 1
     },
@@ -3075,7 +3075,7 @@
         "Puesto": "385º",
         "id": "id351",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Carlos Martínez",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 1
     },
@@ -3083,7 +3083,7 @@
         "Puesto": "386º",
         "id": "id598",
         "Equipo": "Sevilla",
-        "Jugador": "David Hernández",
+        "Jugador": "David Hern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 1
     },
@@ -3099,7 +3099,7 @@
         "Puesto": "388º",
         "id": "id485",
         "Equipo": "Manchester United",
-        "Jugador": "Alejandro Pérez",
+        "Jugador": "Alejandro P\u00E9rez",
         "Goles": 7,
         "Tarjetas": 2
     },
@@ -3107,7 +3107,7 @@
         "Puesto": "389º",
         "id": "id51",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Carlos Fernández",
+        "Jugador": "Carlos Fern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 3
     },
@@ -3115,7 +3115,7 @@
         "Puesto": "390º",
         "id": "id460",
         "Equipo": "Roma",
-        "Jugador": "Antonio García",
+        "Jugador": "Antonio Garc\u00EDa",
         "Goles": 7,
         "Tarjetas": 3
     },
@@ -3123,7 +3123,7 @@
         "Puesto": "391º",
         "id": "id488",
         "Equipo": "Manchester United",
-        "Jugador": "Raúl Martínez",
+        "Jugador": "Ra\u00FAl Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 3
     },
@@ -3131,7 +3131,7 @@
         "Puesto": "392º",
         "id": "id521",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Manuel Díaz",
+        "Jugador": "Manuel D\u00EDaz",
         "Goles": 7,
         "Tarjetas": 3
     },
@@ -3155,7 +3155,7 @@
         "Puesto": "395º",
         "id": "id129",
         "Equipo": "Rangers",
-        "Jugador": "Antonio Díaz",
+        "Jugador": "Antonio D\u00EDaz",
         "Goles": 7,
         "Tarjetas": 4
     },
@@ -3163,7 +3163,7 @@
         "Puesto": "396º",
         "id": "id224",
         "Equipo": "D. CORUNA",
-        "Jugador": "Miguel Fernández",
+        "Jugador": "Miguel Fern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 4
     },
@@ -3171,7 +3171,7 @@
         "Puesto": "397º",
         "id": "id36",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Manuel Fernández",
+        "Jugador": "Manuel Fern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 5
     },
@@ -3179,7 +3179,7 @@
         "Puesto": "398º",
         "id": "id358",
         "Equipo": "Tottenham",
-        "Jugador": "David Martínez",
+        "Jugador": "David Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 5
     },
@@ -3187,7 +3187,7 @@
         "Puesto": "399º",
         "id": "id410",
         "Equipo": "Inter Milan",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 7,
         "Tarjetas": 5
     },
@@ -3203,7 +3203,7 @@
         "Puesto": "401º",
         "id": "id343",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Francisco Hernández",
+        "Jugador": "Francisco Hern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 6
     },
@@ -3227,7 +3227,7 @@
         "Puesto": "404º",
         "id": "id563",
         "Equipo": "HARIA",
-        "Jugador": "Raúl Gómez",
+        "Jugador": "Ra\u00FAl G\u00F3mez",
         "Goles": 7,
         "Tarjetas": 6
     },
@@ -3251,7 +3251,7 @@
         "Puesto": "407º",
         "id": "id497",
         "Equipo": "GRANADA",
-        "Jugador": "Luis García",
+        "Jugador": "Luis Garc\u00EDa",
         "Goles": 7,
         "Tarjetas": 7
     },
@@ -3259,7 +3259,7 @@
         "Puesto": "408º",
         "id": "id93",
         "Equipo": "BRITONG",
-        "Jugador": "David López",
+        "Jugador": "David L\u00F3pez",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3275,7 +3275,7 @@
         "Puesto": "410º",
         "id": "id394",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Raúl Hernández",
+        "Jugador": "Ra\u00FAl Hern\u00E1ndez",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3283,7 +3283,7 @@
         "Puesto": "411º",
         "id": "id451",
         "Equipo": "Roma",
-        "Jugador": "Raúl Martínez",
+        "Jugador": "Ra\u00FAl Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3291,7 +3291,7 @@
         "Puesto": "412º",
         "id": "id564",
         "Equipo": "HARIA",
-        "Jugador": "Diego Pérez",
+        "Jugador": "Diego P\u00E9rez",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3299,7 +3299,7 @@
         "Puesto": "413º",
         "id": "id602",
         "Equipo": "Sevilla",
-        "Jugador": "David López",
+        "Jugador": "David L\u00F3pez",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3307,7 +3307,7 @@
         "Puesto": "414º",
         "id": "id616",
         "Equipo": "Haria C.F",
-        "Jugador": "Manuel García",
+        "Jugador": "Manuel Garc\u00EDa",
         "Goles": 7,
         "Tarjetas": 8
     },
@@ -3323,7 +3323,7 @@
         "Puesto": "416º",
         "id": "id455",
         "Equipo": "Roma",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 9
     },
@@ -3331,7 +3331,7 @@
         "Puesto": "417º",
         "id": "id656",
         "Equipo": "OSASUNA",
-        "Jugador": "Juan García",
+        "Jugador": "Juan Garc\u00EDa",
         "Goles": 7,
         "Tarjetas": 9
     },
@@ -3339,7 +3339,7 @@
         "Puesto": "418º",
         "id": "id62",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Diego García",
+        "Jugador": "Diego Garc\u00EDa",
         "Goles": 7,
         "Tarjetas": 10
     },
@@ -3347,7 +3347,7 @@
         "Puesto": "419º",
         "id": "id138",
         "Equipo": "Rangers",
-        "Jugador": "Francisco Martínez",
+        "Jugador": "Francisco Mart\u00EDnez",
         "Goles": 7,
         "Tarjetas": 10
     },
@@ -3355,7 +3355,7 @@
         "Puesto": "420º",
         "id": "id348",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 7,
         "Tarjetas": 10
     },
@@ -3363,7 +3363,7 @@
         "Puesto": "421º",
         "id": "id467",
         "Equipo": "B Dortmund",
-        "Jugador": "Carlos Sánchez",
+        "Jugador": "Carlos S\u00E1nchez",
         "Goles": 7,
         "Tarjetas": 10
     },
@@ -3371,7 +3371,7 @@
         "Puesto": "422º",
         "id": "id469",
         "Equipo": "B Dortmund",
-        "Jugador": "Francisco Rodríguez",
+        "Jugador": "Francisco Rodr\u00EDguez",
         "Goles": 7,
         "Tarjetas": 10
     },
@@ -3379,7 +3379,7 @@
         "Puesto": "423º",
         "id": "id18",
         "Equipo": "Feyenoord",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3387,7 +3387,7 @@
         "Puesto": "424º",
         "id": "id219",
         "Equipo": "D. CORUNA",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3395,7 +3395,7 @@
         "Puesto": "425º",
         "id": "id275",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Carlos Rodríguez",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3403,7 +3403,7 @@
         "Puesto": "426º",
         "id": "id364",
         "Equipo": "Tottenham",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3411,7 +3411,7 @@
         "Puesto": "427º",
         "id": "id570",
         "Equipo": "HARIA",
-        "Jugador": "David Fernández",
+        "Jugador": "David Fern\u00E1ndez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3419,7 +3419,7 @@
         "Puesto": "428º",
         "id": "id653",
         "Equipo": "OSASUNA",
-        "Jugador": "Raúl Sánchez",
+        "Jugador": "Ra\u00FAl S\u00E1nchez",
         "Goles": 6,
         "Tarjetas": 1
     },
@@ -3435,7 +3435,7 @@
         "Puesto": "430º",
         "id": "id116",
         "Equipo": "Manchester City",
-        "Jugador": "Miguel Hernández",
+        "Jugador": "Miguel Hern\u00E1ndez",
         "Goles": 6,
         "Tarjetas": 2
     },
@@ -3451,7 +3451,7 @@
         "Puesto": "432º",
         "id": "id594",
         "Equipo": "Sevilla",
-        "Jugador": "José Pérez",
+        "Jugador": "Jos\u00E9 P\u00E9rez",
         "Goles": 6,
         "Tarjetas": 2
     },
@@ -3459,7 +3459,7 @@
         "Puesto": "433º",
         "id": "id15",
         "Equipo": "O.Maritima",
-        "Jugador": "Juan Martínez",
+        "Jugador": "Juan Mart\u00EDnez",
         "Goles": 6,
         "Tarjetas": 3
     },
@@ -3467,7 +3467,7 @@
         "Puesto": "434º",
         "id": "id82",
         "Equipo": "BRITONG",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 6,
         "Tarjetas": 4
     },
@@ -3475,7 +3475,7 @@
         "Puesto": "435º",
         "id": "id153",
         "Equipo": "Olympiacos",
-        "Jugador": "Juan Sánchez",
+        "Jugador": "Juan S\u00E1nchez",
         "Goles": 6,
         "Tarjetas": 4
     },
@@ -3491,7 +3491,7 @@
         "Puesto": "437º",
         "id": "id492",
         "Equipo": "Manchester United",
-        "Jugador": "Pedro Ramírez",
+        "Jugador": "Pedro Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 4
     },
@@ -3515,7 +3515,7 @@
         "Puesto": "440º",
         "id": "id503",
         "Equipo": "GRANADA",
-        "Jugador": "Carlos Ramírez",
+        "Jugador": "Carlos Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 5
     },
@@ -3523,7 +3523,7 @@
         "Puesto": "441º",
         "id": "id59",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Raúl Gómez",
+        "Jugador": "Ra\u00FAl G\u00F3mez",
         "Goles": 6,
         "Tarjetas": 6
     },
@@ -3531,7 +3531,7 @@
         "Puesto": "442º",
         "id": "id523",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 6
     },
@@ -3539,7 +3539,7 @@
         "Puesto": "443º",
         "id": "id298",
         "Equipo": "Napoli",
-        "Jugador": "Antonio Gómez",
+        "Jugador": "Antonio G\u00F3mez",
         "Goles": 6,
         "Tarjetas": 7
     },
@@ -3547,7 +3547,7 @@
         "Puesto": "444º",
         "id": "id475",
         "Equipo": "B Dortmund",
-        "Jugador": "Jorge Ramírez",
+        "Jugador": "Jorge Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 7
     },
@@ -3555,7 +3555,7 @@
         "Puesto": "445º",
         "id": "id640",
         "Equipo": "Liverpool",
-        "Jugador": "Francisco Sánchez",
+        "Jugador": "Francisco S\u00E1nchez",
         "Goles": 6,
         "Tarjetas": 7
     },
@@ -3563,7 +3563,7 @@
         "Puesto": "446º",
         "id": "id74",
         "Equipo": "Villareal",
-        "Jugador": "Alejandro López",
+        "Jugador": "Alejandro L\u00F3pez",
         "Goles": 6,
         "Tarjetas": 8
     },
@@ -3579,7 +3579,7 @@
         "Puesto": "448º",
         "id": "id99",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Antonio López",
+        "Jugador": "Antonio L\u00F3pez",
         "Goles": 6,
         "Tarjetas": 8
     },
@@ -3595,7 +3595,7 @@
         "Puesto": "450º",
         "id": "id381",
         "Equipo": "Juventus",
-        "Jugador": "Raúl Ramírez",
+        "Jugador": "Ra\u00FAl Ram\u00EDrez",
         "Goles": 6,
         "Tarjetas": 8
     },
@@ -3603,7 +3603,7 @@
         "Puesto": "451º",
         "id": "id477",
         "Equipo": "B Dortmund",
-        "Jugador": "Manuel López",
+        "Jugador": "Manuel L\u00F3pez",
         "Goles": 6,
         "Tarjetas": 8
     },
@@ -3619,7 +3619,7 @@
         "Puesto": "453º",
         "id": "id260",
         "Equipo": "Barcelona",
-        "Jugador": "Francisco Hernández",
+        "Jugador": "Francisco Hern\u00E1ndez",
         "Goles": 6,
         "Tarjetas": 9
     },
@@ -3627,7 +3627,7 @@
         "Puesto": "454º",
         "id": "id355",
         "Equipo": "Tottenham",
-        "Jugador": "Francisco Pérez",
+        "Jugador": "Francisco P\u00E9rez",
         "Goles": 6,
         "Tarjetas": 10
     },
@@ -3635,7 +3635,7 @@
         "Puesto": "455º",
         "id": "id385",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Carlos Rodríguez",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 6,
         "Tarjetas": 10
     },
@@ -3651,7 +3651,7 @@
         "Puesto": "457º",
         "id": "id461",
         "Equipo": "Roma",
-        "Jugador": "Francisco García",
+        "Jugador": "Francisco Garc\u00EDa",
         "Goles": 5,
         "Tarjetas": 0
     },
@@ -3659,7 +3659,7 @@
         "Puesto": "458º",
         "id": "id147",
         "Equipo": "Olympiacos",
-        "Jugador": "Antonio Díaz",
+        "Jugador": "Antonio D\u00EDaz",
         "Goles": 5,
         "Tarjetas": 1
     },
@@ -3667,7 +3667,7 @@
         "Puesto": "459º",
         "id": "id75",
         "Equipo": "Villareal",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 5,
         "Tarjetas": 2
     },
@@ -3683,7 +3683,7 @@
         "Puesto": "461º",
         "id": "id620",
         "Equipo": "Haria C.F",
-        "Jugador": "Miguel Sánchez",
+        "Jugador": "Miguel S\u00E1nchez",
         "Goles": 5,
         "Tarjetas": 2
     },
@@ -3691,7 +3691,7 @@
         "Puesto": "462º",
         "id": "id88",
         "Equipo": "BRITONG",
-        "Jugador": "Luis Pérez",
+        "Jugador": "Luis P\u00E9rez",
         "Goles": 5,
         "Tarjetas": 3
     },
@@ -3707,7 +3707,7 @@
         "Puesto": "464º",
         "id": "id505",
         "Equipo": "GRANADA",
-        "Jugador": "Juan Díaz",
+        "Jugador": "Juan D\u00EDaz",
         "Goles": 5,
         "Tarjetas": 4
     },
@@ -3715,7 +3715,7 @@
         "Puesto": "465º",
         "id": "id583",
         "Equipo": "Galatasaray",
-        "Jugador": "José Pérez",
+        "Jugador": "Jos\u00E9 P\u00E9rez",
         "Goles": 5,
         "Tarjetas": 4
     },
@@ -3723,7 +3723,7 @@
         "Puesto": "466º",
         "id": "id191",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "José Hernández",
+        "Jugador": "Jos\u00E9 Hern\u00E1ndez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3731,7 +3731,7 @@
         "Puesto": "467º",
         "id": "id220",
         "Equipo": "D. CORUNA",
-        "Jugador": "Pedro Martínez",
+        "Jugador": "Pedro Mart\u00EDnez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3739,7 +3739,7 @@
         "Puesto": "468º",
         "id": "id230",
         "Equipo": "Chelsea",
-        "Jugador": "Raúl Pérez",
+        "Jugador": "Ra\u00FAl P\u00E9rez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3747,7 +3747,7 @@
         "Puesto": "469º",
         "id": "id306",
         "Equipo": "Bayern Munich",
-        "Jugador": "Antonio Sánchez",
+        "Jugador": "Antonio S\u00E1nchez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3755,7 +3755,7 @@
         "Puesto": "470º",
         "id": "id346",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "José Sánchez",
+        "Jugador": "Jos\u00E9 S\u00E1nchez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3771,7 +3771,7 @@
         "Puesto": "472º",
         "id": "id494",
         "Equipo": "Manchester United",
-        "Jugador": "Juan Sánchez",
+        "Jugador": "Juan S\u00E1nchez",
         "Goles": 5,
         "Tarjetas": 5
     },
@@ -3787,7 +3787,7 @@
         "Puesto": "474º",
         "id": "id238",
         "Equipo": "Chelsea",
-        "Jugador": "Francisco Rodríguez",
+        "Jugador": "Francisco Rodr\u00EDguez",
         "Goles": 5,
         "Tarjetas": 6
     },
@@ -3795,7 +3795,7 @@
         "Puesto": "475º",
         "id": "id312",
         "Equipo": "Bayern Munich",
-        "Jugador": "Luis Gómez",
+        "Jugador": "Luis G\u00F3mez",
         "Goles": 5,
         "Tarjetas": 6
     },
@@ -3803,7 +3803,7 @@
         "Puesto": "476º",
         "id": "id579",
         "Equipo": "Galatasaray",
-        "Jugador": "José Pérez",
+        "Jugador": "Jos\u00E9 P\u00E9rez",
         "Goles": 5,
         "Tarjetas": 6
     },
@@ -3811,7 +3811,7 @@
         "Puesto": "477º",
         "id": "id232",
         "Equipo": "Chelsea",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 5,
         "Tarjetas": 7
     },
@@ -3827,15 +3827,15 @@
         "Puesto": "479º",
         "id": "id324",
         "Equipo": "Real Madrid",
-        "Jugador": "Luis Rodríguez",
+        "Jugador": "Luis Rodr\u00EDguez",
         "Goles": 5,
         "Tarjetas": 7
     },
     {
         "Puesto": "480º",
         "id": "id559",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Diego Gómez",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 5,
         "Tarjetas": 7
     },
@@ -3843,7 +3843,7 @@
         "Puesto": "481º",
         "id": "id97",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "David Gómez",
+        "Jugador": "David G\u00F3mez",
         "Goles": 5,
         "Tarjetas": 8
     },
@@ -3851,7 +3851,7 @@
         "Puesto": "482º",
         "id": "id186",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Miguel Rodríguez",
+        "Jugador": "Miguel Rodr\u00EDguez",
         "Goles": 5,
         "Tarjetas": 8
     },
@@ -3867,7 +3867,7 @@
         "Puesto": "484º",
         "id": "id646",
         "Equipo": "OSASUNA",
-        "Jugador": "Diego López",
+        "Jugador": "Diego L\u00F3pez",
         "Goles": 5,
         "Tarjetas": 8
     },
@@ -3875,7 +3875,7 @@
         "Puesto": "485º",
         "id": "id212",
         "Equipo": "D. CORUNA",
-        "Jugador": "Miguel Fernández",
+        "Jugador": "Miguel Fern\u00E1ndez",
         "Goles": 5,
         "Tarjetas": 9
     },
@@ -3891,7 +3891,7 @@
         "Puesto": "487º",
         "id": "id440",
         "Equipo": "ALMERIA",
-        "Jugador": "Jorge Hernández",
+        "Jugador": "Jorge Hern\u00E1ndez",
         "Goles": 5,
         "Tarjetas": 9
     },
@@ -3899,7 +3899,7 @@
         "Puesto": "488º",
         "id": "id655",
         "Equipo": "OSASUNA",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 5,
         "Tarjetas": 9
     },
@@ -3907,7 +3907,7 @@
         "Puesto": "489º",
         "id": "id80",
         "Equipo": "Villareal",
-        "Jugador": "Alejandro Sánchez",
+        "Jugador": "Alejandro S\u00E1nchez",
         "Goles": 5,
         "Tarjetas": 10
     },
@@ -3915,7 +3915,7 @@
         "Puesto": "490º",
         "id": "id341",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "Miguel Díaz",
+        "Jugador": "Miguel D\u00EDaz",
         "Goles": 5,
         "Tarjetas": 10
     },
@@ -3923,7 +3923,7 @@
         "Puesto": "491º",
         "id": "id37",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Manuel Fernández",
+        "Jugador": "Manuel Fern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 0
     },
@@ -3931,7 +3931,7 @@
         "Puesto": "492º",
         "id": "id100",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Alejandro López",
+        "Jugador": "Alejandro L\u00F3pez",
         "Goles": 4,
         "Tarjetas": 0
     },
@@ -3947,7 +3947,7 @@
         "Puesto": "494º",
         "id": "id320",
         "Equipo": "Bayern Munich",
-        "Jugador": "José Martínez",
+        "Jugador": "Jos\u00E9 Mart\u00EDnez",
         "Goles": 4,
         "Tarjetas": 0
     },
@@ -3971,7 +3971,7 @@
         "Puesto": "497º",
         "id": "id133",
         "Equipo": "Rangers",
-        "Jugador": "Diego Martínez",
+        "Jugador": "Diego Mart\u00EDnez",
         "Goles": 4,
         "Tarjetas": 2
     },
@@ -3979,7 +3979,7 @@
         "Puesto": "498º",
         "id": "id386",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Alejandro Hernández",
+        "Jugador": "Alejandro Hern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 2
     },
@@ -3987,7 +3987,7 @@
         "Puesto": "499º",
         "id": "id391",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Diego Sánchez",
+        "Jugador": "Diego S\u00E1nchez",
         "Goles": 4,
         "Tarjetas": 2
     },
@@ -3995,7 +3995,7 @@
         "Puesto": "500º",
         "id": "id414",
         "Equipo": "Inter Milan",
-        "Jugador": "Miguel Fernández",
+        "Jugador": "Miguel Fern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 2
     },
@@ -4003,7 +4003,7 @@
         "Puesto": "501º",
         "id": "id65",
         "Equipo": "Villareal",
-        "Jugador": "Jorge Pérez",
+        "Jugador": "Jorge P\u00E9rez",
         "Goles": 4,
         "Tarjetas": 3
     },
@@ -4011,7 +4011,7 @@
         "Puesto": "502º",
         "id": "id263",
         "Equipo": "Barcelona",
-        "Jugador": "Miguel Martínez",
+        "Jugador": "Miguel Mart\u00EDnez",
         "Goles": 4,
         "Tarjetas": 3
     },
@@ -4019,7 +4019,7 @@
         "Puesto": "503º",
         "id": "id445",
         "Equipo": "ALMERIA",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 4,
         "Tarjetas": 3
     },
@@ -4035,7 +4035,7 @@
         "Puesto": "505º",
         "id": "id124",
         "Equipo": "Manchester City",
-        "Jugador": "Antonio Ramírez",
+        "Jugador": "Antonio Ram\u00EDrez",
         "Goles": 4,
         "Tarjetas": 4
     },
@@ -4043,7 +4043,7 @@
         "Puesto": "506º",
         "id": "id424",
         "Equipo": "Arsenal",
-        "Jugador": "Juan Díaz",
+        "Jugador": "Juan D\u00EDaz",
         "Goles": 4,
         "Tarjetas": 4
     },
@@ -4051,7 +4051,7 @@
         "Puesto": "507º",
         "id": "id532",
         "Equipo": "Ajax",
-        "Jugador": "Juan Díaz",
+        "Jugador": "Juan D\u00EDaz",
         "Goles": 4,
         "Tarjetas": 4
     },
@@ -4067,7 +4067,7 @@
         "Puesto": "509º",
         "id": "id629",
         "Equipo": "Liverpool",
-        "Jugador": "Luis García",
+        "Jugador": "Luis Garc\u00EDa",
         "Goles": 4,
         "Tarjetas": 4
     },
@@ -4075,7 +4075,7 @@
         "Puesto": "510º",
         "id": "id176",
         "Equipo": "Celtic",
-        "Jugador": "José Cruz",
+        "Jugador": "Jos\u00E9 Cruz",
         "Goles": 4,
         "Tarjetas": 5
     },
@@ -4083,7 +4083,7 @@
         "Puesto": "511º",
         "id": "id183",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 5
     },
@@ -4091,7 +4091,7 @@
         "Puesto": "512º",
         "id": "id466",
         "Equipo": "B Dortmund",
-        "Jugador": "Pedro García",
+        "Jugador": "Pedro Garc\u00EDa",
         "Goles": 4,
         "Tarjetas": 5
     },
@@ -4099,7 +4099,7 @@
         "Puesto": "513º",
         "id": "id32",
         "Equipo": "Feyenoord",
-        "Jugador": "David Hernández",
+        "Jugador": "David Hern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 6
     },
@@ -4107,7 +4107,7 @@
         "Puesto": "514º",
         "id": "id91",
         "Equipo": "BRITONG",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 4,
         "Tarjetas": 6
     },
@@ -4115,7 +4115,7 @@
         "Puesto": "515º",
         "id": "id209",
         "Equipo": "D. CORUNA",
-        "Jugador": "David López",
+        "Jugador": "David L\u00F3pez",
         "Goles": 4,
         "Tarjetas": 6
     },
@@ -4123,7 +4123,7 @@
         "Puesto": "516º",
         "id": "id130",
         "Equipo": "Rangers",
-        "Jugador": "Raúl Hernández",
+        "Jugador": "Ra\u00FAl Hern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 8
     },
@@ -4131,7 +4131,7 @@
         "Puesto": "517º",
         "id": "id175",
         "Equipo": "Celtic",
-        "Jugador": "José Martínez",
+        "Jugador": "Jos\u00E9 Mart\u00EDnez",
         "Goles": 4,
         "Tarjetas": 8
     },
@@ -4139,7 +4139,7 @@
         "Puesto": "518º",
         "id": "id188",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Francisco Fernández",
+        "Jugador": "Francisco Fern\u00E1ndez",
         "Goles": 4,
         "Tarjetas": 8
     },
@@ -4147,7 +4147,7 @@
         "Puesto": "519º",
         "id": "id279",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Raúl López",
+        "Jugador": "Ra\u00FAl L\u00F3pez",
         "Goles": 4,
         "Tarjetas": 8
     },
@@ -4155,7 +4155,7 @@
         "Puesto": "520º",
         "id": "id513",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Antonio Martínez",
+        "Jugador": "Antonio Mart\u00EDnez",
         "Goles": 4,
         "Tarjetas": 8
     },
@@ -4163,7 +4163,7 @@
         "Puesto": "521º",
         "id": "id487",
         "Equipo": "Manchester United",
-        "Jugador": "Jorge Pérez",
+        "Jugador": "Jorge P\u00E9rez",
         "Goles": 4,
         "Tarjetas": 9
     },
@@ -4179,7 +4179,7 @@
         "Puesto": "523º",
         "id": "id651",
         "Equipo": "OSASUNA",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 4,
         "Tarjetas": 9
     },
@@ -4187,7 +4187,7 @@
         "Puesto": "524º",
         "id": "id69",
         "Equipo": "Villareal",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 4,
         "Tarjetas": 10
     },
@@ -4203,7 +4203,7 @@
         "Puesto": "526º",
         "id": "id483",
         "Equipo": "Manchester United",
-        "Jugador": "José Gómez",
+        "Jugador": "Jos\u00E9 G\u00F3mez",
         "Goles": 4,
         "Tarjetas": 10
     },
@@ -4211,7 +4211,7 @@
         "Puesto": "527º",
         "id": "id589",
         "Equipo": "Galatasaray",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 4,
         "Tarjetas": 10
     },
@@ -4235,7 +4235,7 @@
         "Puesto": "530º",
         "id": "id68",
         "Equipo": "Villareal",
-        "Jugador": "Diego Ramírez",
+        "Jugador": "Diego Ram\u00EDrez",
         "Goles": 3,
         "Tarjetas": 0
     },
@@ -4243,7 +4243,7 @@
         "Puesto": "531º",
         "id": "id282",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Juan García",
+        "Jugador": "Juan Garc\u00EDa",
         "Goles": 3,
         "Tarjetas": 0
     },
@@ -4251,7 +4251,7 @@
         "Puesto": "532º",
         "id": "id304",
         "Equipo": "Napoli",
-        "Jugador": "Juan Martínez",
+        "Jugador": "Juan Mart\u00EDnez",
         "Goles": 3,
         "Tarjetas": 2
     },
@@ -4259,7 +4259,7 @@
         "Puesto": "533º",
         "id": "id473",
         "Equipo": "B Dortmund",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 3,
         "Tarjetas": 2
     },
@@ -4267,7 +4267,7 @@
         "Puesto": "534º",
         "id": "id72",
         "Equipo": "Villareal",
-        "Jugador": "Manuel Martínez",
+        "Jugador": "Manuel Mart\u00EDnez",
         "Goles": 3,
         "Tarjetas": 3
     },
@@ -4275,7 +4275,7 @@
         "Puesto": "535º",
         "id": "id353",
         "Equipo": "Tottenham",
-        "Jugador": "Juan García",
+        "Jugador": "Juan Garc\u00EDa",
         "Goles": 3,
         "Tarjetas": 3
     },
@@ -4283,7 +4283,7 @@
         "Puesto": "536º",
         "id": "id374",
         "Equipo": "Juventus",
-        "Jugador": "Juan Hernández",
+        "Jugador": "Juan Hern\u00E1ndez",
         "Goles": 3,
         "Tarjetas": 3
     },
@@ -4291,7 +4291,7 @@
         "Puesto": "537º",
         "id": "id382",
         "Equipo": "Juventus",
-        "Jugador": "Alejandro López",
+        "Jugador": "Alejandro L\u00F3pez",
         "Goles": 3,
         "Tarjetas": 3
     },
@@ -4299,7 +4299,7 @@
         "Puesto": "538º",
         "id": "id537",
         "Equipo": "Ajax",
-        "Jugador": "Manuel Rodríguez",
+        "Jugador": "Manuel Rodr\u00EDguez",
         "Goles": 3,
         "Tarjetas": 3
     },
@@ -4307,7 +4307,7 @@
         "Puesto": "539º",
         "id": "id363",
         "Equipo": "Tottenham",
-        "Jugador": "Diego Rodríguez",
+        "Jugador": "Diego Rodr\u00EDguez",
         "Goles": 3,
         "Tarjetas": 4
     },
@@ -4315,7 +4315,7 @@
         "Puesto": "540º",
         "id": "id510",
         "Equipo": "GRANADA",
-        "Jugador": "Juan Fernández",
+        "Jugador": "Juan Fern\u00E1ndez",
         "Goles": 3,
         "Tarjetas": 4
     },
@@ -4323,7 +4323,7 @@
         "Puesto": "541º",
         "id": "id604",
         "Equipo": "Sevilla",
-        "Jugador": "Jorge Rodríguez",
+        "Jugador": "Jorge Rodr\u00EDguez",
         "Goles": 3,
         "Tarjetas": 4
     },
@@ -4339,7 +4339,7 @@
         "Puesto": "543º",
         "id": "id388",
         "Equipo": "Z. Saint Petersburg",
-        "Jugador": "Luis Martínez",
+        "Jugador": "Luis Mart\u00EDnez",
         "Goles": 3,
         "Tarjetas": 5
     },
@@ -4347,7 +4347,7 @@
         "Puesto": "544º",
         "id": "id432",
         "Equipo": "Arsenal",
-        "Jugador": "Antonio López",
+        "Jugador": "Antonio L\u00F3pez",
         "Goles": 3,
         "Tarjetas": 5
     },
@@ -4355,7 +4355,7 @@
         "Puesto": "545º",
         "id": "id145",
         "Equipo": "Olympiacos",
-        "Jugador": "Raúl Ramírez",
+        "Jugador": "Ra\u00FAl Ram\u00EDrez",
         "Goles": 3,
         "Tarjetas": 6
     },
@@ -4363,7 +4363,7 @@
         "Puesto": "546º",
         "id": "id528",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "José Ramírez",
+        "Jugador": "Jos\u00E9 Ram\u00EDrez",
         "Goles": 3,
         "Tarjetas": 7
     },
@@ -4371,7 +4371,7 @@
         "Puesto": "547º",
         "id": "id248",
         "Equipo": "Sporting CP",
-        "Jugador": "Diego Fernández",
+        "Jugador": "Diego Fern\u00E1ndez",
         "Goles": 3,
         "Tarjetas": 8
     },
@@ -4387,7 +4387,7 @@
         "Puesto": "549º",
         "id": "id612",
         "Equipo": "Haria C.F",
-        "Jugador": "Miguel Hernández",
+        "Jugador": "Miguel Hern\u00E1ndez",
         "Goles": 3,
         "Tarjetas": 8
     },
@@ -4395,7 +4395,7 @@
         "Puesto": "550º",
         "id": "id111",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "Luis García",
+        "Jugador": "Luis Garc\u00EDa",
         "Goles": 3,
         "Tarjetas": 9
     },
@@ -4403,7 +4403,7 @@
         "Puesto": "551º",
         "id": "id159",
         "Equipo": "Olympiacos",
-        "Jugador": "Alejandro Martínez",
+        "Jugador": "Alejandro Mart\u00EDnez",
         "Goles": 3,
         "Tarjetas": 9
     },
@@ -4419,7 +4419,7 @@
         "Puesto": "553º",
         "id": "id427",
         "Equipo": "Arsenal",
-        "Jugador": "Antonio García",
+        "Jugador": "Antonio Garc\u00EDa",
         "Goles": 3,
         "Tarjetas": 9
     },
@@ -4427,7 +4427,7 @@
         "Puesto": "554º",
         "id": "id482",
         "Equipo": "Manchester United",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 3,
         "Tarjetas": 10
     },
@@ -4435,7 +4435,7 @@
         "Puesto": "555º",
         "id": "id596",
         "Equipo": "Sevilla",
-        "Jugador": "Raúl Morales",
+        "Jugador": "Ra\u00FAl Morales",
         "Goles": 3,
         "Tarjetas": 10
     },
@@ -4443,7 +4443,7 @@
         "Puesto": "556º",
         "id": "id446",
         "Equipo": "ALMERIA",
-        "Jugador": "Alejandro Rodríguez",
+        "Jugador": "Alejandro Rodr\u00EDguez",
         "Goles": 2,
         "Tarjetas": 0
     },
@@ -4451,7 +4451,7 @@
         "Puesto": "557º",
         "id": "id628",
         "Equipo": "Liverpool",
-        "Jugador": "Pedro Díaz",
+        "Jugador": "Pedro D\u00EDaz",
         "Goles": 2,
         "Tarjetas": 0
     },
@@ -4459,7 +4459,7 @@
         "Puesto": "558º",
         "id": "id342",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "José Martínez",
+        "Jugador": "Jos\u00E9 Mart\u00EDnez",
         "Goles": 2,
         "Tarjetas": 1
     },
@@ -4467,7 +4467,7 @@
         "Puesto": "559º",
         "id": "id361",
         "Equipo": "Tottenham",
-        "Jugador": "Miguel Díaz",
+        "Jugador": "Miguel D\u00EDaz",
         "Goles": 2,
         "Tarjetas": 1
     },
@@ -4475,7 +4475,7 @@
         "Puesto": "560º",
         "id": "id588",
         "Equipo": "Galatasaray",
-        "Jugador": "Francisco Fernández",
+        "Jugador": "Francisco Fern\u00E1ndez",
         "Goles": 2,
         "Tarjetas": 1
     },
@@ -4483,7 +4483,7 @@
         "Puesto": "561º",
         "id": "id648",
         "Equipo": "OSASUNA",
-        "Jugador": "José Gómez",
+        "Jugador": "Jos\u00E9 G\u00F3mez",
         "Goles": 2,
         "Tarjetas": 1
     },
@@ -4499,7 +4499,7 @@
         "Puesto": "563º",
         "id": "id277",
         "Equipo": "UD. GUADALAJARA",
-        "Jugador": "Raúl Gómez",
+        "Jugador": "Ra\u00FAl G\u00F3mez",
         "Goles": 2,
         "Tarjetas": 2
     },
@@ -4507,7 +4507,7 @@
         "Puesto": "564º",
         "id": "id470",
         "Equipo": "B Dortmund",
-        "Jugador": "Miguel Díaz",
+        "Jugador": "Miguel D\u00EDaz",
         "Goles": 2,
         "Tarjetas": 2
     },
@@ -4515,7 +4515,7 @@
         "Puesto": "565º",
         "id": "id534",
         "Equipo": "Ajax",
-        "Jugador": "Pedro García",
+        "Jugador": "Pedro Garc\u00EDa",
         "Goles": 2,
         "Tarjetas": 2
     },
@@ -4523,7 +4523,7 @@
         "Puesto": "566º",
         "id": "id234",
         "Equipo": "Chelsea",
-        "Jugador": "Alejandro Martínez",
+        "Jugador": "Alejandro Mart\u00EDnez",
         "Goles": 2,
         "Tarjetas": 3
     },
@@ -4531,15 +4531,15 @@
         "Puesto": "567º",
         "id": "id89",
         "Equipo": "BRITONG",
-        "Jugador": "Francisco Martínez",
+        "Jugador": "Francisco Mart\u00EDnez",
         "Goles": 2,
         "Tarjetas": 4
     },
     {
         "Puesto": "568º",
         "id": "id548",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Juan López",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Juan L\u00F3pez",
         "Goles": 2,
         "Tarjetas": 4
     },
@@ -4547,7 +4547,7 @@
         "Puesto": "569º",
         "id": "id218",
         "Equipo": "D. CORUNA",
-        "Jugador": "Jorge Sánchez",
+        "Jugador": "Jorge S\u00E1nchez",
         "Goles": 2,
         "Tarjetas": 5
     },
@@ -4555,7 +4555,7 @@
         "Puesto": "570º",
         "id": "id423",
         "Equipo": "Arsenal",
-        "Jugador": "David Rodríguez",
+        "Jugador": "David Rodr\u00EDguez",
         "Goles": 2,
         "Tarjetas": 5
     },
@@ -4563,7 +4563,7 @@
         "Puesto": "571º",
         "id": "id108",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "David García",
+        "Jugador": "David Garc\u00EDa",
         "Goles": 2,
         "Tarjetas": 6
     },
@@ -4571,7 +4571,7 @@
         "Puesto": "572º",
         "id": "id409",
         "Equipo": "Inter Milan",
-        "Jugador": "Luis Fernández",
+        "Jugador": "Luis Fern\u00E1ndez",
         "Goles": 2,
         "Tarjetas": 6
     },
@@ -4579,7 +4579,7 @@
         "Puesto": "573º",
         "id": "id541",
         "Equipo": "Ajax",
-        "Jugador": "Diego Gómez",
+        "Jugador": "Diego G\u00F3mez",
         "Goles": 2,
         "Tarjetas": 6
     },
@@ -4595,7 +4595,7 @@
         "Puesto": "575º",
         "id": "id55",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Carlos Martínez",
+        "Jugador": "Carlos Mart\u00EDnez",
         "Goles": 2,
         "Tarjetas": 7
     },
@@ -4603,7 +4603,7 @@
         "Puesto": "576º",
         "id": "id205",
         "Equipo": "AC Milan",
-        "Jugador": "José Hernández",
+        "Jugador": "Jos\u00E9 Hern\u00E1ndez",
         "Goles": 2,
         "Tarjetas": 7
     },
@@ -4611,7 +4611,7 @@
         "Puesto": "577º",
         "id": "id30",
         "Equipo": "Feyenoord",
-        "Jugador": "José García",
+        "Jugador": "Jos\u00E9 Garc\u00EDa",
         "Goles": 2,
         "Tarjetas": 8
     },
@@ -4619,7 +4619,7 @@
         "Puesto": "578º",
         "id": "id118",
         "Equipo": "Manchester City",
-        "Jugador": "Juan Sánchez",
+        "Jugador": "Juan S\u00E1nchez",
         "Goles": 2,
         "Tarjetas": 8
     },
@@ -4635,7 +4635,7 @@
         "Puesto": "580º",
         "id": "id565",
         "Equipo": "HARIA",
-        "Jugador": "Antonio Gómez",
+        "Jugador": "Antonio G\u00F3mez",
         "Goles": 2,
         "Tarjetas": 8
     },
@@ -4651,7 +4651,7 @@
         "Puesto": "582º",
         "id": "id272",
         "Equipo": "Barcelona",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 2,
         "Tarjetas": 9
     },
@@ -4659,7 +4659,7 @@
         "Puesto": "583º",
         "id": "id380",
         "Equipo": "Juventus",
-        "Jugador": "Raúl Hernández",
+        "Jugador": "Ra\u00FAl Hern\u00E1ndez",
         "Goles": 2,
         "Tarjetas": 9
     },
@@ -4667,7 +4667,7 @@
         "Puesto": "584º",
         "id": "id419",
         "Equipo": "Arsenal",
-        "Jugador": "Francisco Rodríguez",
+        "Jugador": "Francisco Rodr\u00EDguez",
         "Goles": 2,
         "Tarjetas": 9
     },
@@ -4675,7 +4675,7 @@
         "Puesto": "585º",
         "id": "id120",
         "Equipo": "Manchester City",
-        "Jugador": "Juan Gómez",
+        "Jugador": "Juan G\u00F3mez",
         "Goles": 1,
         "Tarjetas": 0
     },
@@ -4683,7 +4683,7 @@
         "Puesto": "586º",
         "id": "id179",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 1,
         "Tarjetas": 0
     },
@@ -4691,7 +4691,7 @@
         "Puesto": "587º",
         "id": "id101",
         "Equipo": "Bayer Leverkusen",
-        "Jugador": "José Morales",
+        "Jugador": "Jos\u00E9 Morales",
         "Goles": 1,
         "Tarjetas": 1
     },
@@ -4699,7 +4699,7 @@
         "Puesto": "588º",
         "id": "id154",
         "Equipo": "Olympiacos",
-        "Jugador": "Raúl Ramírez",
+        "Jugador": "Ra\u00FAl Ram\u00EDrez",
         "Goles": 1,
         "Tarjetas": 1
     },
@@ -4715,7 +4715,7 @@
         "Puesto": "590º",
         "id": "id428",
         "Equipo": "Arsenal",
-        "Jugador": "Antonio Pérez",
+        "Jugador": "Antonio P\u00E9rez",
         "Goles": 1,
         "Tarjetas": 1
     },
@@ -4723,7 +4723,7 @@
         "Puesto": "591º",
         "id": "id452",
         "Equipo": "Roma",
-        "Jugador": "Raúl Díaz",
+        "Jugador": "Ra\u00FAl D\u00EDaz",
         "Goles": 1,
         "Tarjetas": 1
     },
@@ -4731,7 +4731,7 @@
         "Puesto": "592º",
         "id": "id569",
         "Equipo": "HARIA",
-        "Jugador": "José Vargas",
+        "Jugador": "Jos\u00E9 Vargas",
         "Goles": 1,
         "Tarjetas": 1
     },
@@ -4739,7 +4739,7 @@
         "Puesto": "593º",
         "id": "id349",
         "Equipo": "PSV Eindhoven",
-        "Jugador": "José Hernández",
+        "Jugador": "Jos\u00E9 Hern\u00E1ndez",
         "Goles": 1,
         "Tarjetas": 2
     },
@@ -4763,7 +4763,7 @@
         "Puesto": "596º",
         "id": "id127",
         "Equipo": "Manchester City",
-        "Jugador": "Juan Gómez",
+        "Jugador": "Juan G\u00F3mez",
         "Goles": 1,
         "Tarjetas": 3
     },
@@ -4771,7 +4771,7 @@
         "Puesto": "597º",
         "id": "id146",
         "Equipo": "Olympiacos",
-        "Jugador": "Juan López",
+        "Jugador": "Juan L\u00F3pez",
         "Goles": 1,
         "Tarjetas": 3
     },
@@ -4779,7 +4779,7 @@
         "Puesto": "598º",
         "id": "id299",
         "Equipo": "Napoli",
-        "Jugador": "Raúl Fernández",
+        "Jugador": "Ra\u00FAl Fern\u00E1ndez",
         "Goles": 1,
         "Tarjetas": 3
     },
@@ -4787,7 +4787,7 @@
         "Puesto": "599º",
         "id": "id203",
         "Equipo": "AC Milan",
-        "Jugador": "Pedro Rodríguez",
+        "Jugador": "Pedro Rodr\u00EDguez",
         "Goles": 1,
         "Tarjetas": 4
     },
@@ -4803,7 +4803,7 @@
         "Puesto": "601º",
         "id": "id449",
         "Equipo": "Roma",
-        "Jugador": "Miguel Fernández",
+        "Jugador": "Miguel Fern\u00E1ndez",
         "Goles": 1,
         "Tarjetas": 4
     },
@@ -4811,7 +4811,7 @@
         "Puesto": "602º",
         "id": "id511",
         "Equipo": "GRANADA",
-        "Jugador": "David Sánchez",
+        "Jugador": "David S\u00E1nchez",
         "Goles": 1,
         "Tarjetas": 5
     },
@@ -4819,7 +4819,7 @@
         "Puesto": "603º",
         "id": "id10",
         "Equipo": "O.Maritima",
-        "Jugador": "Manuel Rodríguez",
+        "Jugador": "Manuel Rodr\u00EDguez",
         "Goles": 1,
         "Tarjetas": 6
     },
@@ -4827,7 +4827,7 @@
         "Puesto": "604º",
         "id": "id39",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 1,
         "Tarjetas": 6
     },
@@ -4843,7 +4843,7 @@
         "Puesto": "606º",
         "id": "id67",
         "Equipo": "Villareal",
-        "Jugador": "Diego Pérez",
+        "Jugador": "Diego P\u00E9rez",
         "Goles": 1,
         "Tarjetas": 7
     },
@@ -4859,7 +4859,7 @@
         "Puesto": "608º",
         "id": "id237",
         "Equipo": "Chelsea",
-        "Jugador": "Jorge Sánchez",
+        "Jugador": "Jorge S\u00E1nchez",
         "Goles": 1,
         "Tarjetas": 7
     },
@@ -4867,7 +4867,7 @@
         "Puesto": "609º",
         "id": "id617",
         "Equipo": "Haria C.F",
-        "Jugador": "Diego Martínez",
+        "Jugador": "Diego Mart\u00EDnez",
         "Goles": 1,
         "Tarjetas": 7
     },
@@ -4875,7 +4875,7 @@
         "Puesto": "610º",
         "id": "id643",
         "Equipo": "OSASUNA",
-        "Jugador": "Carlos Gómez",
+        "Jugador": "Carlos G\u00F3mez",
         "Goles": 1,
         "Tarjetas": 7
     },
@@ -4883,7 +4883,7 @@
         "Puesto": "611º",
         "id": "id53",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Miguel Rodríguez",
+        "Jugador": "Miguel Rodr\u00EDguez",
         "Goles": 1,
         "Tarjetas": 8
     },
@@ -4891,7 +4891,7 @@
         "Puesto": "612º",
         "id": "id197",
         "Equipo": "AC Milan",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 1,
         "Tarjetas": 8
     },
@@ -4899,7 +4899,7 @@
         "Puesto": "613º",
         "id": "id516",
         "Equipo": "U.D Las Palmas",
-        "Jugador": "Raúl Ramírez",
+        "Jugador": "Ra\u00FAl Ram\u00EDrez",
         "Goles": 1,
         "Tarjetas": 8
     },
@@ -4907,7 +4907,7 @@
         "Puesto": "614º",
         "id": "id606",
         "Equipo": "Sevilla",
-        "Jugador": "David Ramírez",
+        "Jugador": "David Ram\u00EDrez",
         "Goles": 1,
         "Tarjetas": 8
     },
@@ -4915,7 +4915,7 @@
         "Puesto": "615º",
         "id": "id542",
         "Equipo": "Ajax",
-        "Jugador": "Carlos Díaz",
+        "Jugador": "Carlos D\u00EDaz",
         "Goles": 1,
         "Tarjetas": 9
     },
@@ -4931,7 +4931,7 @@
         "Puesto": "617º",
         "id": "id85",
         "Equipo": "BRITONG",
-        "Jugador": "Pedro Gómez",
+        "Jugador": "Pedro G\u00F3mez",
         "Goles": 1,
         "Tarjetas": 10
     },
@@ -4939,7 +4939,7 @@
         "Puesto": "618º",
         "id": "id139",
         "Equipo": "Rangers",
-        "Jugador": "Pedro Sánchez",
+        "Jugador": "Pedro S\u00E1nchez",
         "Goles": 1,
         "Tarjetas": 10
     },
@@ -4947,7 +4947,7 @@
         "Puesto": "619º",
         "id": "id164",
         "Equipo": "Celtic",
-        "Jugador": "Luis Martínez",
+        "Jugador": "Luis Mart\u00EDnez",
         "Goles": 1,
         "Tarjetas": 10
     },
@@ -4955,7 +4955,7 @@
         "Puesto": "620º",
         "id": "id66",
         "Equipo": "Villareal",
-        "Jugador": "José Sánchez",
+        "Jugador": "Jos\u00E9 S\u00E1nchez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -4963,7 +4963,7 @@
         "Puesto": "621º",
         "id": "id149",
         "Equipo": "Olympiacos",
-        "Jugador": "Juan Martínez",
+        "Jugador": "Juan Mart\u00EDnez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -4971,7 +4971,7 @@
         "Puesto": "622º",
         "id": "id155",
         "Equipo": "Olympiacos",
-        "Jugador": "Diego García",
+        "Jugador": "Diego Garc\u00EDa",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -4979,7 +4979,7 @@
         "Puesto": "623º",
         "id": "id198",
         "Equipo": "AC Milan",
-        "Jugador": "Luis Gómez",
+        "Jugador": "Luis G\u00F3mez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -4987,7 +4987,7 @@
         "Puesto": "624º",
         "id": "id403",
         "Equipo": "Inter Milan",
-        "Jugador": "Francisco Ramírez",
+        "Jugador": "Francisco Ram\u00EDrez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -4995,7 +4995,7 @@
         "Puesto": "625º",
         "id": "id502",
         "Equipo": "GRANADA",
-        "Jugador": "Antonio Sánchez",
+        "Jugador": "Antonio S\u00E1nchez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -5003,7 +5003,7 @@
         "Puesto": "626º",
         "id": "id580",
         "Equipo": "Galatasaray",
-        "Jugador": "Carlos Ramírez",
+        "Jugador": "Carlos Ram\u00EDrez",
         "Goles": 0,
         "Tarjetas": 0
     },
@@ -5035,7 +5035,7 @@
         "Puesto": "630º",
         "id": "id421",
         "Equipo": "Arsenal",
-        "Jugador": "Pedro García",
+        "Jugador": "Pedro Garc\u00EDa",
         "Goles": 0,
         "Tarjetas": 2
     },
@@ -5043,7 +5043,7 @@
         "Puesto": "631º",
         "id": "id535",
         "Equipo": "Ajax",
-        "Jugador": "Manuel Sánchez",
+        "Jugador": "Manuel S\u00E1nchez",
         "Goles": 0,
         "Tarjetas": 2
     },
@@ -5051,7 +5051,7 @@
         "Puesto": "632º",
         "id": "id491",
         "Equipo": "Manchester United",
-        "Jugador": "Juan Hernández",
+        "Jugador": "Juan Hern\u00E1ndez",
         "Goles": 0,
         "Tarjetas": 3
     },
@@ -5059,7 +5059,7 @@
         "Puesto": "633º",
         "id": "id190",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 0,
         "Tarjetas": 4
     },
@@ -5067,7 +5067,7 @@
         "Puesto": "634º",
         "id": "id192",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Jorge Martínez",
+        "Jugador": "Jorge Mart\u00EDnez",
         "Goles": 0,
         "Tarjetas": 4
     },
@@ -5075,7 +5075,7 @@
         "Puesto": "635º",
         "id": "id251",
         "Equipo": "Sporting CP",
-        "Jugador": "Manuel Hernández",
+        "Jugador": "Manuel Hern\u00E1ndez",
         "Goles": 0,
         "Tarjetas": 4
     },
@@ -5090,8 +5090,8 @@
     {
         "Puesto": "637º",
         "id": "id545",
-        "Equipo": "Atlético de Madrid",
-        "Jugador": "Carlos Rodríguez",
+        "Equipo": "Atl\u00E9tico de Madrid",
+        "Jugador": "Carlos Rodr\u00EDguez",
         "Goles": 0,
         "Tarjetas": 4
     },
@@ -5099,7 +5099,7 @@
         "Puesto": "638º",
         "id": "id49",
         "Equipo": "Fenerbahçe",
-        "Jugador": "Carlos García",
+        "Jugador": "Carlos Garc\u00EDa",
         "Goles": 0,
         "Tarjetas": 5
     },
@@ -5107,7 +5107,7 @@
         "Puesto": "639º",
         "id": "id479",
         "Equipo": "B Dortmund",
-        "Jugador": "Manuel López",
+        "Jugador": "Manuel L\u00F3pez",
         "Goles": 0,
         "Tarjetas": 5
     },
@@ -5115,7 +5115,7 @@
         "Puesto": "640º",
         "id": "id11",
         "Equipo": "O.Maritima",
-        "Jugador": "Miguel Ramírez",
+        "Jugador": "Miguel Ram\u00EDrez",
         "Goles": 0,
         "Tarjetas": 6
     },
@@ -5123,7 +5123,7 @@
         "Puesto": "641º",
         "id": "id45",
         "Equipo": "CSKA Moscow",
-        "Jugador": "Pedro Ramírez",
+        "Jugador": "Pedro Ram\u00EDrez",
         "Goles": 0,
         "Tarjetas": 6
     },
@@ -5147,7 +5147,7 @@
         "Puesto": "644º",
         "id": "id210",
         "Equipo": "D. CORUNA",
-        "Jugador": "Carlos López",
+        "Jugador": "Carlos L\u00F3pez",
         "Goles": 0,
         "Tarjetas": 6
     },
@@ -5163,7 +5163,7 @@
         "Puesto": "646º",
         "id": "id223",
         "Equipo": "D. CORUNA",
-        "Jugador": "Raúl Gómez",
+        "Jugador": "Ra\u00FAl G\u00F3mez",
         "Goles": 0,
         "Tarjetas": 6
     },
@@ -5171,7 +5171,7 @@
         "Puesto": "647º",
         "id": "id261",
         "Equipo": "Barcelona",
-        "Jugador": "Diego Hernández",
+        "Jugador": "Diego Hern\u00E1ndez",
         "Goles": 0,
         "Tarjetas": 6
     },
@@ -5187,7 +5187,7 @@
         "Puesto": "649º",
         "id": "id267",
         "Equipo": "Barcelona",
-        "Jugador": "Manuel Fernández",
+        "Jugador": "Manuel Fern\u00E1ndez",
         "Goles": 0,
         "Tarjetas": 8
     },
@@ -5203,7 +5203,7 @@
         "Puesto": "651º",
         "id": "id426",
         "Equipo": "Arsenal",
-        "Jugador": "Jorge Díaz",
+        "Jugador": "Jorge D\u00EDaz",
         "Goles": 0,
         "Tarjetas": 8
     },
@@ -5211,7 +5211,7 @@
         "Puesto": "652º",
         "id": "id601",
         "Equipo": "Sevilla",
-        "Jugador": "Carlos Pérez",
+        "Jugador": "Carlos P\u00E9rez",
         "Goles": 0,
         "Tarjetas": 8
     },
@@ -5219,7 +5219,7 @@
         "Puesto": "653º",
         "id": "id178",
         "Equipo": "SPORTING LISBOA",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 0,
         "Tarjetas": 9
     },
@@ -5227,7 +5227,7 @@
         "Puesto": "654º",
         "id": "id591",
         "Equipo": "Galatasaray",
-        "Jugador": "Raúl Díaz",
+        "Jugador": "Ra\u00FAl D\u00EDaz",
         "Goles": 0,
         "Tarjetas": 9
     },
@@ -5243,7 +5243,7 @@
         "Puesto": "656º",
         "id": "id571",
         "Equipo": "HARIA",
-        "Jugador": "Francisco Gómez",
+        "Jugador": "Francisco G\u00F3mez",
         "Goles": 0,
         "Tarjetas": 10
     }
