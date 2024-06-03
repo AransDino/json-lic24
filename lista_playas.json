@@ -1,0 +1,50 @@
+{"teams": [
+    {
+        "Playa": "Playa de los Pocillos",
+        "Municipio": "T\u00EDas",
+        "Caracter\u00EDsticas": "Playa de arena dorada, aguas tranquilas y poco viento. Cuenta con todo tipo de comodidades, incluyendo un paseo mar\u00EDtimo con amplias zonas comerciales y de ocio1.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    },
+    {
+        "Playa": "Playa Grande",
+        "Municipio": "T\u00EDas",
+        "Caracter\u00EDsticas": "Ubicada en Puerto del Carmen, esta playa est\u00E1 cerca de varias atracciones principales, bares, restaurantes y tiendas2.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    },
+    {
+        "Playa": "Playa Del Reducto",
+        "Municipio": "Arrecife",
+        "Caracter\u00EDsticas": "Esta playa se encuentra en una ubicaci\u00F3n privilegiada en Arrecife, ofreciendo una experiencia \u00FAnica que combina arte, m\u00FAsica, teatro y diversi\u00F3n al aire libre3.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    },
+    {
+        "Playa": "Playa del Papagayo",
+        "Municipio": "Yaiza",
+        "Caracter\u00EDsticas": "Esta es la playa m\u00E1s conocida de Lanzarote, situada en el Monumento Natural de Los Ajaches. Es una playa virgen de origen volc\u00E1nico con aguas completamente transparentes45.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    },
+    {
+        "Playa": "Playa Calet\u00F3n Blanco",
+        "Municipio": "Har\u00EDa",
+        "Caracter\u00EDsticas": "Esta playa es famosa por su arena blanca y sus piscinas naturales formadas por rocas volc\u00E1nicas6.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    },
+    {
+        "Playa": "Playa de Famara",
+        "Municipio": "Teguise",
+        "Caracter\u00EDsticas": "Conocida por ser un para\u00EDso para los surfistas debido a sus fuertes vientos y olas grandes4.",
+        "foto1": "images.png",
+        "foto2": "images.png",
+        "foto3": "images.png"
+    }
+]}
