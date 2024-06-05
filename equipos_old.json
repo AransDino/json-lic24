@@ -1,0 +1,506 @@
+{"teams": [
+    {
+        "EQUIPOS": "Real Madrid",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "Real Madrid.pmg"
+    },
+    {
+        "EQUIPOS": "Barcelona",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "Barcelona.pmg"
+    },
+    {
+        "EQUIPOS": "Atletico Madrid",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "Atletico Madrid.pmg"
+    },
+    {
+        "EQUIPOS": "Sevilla",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "Sevilla.pmg"
+    },
+    {
+        "EQUIPOS": "O.Maritima",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "O.Maritima.pmg"
+    },
+    {
+        "EQUIPOS": "U.D Las Palmas",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "ARRECIFE",
+        "logo": "U.D Las Palmas.pmg"
+    },
+    {
+        "EQUIPOS": "Manchester United",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "Manchester United.pmg"
+    },
+    {
+        "EQUIPOS": "Liverpool",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "Liverpool.pmg"
+    },
+    {
+        "EQUIPOS": "Manchester City",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "Manchester City.pmg"
+    },
+    {
+        "EQUIPOS": "Chelsea",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "Chelsea.pmg"
+    },
+    {
+        "EQUIPOS": "U.D Lanzarote",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "U.D Lanzarote.pmg"
+    },
+    {
+        "EQUIPOS": "Hurac\u00E1n",
+        "CATEGORIA": "Alevin",
+        "SEDE": "ARRECIFE",
+        "logo": "Hurac\u00E1n.pmg"
+    },
+    {
+        "EQUIPOS": "Sporting CP",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "Sporting CP.pmg"
+    },
+    {
+        "EQUIPOS": "Ajax",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "Ajax.pmg"
+    },
+    {
+        "EQUIPOS": "PSV Eindhoven",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "PSV Eindhoven.pmg"
+    },
+    {
+        "EQUIPOS": "Feyenoord",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "Feyenoord.pmg"
+    },
+    {
+        "EQUIPOS": "D. CORUNA",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "D. CORUNA.pmg"
+    },
+    {
+        "EQUIPOS": "OSASUNA",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TEGUISE",
+        "logo": "OSASUNA.pmg"
+    },
+    {
+        "EQUIPOS": "Celtic",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "Celtic.pmg"
+    },
+    {
+        "EQUIPOS": "Rangers",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "Rangers.pmg"
+    },
+    {
+        "EQUIPOS": "Shakhtar Donetsk",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "Shakhtar Donetsk.pmg"
+    },
+    {
+        "EQUIPOS": "Dynamo Kyiv",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "Dynamo Kyiv.pmg"
+    },
+    {
+        "EQUIPOS": "LANZAROTE",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "LANZAROTE.pmg"
+    },
+    {
+        "EQUIPOS": "MARITIMA",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TEGUISE",
+        "logo": "MARITIMA.pmg"
+    },
+    {
+        "EQUIPOS": "Bayer Leverkusen",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "Bayer Leverkusen.pmg"
+    },
+    {
+        "EQUIPOS": "Juventus",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "Juventus.pmg"
+    },
+    {
+        "EQUIPOS": "AC Milan",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "AC Milan.pmg"
+    },
+    {
+        "EQUIPOS": "Inter Milan",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "Inter Milan.pmg"
+    },
+    {
+        "EQUIPOS": "Napoli",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "Napoli.pmg"
+    },
+    {
+        "EQUIPOS": "Roma",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TIAS",
+        "logo": "Roma.pmg"
+    },
+    {
+        "EQUIPOS": "Oporto",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Oporto.pmg"
+    },
+    {
+        "EQUIPOS": "Tenerife",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Tenerife.pmg"
+    },
+    {
+        "EQUIPOS": "Lyon",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Lyon.pmg"
+    },
+    {
+        "EQUIPOS": "Monaco",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Monaco.pmg"
+    },
+    {
+        "EQUIPOS": "Benfica",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Benfica.pmg"
+    },
+    {
+        "EQUIPOS": "Sporting Tias",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TIAS",
+        "logo": "Sporting Tias.pmg"
+    },
+    {
+        "EQUIPOS": "Z. Saint Petersburg",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "Z. Saint Petersburg.pmg"
+    },
+    {
+        "EQUIPOS": "CSKA Moscow",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "CSKA Moscow.pmg"
+    },
+    {
+        "EQUIPOS": "Galatasaray",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "Galatasaray.pmg"
+    },
+    {
+        "EQUIPOS": "Fenerbahce",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "Fenerbahce.pmg"
+    },
+    {
+        "EQUIPOS": "Olympiacos",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "Olympiacos.pmg"
+    },
+    {
+        "EQUIPOS": "Haria C.F",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "HARIA",
+        "logo": "Haria C.F.pmg"
+    },
+    {
+        "EQUIPOS": 0,
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "0.pmg"
+    },
+    {
+        "EQUIPOS": "Galatasaray",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Galatasaray.pmg"
+    },
+    {
+        "EQUIPOS": "Sevilla",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Sevilla.pmg"
+    },
+    {
+        "EQUIPOS": "Haria C.F",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Haria C.F.pmg"
+    },
+    {
+        "EQUIPOS": "Liverpool",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "Liverpool.pmg"
+    },
+    {
+        "EQUIPOS": "OSASUNA",
+        "CATEGORIA": "Alevin",
+        "SEDE": "HARIA",
+        "logo": "OSASUNA.pmg"
+    },
+    {
+        "EQUIPOS": "Manchester United",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Manchester United.pmg"
+    },
+    {
+        "EQUIPOS": "Liverpool",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Liverpool.pmg"
+    },
+    {
+        "EQUIPOS": "Manchester City",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Manchester City.pmg"
+    },
+    {
+        "EQUIPOS": "Chelsea",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Chelsea.pmg"
+    },
+    {
+        "EQUIPOS": "Villareal",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Villareal.pmg"
+    },
+    {
+        "EQUIPOS": "Tottenham",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Tottenham.pmg"
+    },
+    {
+        "EQUIPOS": "Bayern Munich",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Bayern Munich.pmg"
+    },
+    {
+        "EQUIPOS": "Borussia Dortmund",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Borussia Dortmund.pmg"
+    },
+    {
+        "EQUIPOS": "San Bartolome",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "San Bartolome.pmg"
+    },
+    {
+        "EQUIPOS": "Bayer Leverkusen",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Bayer Leverkusen.pmg"
+    },
+    {
+        "EQUIPOS": "Juventus",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "Juventus.pmg"
+    },
+    {
+        "EQUIPOS": "AC Milan",
+        "CATEGORIA": "Alevin",
+        "SEDE": "SAN BARTOLOME",
+        "logo": "AC Milan.pmg"
+    },
+    {
+        "EQUIPOS": "Ud. Guadalajara",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Ud. Guadalajara.pmg"
+    },
+    {
+        "EQUIPOS": "Granada",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Granada.pmg"
+    },
+    {
+        "EQUIPOS": "Almeria",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Almeria.pmg"
+    },
+    {
+        "EQUIPOS": "Sporting lisboa",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Sporting lisboa.pmg"
+    },
+    {
+        "EQUIPOS": "Yaiza",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Yaiza.pmg"
+    },
+    {
+        "EQUIPOS": "Britong",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "YAIZA",
+        "logo": "Britong.pmg"
+    },
+    {
+        "EQUIPOS": "Inter Milan",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "Inter Milan.pmg"
+    },
+    {
+        "EQUIPOS": "Napoli",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "Napoli.pmg"
+    },
+    {
+        "EQUIPOS": "Roma",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "Roma.pmg"
+    },
+    {
+        "EQUIPOS": "PSG",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "PSG.pmg"
+    },
+    {
+        "EQUIPOS": "O. de Marseille",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "O. de Marseille.pmg"
+    },
+    {
+        "EQUIPOS": "Lyon",
+        "CATEGORIA": "Alevin",
+        "SEDE": "YAIZA",
+        "logo": "Lyon.pmg"
+    },
+    {
+        "EQUIPOS": "Arsenal",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "Arsenal.pmg"
+    },
+    {
+        "EQUIPOS": "Tottenham",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "Tottenham.pmg"
+    },
+    {
+        "EQUIPOS": "Bayern Munich",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "Bayern Munich.pmg"
+    },
+    {
+        "EQUIPOS": "B Dortmund",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "B Dortmund.pmg"
+    },
+    {
+        "EQUIPOS": "Celtic",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "Celtic.pmg"
+    },
+    {
+        "EQUIPOS": "Rangers",
+        "CATEGORIA": "Benjamin",
+        "SEDE": "TINAJO",
+        "logo": "Rangers.pmg"
+    },
+    {
+        "EQUIPOS": "Tottenham",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "Tottenham.pmg"
+    },
+    {
+        "EQUIPOS": "Bayern Munich",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "Bayern Munich.pmg"
+    },
+    {
+        "EQUIPOS": "Borussia Dortmund",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "Borussia Dortmund.pmg"
+    },
+    {
+        "EQUIPOS": "C.D Tinajo",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "C.D Tinajo.pmg"
+    },
+    {
+        "EQUIPOS": "Shakhtar Donetsk",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "Shakhtar Donetsk.pmg"
+    },
+    {
+        "EQUIPOS": "Dynamo Kyiv",
+        "CATEGORIA": "Alevin",
+        "SEDE": "TINAJO",
+        "logo": "Dynamo Kyiv.pmg"
+    }
+]}
