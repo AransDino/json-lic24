@@ -81,8 +81,8 @@
         "Equipo": "Barcelona",
         "PUNTOS": 10,
         "G-A FAVOR": 18,
-        "G-ENCONTRA": 15,
-        "DIF-GOLES": 3,
+        "G-ENCONTRA": 16,
+        "DIF-GOLES": 2,
         "T-AMARILLA": 3,
         "T.ROJA": 3,
         "Sede": "Arrecife"
@@ -113,9 +113,9 @@
         "Puesto": "11º",
         "Equipo": "Real Madrid",
         "PUNTOS": 9,
-        "G-A FAVOR": 9,
+        "G-A FAVOR": 10,
         "G-ENCONTRA": 6,
-        "DIF-GOLES": 3,
+        "DIF-GOLES": 4,
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Arrecife"
