@@ -56,17 +56,6 @@
     },
     {
         "Puesto": "6º",
-        "Equipo": "O.Maritima",
-        "PUNTOS": 10,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 8,
-        "DIF-GOLES": 7,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "7º",
         "Equipo": "Celtic",
         "PUNTOS": 10,
         "G-A FAVOR": 15,
@@ -77,7 +66,29 @@
         "Sede": "Tinajo"
     },
     {
+        "Puesto": "7º",
+        "Equipo": "Atletico Madrid",
+        "PUNTOS": 10,
+        "G-A FAVOR": 16,
+        "G-ENCONTRA": 10,
+        "DIF-GOLES": 6,
+        "T-AMARILLA": 1,
+        "T.ROJA": 4,
+        "Sede": "Arrecife"
+    },
+    {
         "Puesto": "8º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 10,
+        "G-A FAVOR": 18,
+        "G-ENCONTRA": 15,
+        "DIF-GOLES": 3,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3,
+        "Sede": "Arrecife"
+    },
+    {
+        "Puesto": "9º",
         "Equipo": "Bayer Leverkusen",
         "PUNTOS": 9,
         "G-A FAVOR": 20,
@@ -88,7 +99,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "9º",
+        "Puesto": "10º",
         "Equipo": "Manchester City",
         "PUNTOS": 9,
         "G-A FAVOR": 12,
@@ -99,18 +110,18 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "10º",
-        "Equipo": "Barcelona",
+        "Puesto": "11º",
+        "Equipo": "Real Madrid",
         "PUNTOS": 9,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 12,
+        "G-A FAVOR": 9,
+        "G-ENCONTRA": 6,
         "DIF-GOLES": 3,
         "T-AMARILLA": 3,
-        "T.ROJA": 3,
+        "T.ROJA": 1,
         "Sede": "Arrecife"
     },
     {
-        "Puesto": "11º",
+        "Puesto": "12º",
         "Equipo": "Olympiacos",
         "PUNTOS": 9,
         "G-A FAVOR": 12,
@@ -121,7 +132,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "12º",
+        "Puesto": "13º",
         "Equipo": "Sporting lisboa",
         "PUNTOS": 9,
         "G-A FAVOR": 10,
@@ -132,7 +143,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "13º",
+        "Puesto": "14º",
         "Equipo": "AC Milan",
         "PUNTOS": 9,
         "G-A FAVOR": 10,
@@ -143,7 +154,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "14º",
+        "Puesto": "15º",
         "Equipo": "Chelsea",
         "PUNTOS": 8,
         "G-A FAVOR": 16,
@@ -154,7 +165,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "15º",
+        "Puesto": "16º",
         "Equipo": "Ajax",
         "PUNTOS": 8,
         "G-A FAVOR": 15,
@@ -165,7 +176,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "16º",
+        "Puesto": "17º",
         "Equipo": "Ud. Guadalajara",
         "PUNTOS": 7,
         "G-A FAVOR": 17,
@@ -176,7 +187,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "17º",
+        "Puesto": "18º",
         "Equipo": "Napoli",
         "PUNTOS": 7,
         "G-A FAVOR": 20,
@@ -187,7 +198,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "18º",
+        "Puesto": "19º",
         "Equipo": "Sporting CP",
         "PUNTOS": 7,
         "G-A FAVOR": 10,
@@ -198,7 +209,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "19º",
+        "Puesto": "20º",
         "Equipo": "B Dortmund",
         "PUNTOS": 7,
         "G-A FAVOR": 15,
@@ -209,18 +220,18 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "20º",
-        "Equipo": "Sevilla",
+        "Puesto": "21º",
+        "Equipo": "U.D Las Palmas",
         "PUNTOS": 7,
-        "G-A FAVOR": 15,
-        "G-ENCONTRA": 15,
-        "DIF-GOLES": 0,
-        "T-AMARILLA": 3,
-        "T.ROJA": 2,
+        "G-A FAVOR": 13,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 1,
+        "T.ROJA": 1,
         "Sede": "Arrecife"
     },
     {
-        "Puesto": "21º",
+        "Puesto": "22º",
         "Equipo": "Juventus",
         "PUNTOS": 7,
         "G-A FAVOR": 11,
@@ -231,7 +242,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "22º",
+        "Puesto": "23º",
         "Equipo": "Arsenal",
         "PUNTOS": 7,
         "G-A FAVOR": 12,
@@ -242,7 +253,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "23º",
+        "Puesto": "24º",
         "Equipo": "Z. Saint Petersburg",
         "PUNTOS": 6,
         "G-A FAVOR": 13,
@@ -253,7 +264,7 @@
         "Sede": "Haria"
     },
     {
-        "Puesto": "24º",
+        "Puesto": "25º",
         "Equipo": "Inter Milan",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -264,7 +275,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "25º",
+        "Puesto": "26º",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 15,
@@ -275,7 +286,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "26º",
+        "Puesto": "27º",
         "Equipo": "Bayern Munich",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -286,29 +297,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "27º",
-        "Equipo": "Atletico Madrid",
-        "PUNTOS": 6,
-        "G-A FAVOR": 11,
-        "G-ENCONTRA": 12,
-        "DIF-GOLES": -1,
-        "T-AMARILLA": 1,
-        "T.ROJA": 4,
-        "Sede": "Arrecife"
-    },
-    {
         "Puesto": "28º",
-        "Equipo": "U.D Las Palmas",
-        "PUNTOS": 6,
-        "G-A FAVOR": 11,
-        "G-ENCONTRA": 13,
-        "DIF-GOLES": -2,
-        "T-AMARILLA": 1,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "29º",
         "Equipo": "Rangers",
         "PUNTOS": 6,
         "G-A FAVOR": 11,
@@ -319,7 +308,7 @@
         "Sede": "Tinajo"
     },
     {
-        "Puesto": "30º",
+        "Puesto": "29º",
         "Equipo": "Almeria",
         "PUNTOS": 6,
         "G-A FAVOR": 10,
@@ -330,7 +319,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "31º",
+        "Puesto": "30º",
         "Equipo": "Tottenham",
         "PUNTOS": 6,
         "G-A FAVOR": 8,
@@ -341,7 +330,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "32º",
+        "Puesto": "31º",
         "Equipo": "Roma",
         "PUNTOS": 6,
         "G-A FAVOR": 9,
@@ -352,7 +341,7 @@
         "Sede": "Tias"
     },
     {
-        "Puesto": "33º",
+        "Puesto": "32º",
         "Equipo": "Manchester United",
         "PUNTOS": 5,
         "G-A FAVOR": 10,
@@ -363,7 +352,7 @@
         "Sede": "San bartolome"
     },
     {
-        "Puesto": "34º",
+        "Puesto": "33º",
         "Equipo": "Granada",
         "PUNTOS": 5,
         "G-A FAVOR": 12,
@@ -374,7 +363,7 @@
         "Sede": "Yaiza"
     },
     {
-        "Puesto": "35º",
+        "Puesto": "34º",
         "Equipo": "OSASUNA",
         "PUNTOS": 5,
         "G-A FAVOR": 15,
@@ -385,7 +374,7 @@
         "Sede": "Teguise"
     },
     {
-        "Puesto": "36º",
+        "Puesto": "35º",
         "Equipo": "PSV Eindhoven",
         "PUNTOS": 4,
         "G-A FAVOR": 12,
@@ -394,6 +383,17 @@
         "T-AMARILLA": 3,
         "T.ROJA": 1,
         "Sede": "Teguise"
+    },
+    {
+        "Puesto": "36º",
+        "Equipo": "O.Maritima",
+        "PUNTOS": 4,
+        "G-A FAVOR": 11,
+        "G-ENCONTRA": 17,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "37º",
@@ -408,17 +408,6 @@
     },
     {
         "Puesto": "38º",
-        "Equipo": "Real Madrid",
-        "PUNTOS": 4,
-        "G-A FAVOR": 9,
-        "G-ENCONTRA": 16,
-        "DIF-GOLES": -7,
-        "T-AMARILLA": 3,
-        "T.ROJA": 1,
-        "Sede": "Arrecife"
-    },
-    {
-        "Puesto": "39º",
         "Equipo": "Galatasaray",
         "PUNTOS": 3,
         "G-A FAVOR": 12,
@@ -427,6 +416,17 @@
         "T-AMARILLA": 4,
         "T.ROJA": 2,
         "Sede": "Haria"
+    },
+    {
+        "Puesto": "39º",
+        "Equipo": "Sevilla",
+        "PUNTOS": 3,
+        "G-A FAVOR": 11,
+        "G-ENCONTRA": 16,
+        "DIF-GOLES": -5,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2,
+        "Sede": "Arrecife"
     },
     {
         "Puesto": "40º",
