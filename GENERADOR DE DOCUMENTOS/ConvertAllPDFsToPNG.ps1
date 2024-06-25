@@ -1,40 +1,43 @@
-# Path to ImageMagick executable
+# Ruta al ejecutable de ImageMagick
 $magickPath = "C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"
 
-# Function to convert PDF to PNG and JPG
-function Convert-PDFToImages {
+# Función para convertir PDF a PNG y JPG
+function Convertir-PDFaImagenes {
     param (
-        [string]$pdfPath
+        [string]$rutaPDF
     )
 
-    # Convert to PNG
-    $pngPath = [System.IO.Path]::ChangeExtension($pdfPath, ".png")
-    $commandPNG = "`"$magickPath`" convert `"$pdfPath`" `"$pngPath`""
-    Write-Output "Converting $pdfPath to $pngPath"
-    & cmd.exe /c $commandPNG
+    # Convertir a PNG
+    $rutaPNG = [System.IO.Path]::ChangeExtension($rutaPDF, ".png")
+    $comandoPNG = "`"$magickPath`" convert `"$rutaPDF`" `"$rutaPNG`""
+    Write-Output "Convirtiendo $rutaPDF a $rutaPNG"
+    & cmd.exe /c $comandoPNG
 
-    # Convert to JPG
-    $jpgPath = [System.IO.Path]::ChangeExtension($pdfPath, ".jpg")
-    $commandJPG = "`"$magickPath`" convert `"$pdfPath`" `"$jpgPath`""
-    Write-Output "Converting $pdfPath to $jpgPath"
-    & cmd.exe /c $commandJPG
+    # Incrementar el contador
+    $script:archivosConvertidos++
 }
 
-# Function to process a folder
-function Process-Folder {
+# Función para procesar una carpeta
+function Procesar-Carpeta {
     param (
-        [string]$folderPath
+        [string]$rutaCarpeta
     )
 
-    # Get all PDF files in the current folder and subfolders
-    Get-ChildItem -Path $folderPath -Filter *.pdf -Recurse | ForEach-Object {
-        Convert-PDFToImages -pdfPath $_.FullName
+    # Inicializar el contador
+    $script:archivosConvertidos = 0
+
+    # Obtener todos los archivos PDF en la carpeta actual y subcarpetas
+    Get-ChildItem -Path $rutaCarpeta -Filter *.pdf -Recurse | ForEach-Object {
+        Convertir-PDFaImagenes -rutaPDF $_.FullName
     }
+
+    # Mostrar el número total de archivos convertidos
+    Write-Output "Total de archivos convertidos: $script:archivosConvertidos"
 }
 
-# Main script
-# Specify the root directory
-$rootDir = "C:\Users\ayoze\gitrepositories\TORNEO-LIC-ESTRUCTURA\GENERADOR DE DOCUMENTOS"
+# Script principal
+# Especificar el directorio raíz
+$directorioRaiz = "C:\Users\ayoze\gitrepositories\TORNEO-LIC-ESTRUCTURA\GENERADOR DE DOCUMENTOS"
 
-# Process the root directory
-Process-Folder -folderPath $rootDir
+# Procesar el directorio raíz
+Procesar-Carpeta -rutaCarpeta $directorioRaiz
