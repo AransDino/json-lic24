@@ -37,7 +37,7 @@ function Procesar-Carpeta {
 
 # Script principal
 # Especificar el directorio raíz
-$directorioRaiz = "C:\Users\ayoze\gitrepositories\TORNEO-LIC-ESTRUCTURA\GENERADOR DE DOCUMENTOS"
+$directorioRaiz = "C:\Users\ayoze\gitrepositories\json-lic24\GENERADOR DE DOCUMENTOS"
 
 # Procesar el directorio raíz
 Procesar-Carpeta -rutaCarpeta $directorioRaiz
