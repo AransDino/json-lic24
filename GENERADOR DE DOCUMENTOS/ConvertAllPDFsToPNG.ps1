@@ -41,3 +41,17 @@ $directorioRaiz = "C:\Users\ayoze\gitrepositories\json-lic24\GENERADOR DE DOCUME
 
 # Procesar el directorio raíz
 Procesar-Carpeta -rutaCarpeta $directorioRaiz
+
+# Cambiar al directorio raíz
+Set-Location -Path $directorioRaiz
+
+# Añadir todos los cambios al staging area
+& git add .
+
+# Hacer commit de los cambios
+$fechaHora = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
+$mensajeCommit = "Torneo-$fechaHora"
+& git commit -m $mensajeCommit
+
+# Hacer push de los cambios a la rama main
+& git push origin main
